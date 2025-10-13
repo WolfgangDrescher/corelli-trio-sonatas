@@ -73,6 +73,26 @@ for url in $FILE_URLS; do
 		| awk -v omv="$OMV" '/^!!!ONM/ {print; print "!!!OMV: " omv; next} {print}' \
 		| sed "s/!!!system-decoration:.*/!!!system-decoration: [{s1,s2},s3,s4]/g" \
 		| sed "s/!!!COM:.*/!!!COM: Corelli, Arcangelo/g" \
+		| sed "s/!!!OTL/!!!OPR/g" \
+		| awk '
+/^!!!OMD:/ {
+	n = split($0, a, ":")
+	if (n >= 3) {
+		otl = a[2]
+		omd = a[3]
+		gsub(/^[ \t]+|[ \t]+$/, "", otl)
+		gsub(/^[ \t]+|[ \t]+$/, "", omd)
+		print "!!!OTL: " otl
+		print "!!!OMD: " omd
+	} else {
+		val = a[2]
+		gsub(/^[ \t]+|[ \t]+$/, "", val)
+		print "!!!OMD: " val
+	}
+	next
+}
+{ print }
+' \
 		| echo -ne "$(cat)" \
 		| tee "$KERN_DIR/$kern_file" > /dev/null
 done
