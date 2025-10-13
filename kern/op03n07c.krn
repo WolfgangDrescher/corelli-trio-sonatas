@@ -1,0 +1,168 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 3
+!!!ONM: 7
+!!!OMV: 3
+!!!OMD: Adagio
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*e:	*	*e:	*e:	*e:
+*M3/2	*	*M3/2	*M3/2	*M3/2
+=1	=1	=1	=1	=1
+1E	.	1E	1.r	2b
+.	.	.	.	2e
+2A	.	2A	.	[2cc
+=	=	=	=	=
+1D#X	7	1D#X	1.r	2cc]
+.	6	.	.	2b
+2D#	5	2D#	.	2a
+=	=	=	=	=
+1E	.	1E	2ee	2g
+.	.	.	2b	2f#
+2E	.	2E	[2gg	2e
+=	=	=	=	=
+1AA	7	1AA	2gg]	[1.cc
+.	6	.	2ff#	.
+2AA	5	2AA	2ee	.
+=	=	=	=	=
+1BB	9 #	1BB	1.dd#X	2cc]
+.	8	.	.	2b
+2BB	7	2BB	.	2a
+=	=	=	=	=
+1E	-	1E	2ee	1g
+.	.	.	2b	.
+2E	7 #	2E	2ddni	[2b
+=	=	=	=	=
+1A	9	1A	1cc	2b]
+.	8	.	.	2e
+2A	.	2A	2cc	[2a
+=	=	=	=	=
+2D#X	6 5	2D#X	1b	2a]
+2E	.	2E	.	2g
+[2AA	6 #4|	[2AA	2d#X	2f#
+=	=	=	=	=
+2AA]	7	2AA]	2e	2g
+1BB	5 4	1BB	2.e	1f#
+.	.	.	4d#X	.
+=	=	=	=	=
+2e	.	2e	2e	2e
+2B	#	2B	1r	1r
+[2e	5	[2e	.	.
+=	=	=	=	=
+2e]	4 2	2e]	1.r	2ff#
+2d	6	2d	.	2b
+2B	.	2B	.	[2bb
+=	=	=	=	=
+1c	7	1c	2ee	2bb]
+.	6	.	2a	2aa
+2A	.	2A	[2aa	2cc
+=	=	=	=	=
+1B	7	1B	2aa]	2dd
+.	6	.	2dd	2gg
+2G	.	2G	[2gg	2b
+=	=	=	=	=
+2A	7	2A	2gg]	2cc
+2d	7	2d	2.ff#	2.cc
+2D	.	2D	.	.
+.	.	.	4ff#	4cc
+=	=	=	=	=
+2G	5 4	2G	2gg	2cc
+2GG	3	2GG	[1dd	2b
+2BB	6	2BB	.	2dd
+=	=	=	=	=
+1C	9	1C	2dd]	1ee
+.	8	.	2g	.
+2C	.	2C	2cc	2e
+=	=	=	=	=
+1D	7	1D	1cc	2f#
+.	.	.	.	2d
+2BB	6	2BB	2dd	[2g
+=	=	=	=	=
+2C	6 5	2C	(4cc	2g]
+.	.	.	4b)	.
+1D	3	1D	1a	1f#
+=	=	=	=	=
+1G	6	1G	1g	2ee
+.	.	.	.	2b
+2A	5	2A	2r	[2ee
+=	=	=	=	=
+1B	5 4	1B	2ff#	2ee]
+.	-r3	.	2b	2dd
+2G#X	5	2G#X	[2bb	(4cc
+.	.	.	.	4b)
+=	=	=	=	=
+2A	9	2A	2bb]	1cc
+2C	6	2C	2ee	.
+2D	7 5 n3	2D	2aa	2cc
+=	=	=	=	=
+1E	#	1E	1gg#X	1b
+[2D	7 5 -	[2D	2aa	[2cc
+.	7 5	.	.	.
+=	=	=	=	=
+2D]	7	2D]	2a	2cc]
+1E	5 4	1E	2.a	1b
+.	.	.	4g#X	.
+=	=	=	=	=
+1AA	.	1AA	1.a	2a
+.	.	.	.	2e
+2A	.	2A	.	[2cc
+=	=	=	=	=
+1D#X	7	1D#X	2r	2cc]
+.	6	.	[1ff#	2b
+2D#	.	2D#	.	2a
+=	=	=	=	=
+1E	9	1E	2ff#]	2g
+.	8	.	2b	2f#
+2E	.	2E	[2gg	2e
+=	=	=	=	=
+1AA	7	1AA	2gg]	1cc
+.	6	.	2ff#	.
+2AA	5	2AA	2ee	[2ccc
+=	=	=	=	=
+1BB	9 #	1BB	2dd#X	2ccc]
+.	8	.	2ee	2bb
+2BB	7	2BB	[2ff#	2aa
+=	=	=	=	=
+1E	9	1E	2ff#]	2gg
+.	8	.	2ee	2aa
+2E	7 #	2E	2ddni	[2bb
+=	=	=	=	=
+1A	9	1A	1cc	2bb]
+.	8	.	.	2ee
+2AA	.	2AA	2ccc	2aa
+=	=	=	=	=
+1AA	6 #4|	1AA	1ff#	1dd#X
+2GG	6	2GG	[2gg	[2ee
+=	=	=	=	=
+2AA	7 5	2AA	2gg]	2ee]
+1BB	5 4	1BB	1ff#	2.ee
+.	.	.	.	4dd#X
+=	=	=	=	=
+2E	-	2E	1ee	2ee
+2E	#	2E	.	[1e
+2D	6 #4|	2D	2r	.
+=	=	=	=	=
+2C	6	2C	2r	1.e_
+2C	.	2C	[1e	.
+2BB	#6\	2BB	.	.
+=	=	=	=	=
+2AA	.	2AA	1.e]	1.e]
+2AA	.	2AA	.	.
+2GG	6	2GG	.	.
+=	=	=	=	=
+1FF#	#6\	1FF#	1d#X	1a
+[2EE	.	[2EE	[2e	[2g
+=	=	=	=	=
+2EE]	.	2EE]	2e]	2g]
+1BB	5 4	1BB	2.e	1f#
+.	.	.	4d#X	.
+=	=	=	=	=
+1.EE	.	1.EE	1.e	1.e
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

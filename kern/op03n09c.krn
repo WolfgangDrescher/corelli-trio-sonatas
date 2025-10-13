@@ -1,0 +1,176 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 3
+!!!ONM: 9
+!!!OMV: 3
+!!!OMD: Largo
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[b-e-]	*	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*	*B-:	*B-:	*B-:
+*M3/4	*	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1
+4F	-	4F	4ff	4aa-X
+2C	n	2C	4.een	4.gg
+.	.	.	8ee	8gg
+=	=	=	=	=
+2F	-	2F	2ff	4.aa-X
+.	.	.	.	8bb-
+[4E-	6	[4E-	[4cc	4gg
+=	=	=	=	=
+4E-]	.	4E-]	4cc]	4ccc
+2D-X	7	2D-X	4.cc	4.ff
+.	6	.	.	.
+.	.	.	8b-	8gg
+=	=	=	=	=
+2.C	n	2.C	2.cc	2.een
+=	=	=	=	=
+4A-X	6	4A-X	4cc	4ff
+2AA-X	.	2AA-X	4.ff	4.cc
+.	.	.	8f	8cc
+=	=	=	=	=
+4.BB-	-	4.BB-	4.f	4.dd-X
+8BB-	.	8BB-	8b-	8dd-
+4C	7 n	4C	4b-	4en
+=	=	=	=	=
+4FF	-	4FF	4a-X	4f
+2C	5 4	2C	2g	4.f
+.	n	.	.	.
+.	.	.	.	8en
+=	=	=	=	=
+4FF	-	4FF	2f	4f
+4F	-	4F	.	4a-X
+4G	-r5	4G	4b-	[4dd-X
+=	=	=	=	=
+4A-X	5 -r4	4A-X	2e-	4dd-]
+4AA-X	3	4AA-X	.	4cc
+4BB-	-	4BB-	4dd-X	[4ff
+=	=	=	=	=
+4C	5 4	4C	2g	4ff]
+4c	n	4c	.	4een
+4C	.	4C	4een	[4gg
+=	=	=	=	=
+4F	9 -	4F	2aa-X	4gg]
+4FF	8	4FF	.	4ff
+4F	-	4F	4cc	[4aa-X
+=	=	=	=	=
+2BBn	-7	2BBn	2dd	4aa-]
+.	6	.	.	4gg
+4E-	6	4E-	4gg	4ccc
+=	=	=	=	=
+4F	6 5	4F	8ffL	4cc
+.	.	.	8ee-J	.
+4G	5 4	4G	2dd	4.cc
+4GG	n	4GG	.	.
+.	.	.	.	8bn
+=	=	=	=	=
+4C	.	4C	4cc	4cc
+2c	.	2c	4cc	[2ee-
+.	.	.	4g	.
+=	=	=	=	=
+2.F	7 n	2.F	2.a	4ee-]
+.	.	.	.	4ff
+.	.	.	.	4cc
+=	=	=	=	=
+2.B-	-	2.B-	4r	[2.dd-X
+.	.	.	(8b-L	.
+.	.	.	8a-XJ	.
+.	.	.	8gL	.
+.	.	.	8fJ)	.
+=	=	=	=	=
+2.E-	-r7	2.E-	[2.g	4dd-]
+.	.	.	.	(8ee-L
+.	.	.	.	8dd-XJ
+.	.	.	.	8ccL
+.	.	.	.	8b-J)
+=	=	=	=	=
+2.A-X	7	2.A-X	4g]	[2.cc
+.	6	.	(8a-XL	.
+.	.	.	8gJ	.
+.	.	.	8fL	.
+.	.	.	8e-J)	.
+=	=	=	=	=
+2D-X	7	2D-X	4f	4cc]
+.	6	.	2ff	4.b-
+4Dn	-r5	4Dn	.	.
+.	.	.	.	8a-X
+=	=	=	=	=
+2E-	.	2E-	2b-	4g
+.	.	.	.	4e-
+4C	.	4C	4cc	[4ee-
+=	=	=	=	=
+2F	7 -	2F	4a-X	4ee-]
+.	-r6	.	4f	[2dd-X
+4G	-r5	4G	4b-	.
+=	=	=	=	=
+2A-X	5 -r4	2A-X	2e-	4dd-]
+.	3	.	.	4cc
+4C	-r6	4C	[4a-X	4ee-
+=	=	=	=	=
+4D-X	6 5	4D-X	4a-]	8dd-XL
+.	.	.	.	8ccJ
+2E-	5 4	2E-	4.a-X	2b-
+.	3	.	.	.
+.	.	.	8g	.
+=	=	=	=	=
+4AA-X	.	4AA-X	2a-X	4a-X
+4A-X	6	4A-X	.	[2ff
+4A-	.	4A-	4ff	.
+=	=	=	=	=
+4B-	6 5	4B-	2gg	4ff]
+4c	n	4c	.	2een
+4C	.	4C	4gg	.
+=	=	=	=	=
+4F	-	4F	4aa-X	2ff
+4F	-6	4F	[2dd-X	.
+4D-X	5	4D-X	.	4aa-X
+=	=	=	=	=
+4E-	-7	4E-	4dd-]	2gg
+4E-	nr6	4E-	[2cc	.
+4C	6	4C	.	4ccc
+=	=	=	=	=
+4D-X	7	4D-X	4cc]	2ff
+4D-	6	4D-	[2b-	.
+4BB-	6	4BB-	.	4gg
+=	=	=	=	=
+4C	7 n	4C	4b-]	4een
+4F	-	4F	4a-X	[2cc
+4E-	6	4E-	4g	.
+=	=	=	=	=
+2D-X	7	2D-X	2f	4cc]
+.	.	.	.	4f
+4BB-	6	4BB-	4g	[4b-
+=	=	=	=	=
+2C	7 n	2C	4en	4b-]
+.	.	.	4c	4en
+4A-X	6	4A-X	[4cc	4r
+=	=	=	=	=
+4F	-r6 5	4F	4cc]	2dd-X
+4G	-5	4G	4b-	.
+4A-X	.	4A-X	[4a-X	4cc
+=	=	=	=	=
+4D	6 5	4D	4a-]	2b-
+4En	6 5	4En	4g	.
+4F	-	4F	4f	4a-X
+=	=	=	=	=
+4C	n	4C	2en	2g
+4BB-	4 2	4BB-	.	.
+4AA-X	6	4AA-X	[4f	[4a-X
+=	=	=	=	=
+4BB-	-7 5	4BB-	4f]	4a-]
+2C	5 4	2C	4.f	2g
+.	n	.	8en	.
+=	=	=	=	=
+2F	-	2F	2f	2f
+[4E-	6	[4E-	[4g	[4cc
+=	=	=	=	=
+4E-]	.	4E-]	4g]	4cc]
+2D-X	6	2D-X	2f	2b-
+=	=	=	=	=
+2.C	n	2.C	2.en	2.cc
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

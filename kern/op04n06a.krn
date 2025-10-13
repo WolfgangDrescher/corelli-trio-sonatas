@@ -1,0 +1,65 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 6
+!!!OMV: 1
+!!!OMD: Preludio: Adagio
+**kern	**fb	**kern	**kern
+*part3	*part3	*part2	*part1
+*staff3	*	*staff2	*staff1
+*I"Piano	*	*I"Violin	*I"Violin
+*clefF4	*	*clefG2	*clefG2
+*k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]
+*M4/4	*	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)
+=1	=1	=1	=1
+!	!	!	!LO:TX:a:t=Preludio Adagio
+8EL	.	4.g#	4.b
+8E	.	.	.
+8E	.	.	.
+8EJ	.	8g#	8b
+8D#XL	6	4.f#	8bL
+8D#	.	.	8f#J
+8D#	.	.	[4b
+8G#J	7	8f#	.
+=	=	=	=
+8C#L	7	4.e	8bL]
+8C#	.	.	8eJ
+8C#	6	.	4.a
+8F#J	7	8e	.
+8BBL	7 #	4.d#X	.
+8BB	.	.	(16g#LL
+.	.	.	16f#JJ)
+8BB	6	.	[4g#
+8EJ	7	8b	.
+=	=	=	=
+8AAL	7	4.cc#	8g#L]
+8AA	.	.	8c#
+8A	6	.	8f#
+8AJ	.	8cc#	8eJ
+8AL	#4| 2	4.b	8d#XL
+8A	.	.	8BJ
+8G#	6	.	[4e
+8G#J	.	8b	.
+=	=	=	=
+8F#L	7	4.a	4e]
+8F#	.	.	.
+8BB	7 #	.	4d#X
+8BBJ	.	8a	.
+8EL	5	4.g#	8eL
+8E	.	.	8g#J
+8E	6	.	[4cc#
+8EJ	.	8g#	.
+=	=	=	=
+8D#XL	7	4.f#	8cc#L]
+8D#	.	.	8f#J
+8D#	6	.	2b
+8D#J	.	8f#	.
+4C#	7	2e	.
+4FF#	7 #	.	4a#X
+=	=	=	=
+1BB	#	1d#X	1b
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

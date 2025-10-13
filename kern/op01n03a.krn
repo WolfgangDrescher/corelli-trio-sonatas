@@ -1,0 +1,157 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 3
+!!!OMV: 1
+!!!OMD: Grave
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+2.A	.	2.A	2.cc#	2.ee
+4AA	.	4AA	4cc#	4ee
+=	=	=	=	=
+4BB	#6\	4BB	4b	4dd
+8C#L	6	8C#L	4a	4cc#
+8DJ	.	8DJ	.	.
+4E	#	4E	4g#X	4b
+4C#	6	4C#	[4a	4ee
+=	=	=	=	=
+4BB	7	4BB	4a]	2dd
+4E	7 #	4E	4g#X	.
+4AA	.	4AA	4a	4cc#
+[4A	5	[4A	4cc#	4ee
+=	=	=	=	=
+4A]	#4| 2	4A]	4dd#X	4ff#
+4G#X	6	4G#X	2ee	4bb
+4F#	7	4F#	.	2aa
+4B	7 #	4B	4dd#	.
+=	=	=	=	=
+4E	#	4E	4ee	4gg#X
+2E	5	2E	4e	4g#X
+.	4 2	.	4f#	4a
+[4D	6	[4D	4f#	4b
+=	=	=	=	=
+4D]	#4| 2	4D]	4g#X	4e
+4C#	6	4C#	2a	4ee
+4BB	-	4BB	.	2dd
+4E	7 #	4E	4g#	.
+=	=	=	=	=
+2AA	5	2AA	4a	4cc#
+.	6	.	4r	[4ff#
+2E	9 #	2E	4.gg#X	8ff#]
+.	.	.	.	(16eeLL
+.	.	.	.	16dd#XJJ)
+.	8	.	.	[4ee
+.	.	.	(16ff#LL	.
+.	.	.	16eeJJ)	.
+=	=	=	=	=
+4BB	5 4	4BB	4.ff#	8ee]
+.	.	.	.	(16ddLL
+.	.	.	.	16cc#JJ)
+4B	n3	4B	.	[4dd
+.	.	.	(16eeLL	.
+.	.	.	16ddJJ)	.
+4G#X	6 5	4G#X	4.ee	8dd]
+.	.	.	.	(16cc#LL
+.	.	.	.	16bJJ)
+4A	.	4A	.	[4cc#
+.	.	.	(16ddLL	.
+.	.	.	16cc#JJ)	.
+=	=	=	=	=
+4F#	6 5	4F#	4.dd	8cc#L]
+.	.	.	.	8f#J
+4G#X	5	4G#X	.	[4b
+.	.	.	(16cc#LL	.
+.	.	.	16bJJ)	.
+4A	9	4A	4.cc#	8bL]
+.	.	.	.	8eJ
+4AA	8	4AA	.	[4a
+.	.	.	(16ddLL	.
+.	.	.	16cc#JJ)	.
+=	=	=	=	=
+4E	5 4	4E	4.b	8a]
+.	.	.	.	(16bLL
+.	.	.	.	16aJJ)
+4E#X	5 #	4E#X	.	[4g#X
+.	.	.	(16cc#LL	.
+.	.	.	16bJJ)	.
+4.F#	#9\	4.F#	4.a	8g#]
+.	8	.	.	(16aLL
+.	.	.	.	16g#JJ)
+.	.	.	.	8f#
+8BB	#6\	8BB	(16bLL	(16g#LL
+.	.	.	16aJJ)	16f#JJ)
+=	=	=	=	=
+8C#L	#5\ #	8C#L	8g#XL	8e#XL
+8BBJ	7 5	8BBJ	8aJ	8f#J
+4C#	5 4	4C#	8.g#L	8.f#L
+.	#	.	.	.
+.	.	.	16g#Jk	16e#Jk
+2FF#	.	2FF#	4f#	4f#
+.	.	.	[4ff#	4aa
+=	=	=	=	=
+2C#	#5\ 4	2C#	8ff#]	4.gg#X
+.	.	.	(16eeLL	.
+.	.	.	16ddJJ)	.
+.	3	.	[4ee	.
+.	.	.	.	(16ff#LL
+.	.	.	.	16eeJJ)
+2D	9	2D	8ee]	4.ff#
+.	.	.	(16ddLL	.
+.	.	.	16cc#JJ)	.
+.	8	.	[4dd	.
+.	.	.	.	(16eeLL
+.	.	.	.	16ddJJ)
+=	=	=	=	=
+2AA	5 4	2AA	8dd]	4ee
+.	.	.	(16cc#LL	.
+.	.	.	16bJJ)	.
+.	3	.	8cc#	[4aa
+.	.	.	(16ddLL	.
+.	.	.	16cc#JJ)	.
+2E	5 4	2E	4b	8aa]
+.	.	.	.	(16gg#XLL
+.	.	.	.	16ff#JJ)
+.	#	.	[4ee	8gg#
+.	.	.	.	(16aaLL
+.	.	.	.	16gg#JJ)
+=	=	=	=	=
+2BB	#5\ 4	2BB	8ee]	4.ff#
+.	.	.	(16ddLL	.
+.	.	.	16cc#JJ)	.
+.	3	.	2dd	.
+.	.	.	.	(16bbLL
+.	.	.	.	16aaJJ)
+4E	7 #	4E	.	8gg#XL
+.	.	.	.	8eeJ
+8F#L	5	8F#L	4cc#	[4aa
+8EJ	.	8EJ	.	.
+=	=	=	=	=
+4D	6 5	4D	2b	4aa]
+4E	#	4E	.	4gg#X
+4AA	.	4AA	4a	4aa
+4C#	6	4C#	8r	[4ee
+.	.	.	8e	.
+=	=	=	=	=
+2D	9 5	2D	4.f#	8ee]
+.	.	.	.	(16ddLL
+.	.	.	.	16cc#JJ)
+.	8 6	.	.	2dd
+.	.	.	(16bLL	.
+.	.	.	16aJJ)	.
+2E	7 #	2E	8g#XL	.
+.	.	.	8eJ	.
+.	7 4	.	[4a	4cc#
+=	=	=	=	=
+2EE	5 4	2EE	4a]	2b
+.	#	.	4g#X	.
+2AA	.	2AA	2a	2a
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

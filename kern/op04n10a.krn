@@ -1,0 +1,29 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 10
+!!!OMV: 1
+!!!OMD: Preludio: Adagio
+**kern	**fb	**kern	**kern
+*part3	*part3	*part2	*part1
+*staff3	*	*staff2	*staff1
+*I"Piano	*	*I"Violin	*I"Violin
+*clefF4	*	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)
+=1	=1	=1	=1
+!	!	!	!LO:TX:a:t=Preludio Adagio
+4G	.	4dd	4b
+4r	.	4r	4r
+4F#X	6	4a	4dd
+4r	.	4r	4r
+=	=	=	=
+4E	#6|	4cc#X	4g
+4r	.	4r	4r
+4D	#	4dd	4f#X
+4r	.	4r	4r
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

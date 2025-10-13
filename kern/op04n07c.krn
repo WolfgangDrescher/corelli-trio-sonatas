@@ -1,0 +1,44 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 7
+!!!OMV: 3
+!!!OMD: Grave
+**kern	**fb	**kern	**kern
+*part3	*part3	*part2	*part1
+*staff3	*	*staff2	*staff1
+*I"Piano	*	*I"Violin	*I"Violin
+*clefF4	*	*clefG2	*clefG2
+*k[b-]	*	*k[b-]	*k[b-]
+*M4/4	*	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)
+=1	=1	=1	=1
+!	!	!	!LO:TX:a:t=Grave
+2D	.	2f	2a
+4r	.	4r	4r
+4D	6 4	4g	4b-
+=	=	=	=
+2C#X	6 5	2e	2a
+4r	.	4r	4r
+4d	.	4f	4a
+=	=	=	=
+2c	#4| 2	2f#X	2d
+4r	.	4r	4r
+4B-	6	4g	4dd
+=	=	=	=
+2F#X	6 5	2a	2cc
+4r	.	4r	4r
+4G	.	4d	4b-
+=	=	=	=
+4C#X	6 5	4e	4a
+4r	.	4r	4r
+4D	.	4f	4a
+4r	.	4r	4r
+=	=	=	=
+4BB-	6	4d	4g
+4r	.	4r	4r
+2AA	#	2c#X	2a
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

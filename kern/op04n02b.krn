@@ -1,0 +1,222 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 2
+!!!OMV: 2
+!!!OMD: Allemanda: Allegro
+**kern	**fb	**kern	**kern
+*part3	*part3	*part2	*part1
+*staff3	*	*staff2	*staff1
+*I"Piano	*	*I"Violin	*I"Violin
+*clefF4	*	*clefG2	*clefG2
+*k[b-]	*	*k[b-]	*k[b-]
+*M4/4	*	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)
+=1	=1	=1	=1
+!	!	!	!LO:TX:a:t=Allemanda Allegro
+8r	.	8r	8dd
+=	=	=	=
+8r	.	8r	4gg
+8GL	.	8dd	.
+8G	.	4gg	8r
+8GGJ	.	.	8dd
+8r	.	8r	4gg
+8GL	.	8dd	.
+8G	.	4gg	8r
+8GGJ	.	.	8dd
+=	=	=	=
+8r	.	8r	8ggL
+8DL	#	8ddL	8aa
+8G	.	8b-	8bb-
+8AJ	#6|	8ccJ	8aaJ
+8B-L	6	8ddL	8ggL
+8A	#6|	8cc	8ff#X
+8G	.	8b-	8gg
+8F#XJ	6	8aJ	8ddJ
+=	=	=	=
+8GL	.	(8b-L	8r
+8DJ	#	8aJ)	8ddL
+8r	.	8r	(8ee-X
+8F#X	6	8a	8ddJ)
+8GL	-r6	(8b-L	8r
+8F#XiJ	6	8aJ)	8ddL
+8r	.	8r	(8ee-Xi
+8F#	6	8a	8ddJ)
+=	=	=	=
+8GL	-r6	8b-L	8r
+8F#X	6	8a	8ddL
+8G	.	8b-	8b-
+8E-XJ	6	8gJ	8ccJ
+8DL	#	4f#X	8ddL
+8E-	.	.	8aJ
+8D	.	8r	[4dd
+8CJ	.	8dd	.
+=	=	=	=
+4.BBn	6	4gg	8ddL]
+.	.	.	8dd
+.	.	8r	8gg
+8BB	.	8dd	8ffJ
+8CL	-	4g	8ee-XL
+8D	.	.	8ccJ
+8C	.	8r	[4ee-Xi
+8BB-XJ	.	8cc	.
+=	=	=	=
+4.AA	6 -5	4ff	8ee-L]
+.	.	.	8cc
+.	.	8r	8ff
+8AA	.	8cc	8ee-XJ
+8BB-L	.	4f	8ddL
+8C	.	.	8b-J
+8D	6	8r	[4bb-
+8BB-J	.	8dd	.
+=	=	=	=
+4.F	5 4	4.cc	8bb-L]
+.	.	.	16aaL
+.	.	.	16ggJJ
+.	3	.	4.aa
+8F#X	.	16ddLL	.
+.	.	16ccJJ	.
+8GL	9	4.b-	.
+8A	.	.	8dd
+8B-	6	.	[4gg
+8GJ	.	8b-	.
+=	=	=	=
+4C#X	6 5	4.a	8ggL]
+.	.	.	8aa
+4D	.	.	8ff
+.	.	8aa	8ggJ
+8GGL	-6	4gg	(8ee-XL
+8AA	#	.	8cc#XJ)
+8BB-	5	(8ffL	4dd
+8GGJ	n6 5	8eeniJ)	.
+=	=	=	=
+2AA	6 4	4ff	4.dd
+.	5 #	4ee	.
+.	.	.	8cc#X
+4.D	.	4.dd	4.dd
+=:|!|:	=:|!|:	=:|!|:	=:|!|:
+8B-	.	8r	8b-
+=	=	=	=
+8AL	6	8r	4.ff
+8F	.	8ccL	.
+8B-	.	8dd	.
+8BB-J	.	8b-J	(16ee-XLL
+.	.	.	16ddJJ)
+8FL	.	8aL	4cc
+8FFJ	.	8fJ	.
+8r	.	4cc	8r
+8c	.	.	8cc
+=	=	=	=
+8BnL	6	8r	4.gg
+8G	.	8ddL	.
+8c	-	8ee-X	.
+8CJ	.	8ccJ	(16ffLL
+.	.	.	16ee-XJJ)
+8GL	n	8bnL	4dd
+8GGJ	.	8gJ	.
+8r	.	4dd	8r
+8d	.	.	8dd
+=	=	=	=
+8c#XL	6	8r	4.aa
+8A	.	8eeniL	.
+8d	.	8ff	.
+8DJ	.	8ddJ	(16ggLL
+.	.	.	16ffJJ)
+8AL	#	8cc#XL	4ee
+8AAJ	.	8aJ	.
+8r	.	4dd	8r
+8F	6	.	8aa
+=	=	=	=
+8GL	.	4.dd	8bb-L
+8D	.	.	8ffJ
+8A	5 4	.	4ee
+8AAJ	#	8cc#X	.
+4.D	.	4.dd	8ddL
+.	.	.	8eeJ
+.	.	.	[4ff
+8D	.	(16ddLL	.
+.	.	16ccnJJ)	.
+=	=	=	=
+8GL	7 n	8bn	8ffL]
+8C	-	4cc	8ee-X
+8G	5 4	.	8dd
+8GGJ	n	8bni	8ggJ
+4.C	-	4.cc	8ee-XiL
+.	.	.	8ccJ
+.	.	.	[4ee-Xi
+8C	.	(16ccLL	.
+.	.	16b-XJJ)	.
+=	=	=	=
+8FL	-7	8a	8ee-L]
+8BB-	.	4b-	8dd
+8F	5 4	.	8cc
+8FFJ	3	8a	8ffJ
+4.BB-	.	4.b-	8ddL
+.	.	.	8b-J
+.	.	.	[4bb-
+8B-	.	8dd	.
+=	=	=	=
+4F	5 4	4cc	8bb-L]
+.	3	.	8aa
+4G	9	4b-	8dd
+.	8	.	[8ggJ
+4D	5 4	4a	8ggL]
+.	-r3	.	8ff
+4E-X	9	4g	8b-
+.	8	.	[8ee-XJ
+=	=	=	=
+4BB-	5 4	4f	8ee-L]
+.	3	.	8dd
+4C	9 -	4e-X	8g
+.	8	.	8ccJ
+4D	#	4d	8f#XL
+.	.	.	8aa
+8r	.	8r	(8bb-
+8D	#	8ff#X	8aaJ)
+=	=	=	=
+8GL	.	(8ggL	8r
+8DJ	#	8ff#XJ)	8aaL
+8r	.	8r	(8bb-
+8D	#	8ff#Xi	8aaJ)
+8GL	.	(8ggL	8r
+8DJ	#	8ff#XiJ)	8ddL
+8r	.	8r	(8ee-X
+8G	n	8bn	8ddJ)
+=	=	=	=
+8cL	-	8ccL	8r
+8GJ	n	8bnJ	8ddL
+8r	.	8r	(8ee-X
+8G	n	8b	8ddJ)
+8cL	-	(8ccL	8r
+8GJ	n	8bniJ)	8ddL
+8r	.	8r	(8gg
+8Bn	6	8dd	8ffJ)
+=	=	=	=
+8cL	-	8gL	8ee-X
+8d	#	8f#X	4dd
+8e-X	7	8g	.
+8cJ	.	8ee-XJ	4cc
+8dL	#	8f#Xi	.
+8G	.	4g	8b-
+8d	5 4	.	4a
+8DJ	#	8f#	.
+=	=	=	=
+4.G	.	4g	8gL
+.	.	.	8dd
+.	.	8r	8gg
+8BBn	5	8dd	8ffJ
+8CL	-	8gL	8ee-X
+8D	#	8f#X	4dd
+8E-X	7	8g	.
+8CJ	6	8ee-XJ	8cc
+=	=	=	=
+8DL	7 #	8f#X	8ccL
+8GG	.	4g	8b-J
+8D	5 4	.	4a
+8DDJ	#	8f#Xi	.
+4.GG	.	4.g	4.g
+=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

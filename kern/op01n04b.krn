@@ -1,0 +1,112 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 4
+!!!OMV: 2
+!!!OMD: Adagio
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+1AA	.	1r	2r	(8eeL
+.	.	.	.	8dd)
+.	.	.	.	(8cc
+.	.	.	.	8bJ)
+.	.	.	(8eeL	(8ccL
+.	.	.	8dd)	8b)
+.	.	.	(8cc	(8a
+.	.	.	8bJ)	8g#XJ)
+=	=	=	=	=
+8AL	.	8AL	(8ccL	2a
+8G	.	8G	8b)	.
+8F	.	8F	(8a	.
+8EJ	.	8EJ	8g#XJ)	.
+8FL	.	8FL	2a	(8aaL
+8E	.	8E	.	8gg)
+8D	.	8D	.	(8ff
+8C#XJ	.	8C#XJ	.	8eeJ)
+=	=	=	=	=
+2D	.	2D	(8ddL	2ff
+.	.	.	8cc)	.
+.	.	.	(8b	.
+.	.	.	8aJ)	.
+2E	#	2E	2g#X	(8eeL
+.	.	.	.	8dd)
+.	.	.	.	(8cc
+.	.	.	.	8bJ)
+=	=	=	=	=
+2AA	.	2AA	(8aL	2cc
+.	.	.	8g)	.
+.	.	.	(8f	.
+.	.	.	8eJ)	.
+2D	6	2D	(8ffL	(8ddL
+.	.	.	8ee)	8cc)
+.	.	.	(8dd	(8b
+.	.	.	8ccJ)	8aJ)
+=	=	=	=	=
+8eL	#	8eL	2b	2g#X
+8d	.	8d	.	.
+8c	.	8c	.	.
+8BJ	.	8BJ	.	.
+8AL	.	8AL	(8ccL	2ee
+8G	.	8G	8b)	.
+8F	.	8F	(8a	.
+8EJ	.	8EJ	8g#XJ)	.
+=	=	=	=	=
+8DL	.	8DL	2a	2ff
+8C	.	8C	.	.
+8BB	.	8BB	.	.
+8AAJ	.	8AAJ	.	.
+2GG#X	6	2GG#X	2b	(8eeL
+.	.	.	.	8dd)
+.	.	.	.	(8cc
+.	.	.	.	8bJ)
+=	=	=	=	=
+2AA	-	2AA	(8aaL	4cc
+.	.	.	8gg)	.
+.	#	.	(8ff	4cc#X
+.	.	.	8eeJ)	.
+4D	.	4D	4ff	4dd
+4E	#	4E	[4ee	4g#X
+=	=	=	=	=
+2F	7	2F	4ee]	2a
+.	6	.	4dd	.
+8eL	#	8eL	2ee	2g#X
+8d	.	8d	.	.
+8c	.	8c	.	.
+8BJ	.	8BJ	.	.
+=	=	=	=	=
+8cL	6	8cL	(8eeL	2r
+8B	.	8B	8dd)	.
+8A	.	8A	(8cc	.
+8G#XJ	.	8G#XJ	8bJ)	.
+4A	.	4A	2cc	(8aaL
+.	.	.	.	8gg)
+4AA	.	4AA	.	(8ff
+.	.	.	.	8eeJ)
+=	=	=	=	=
+2D	.	2D	(8aaL	(8ffL
+.	.	.	8gg)	8ee)
+.	.	.	(8ff	(8dd
+.	.	.	8eeJ)	8cc#XJ)
+[2D	6	[2D	(8ffL	(8ddL
+.	.	.	8ee)	8ccn)
+.	.	.	(8dd	(8b
+.	.	.	8ccJ)	8aJ)
+=	=	=	=	=
+4D]	6 #4|	4D]	4b	8g#XL
+.	.	.	.	8eJ
+8CL	6	8CL	4cc	2a
+8DJ	.	8DJ	.	.
+2E	5 4	2E	2b	.
+.	#	.	.	4g#
+=	=	=	=	=
+1AA	.	1AA	1a	1a
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

@@ -1,0 +1,254 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 10
+!!!OMV: 5
+!!!OMD: Tempo di Gavotta: Presto
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M2/2	*	*M2/2	*M2/2	*M2/2
+*met(c|)	*	*met(c|)	*met(c|)	*met(c|)
+=1	=1	=1	=1	=1
+4G	.	4G	4gg	4bb
+4d	#	4d	4ff#X	4aa
+4G	.	4G	4gg	4bb
+4D	#	4D	4ff#	4aa
+=	=	=	=	=
+4E	.	4E	4ee	4gg
+4B	#	4B	4dd#X	4ff#X
+4E	.	4E	4ee	4gg
+4BB	#	4BB	4dd#	4ff#
+=	=	=	=	=
+4E	.	4E	4ee	4gg
+4G	.	4G	4b	4dd
+4C	.	4C	4cc	4ee
+4GG	.	4GG	4b	4dd
+=	=	=	=	=
+2C	6	2C	4a	4cc
+.	.	.	4g	4b
+2D	#	2D	2f#X	4a
+.	.	.	.	4d
+=	=	=	=	=
+4r	.	4r	4r	2.dd
+4D	#	4D	4f#X	.
+2E	7	2E	2g	.
+.	.	.	.	4g
+=	=	=	=	=
+4r	.	4r	4r	2.cc
+4F#X	5	4F#X	4a	.
+2G	5 4	2G	4d	.
+.	3	.	[4dd	4b
+=	=	=	=	=
+2C	9	2C	4dd]	4e
+.	8 6	.	2cc	4a
+4D	7 #	4D	.	4f#X
+4GG	.	4GG	4b	[4g
+=	=	=	=	=
+4D	5 4	4D	2a	4g]
+4DD	#	4DD	.	4f#X
+2GG	.	2GG	2g	2g
+=	=	=	=	=
+2G	.	2G	2dd	4gg
+.	.	.	.	4bb
+2F#X	6	2F#X	2dd	4aa
+.	.	.	.	4dd
+=	=	=	=	=
+2E	7	2E	4dd	4.gg
+.	#6\	.	4cc#X	.
+.	.	.	.	8gg
+2D	4	2D	2dd	4gg
+.	#	.	.	4ff#X
+=	=	=	=	=
+2G	5	2G	4dd	4b
+.	6	.	2gg	4ee
+4A	7 #	4A	.	4cc#X
+4D	#	4D	4ff#X	[4dd
+=	=	=	=	=
+4A	5 4	4A	2ee	4dd]
+4AA	#	4AA	.	4cc#X
+2D	#	2D	2dd	2dd
+=	=	=	=	=
+4r	.	4r	4r	4gg
+4B	6	4B	4dd	4dd
+4c	.	4c	2g	4ee
+4B	6	4B	.	4dd
+=	=	=	=	=
+4r	.	4r	4r	4ee
+4B	6	4B	4dd	4dd
+4c	.	4c	2g	4ee
+4B	6	4B	.	4dd
+=	=	=	=	=
+4r	.	4r	4r	4gg
+4B	6	4B	4dd	4dd
+4c	.	4c	2g	4ee
+4B	6	4B	.	4g
+=	=	=	=	=
+4A	.	4A	4r	2.cc
+4G	4 2	4G	4a	.
+4F#X	6 5	4F#X	4d	.
+4G	.	4G	[4dd	4b
+=	=	=	=	=
+2C	9	2C	4dd]	4e
+.	8 6	.	2cc	4a
+4D	7 #	4D	.	4f#X
+4GG	.	4GG	4b	[4g
+=	=	=	=	=
+4D	5 4	4D	2a	4g]
+4DD	#	4DD	.	4f#X
+2GG	.	2GG	2g	2g
+=	=	=	=	=
+4r	.	4r	4r	4gg
+4B	6	4B	4dd	4dd
+4c	.	4c	2g	4ee
+4B	6	4B	.	4dd
+=	=	=	=	=
+4r	.	4r	4r	4ee
+4B	6	4B	4dd	4dd
+4c	.	4c	2g	4ee
+4B	6	4B	.	4dd
+=	=	=	=	=
+4r	.	4r	4r	4gg
+4B	6	4B	4dd	4dd
+4c	.	4c	2g	4ee
+4B	6	4B	.	4g
+=	=	=	=	=
+4A	.	4A	4r	2.cc
+4G	4 2	4G	4a	.
+4F#X	6 5	4F#X	4d	.
+4G	.	4G	[4dd	4b
+=	=	=	=	=
+2C	9	2C	4dd]	4e
+.	8 6	.	2cc	4a
+4D	7 #	4D	.	4f#X
+4GG	.	4GG	4b	[4g
+=	=	=	=	=
+4D	5 4	4D	2a	4g]
+4DD	#	4DD	.	4f#X
+2GG	.	2GG	2g	2g
+=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:
+4G	6	4G	2r	4bb
+4A	.	4A	.	4ee
+4B	#	4B	4ff#X	4dd#X
+4E	.	4E	4gg	4ee
+=	=	=	=	=
+4G	6	4G	2r	4bb
+4A	.	4A	.	4ee
+4B	#	4B	4ff#X	4dd#X
+4E	.	4E	4gg	4ee
+=	=	=	=	=
+4F#X	6	4F#X	2r	4aa
+4G	.	4G	.	4ddni
+4A	#	4A	4ee	4cc#X
+4D	#	4D	4ff#X	4dd
+=	=	=	=	=
+4F#X	6	4F#X	2r	4aa
+4G	.	4G	.	4dd
+4A	#	4A	4ee	4cc#X
+4D	#	4D	4ff#X	4dd
+=	=	=	=	=
+4d	#	4d	4r	4ff#X
+4D	6	4D	4ff#X	4b
+2E	.	2E	4b	4gg
+.	.	.	4gg	4b
+=	=	=	=	=
+2F#X	#	2F#X	4a#X	4ff#X
+.	.	.	4ff#X	4aa#X
+2G	.	2G	4b	4bb
+.	.	.	[4dd	4b
+=	=	=	=	=
+2D	6 #	2D	4dd]	4ff#X
+.	.	.	8cc#XL	(8eeL
+.	.	.	8bJ	8ddJ)
+2E	#6\ #4\	2E	4a#X	4cc#X
+.	7 5	.	[4b	4dd
+=	=	=	=	=
+2F#X	#5\ 4	2F#X	4b]	2cc#X
+.	#	.	4a#X	.
+2BB	.	2BB	2b	2b
+=	=	=	=	=
+4B	.	4B	4f#X	2.dd
+4A	4 2	4A	4b	.
+4G#X	6 5	4G#X	4e	.
+4A	.	4A	[4ani	[4ccni
+=	=	=	=	=
+4D	7	4D	4a]	4cc]
+4E	#	4E	4g#X	4b
+2AA	.	2AA	2a	4cc
+.	.	.	.	4a
+=	=	=	=	=
+4A	.	4A	4e	2.cc
+4G	4 2	4G	4a	.
+4F#X	6 5	4F#X	4d	.
+4G	.	4G	4dd	4b
+=	=	=	=	=
+2C	6	2C	4.ee	4.a
+.	.	.	8ee	8g
+2D	#	2D	2a	4f#X
+.	.	.	.	4d
+=	=	=	=	=
+4r	.	4r	4r	2.dd
+4D	#	4D	4f#X	.
+2E	7	2E	2g	.
+.	.	.	.	4g
+=	=	=	=	=
+4r	.	4r	4r	2.cc
+4F#X	5	4F#X	4a	.
+2G	5 4	2G	4d	.
+.	3	.	[4dd	4b
+=	=	=	=	=
+2C	9 5	2C	4dd]	4e
+.	8 6	.	2cc	4a
+4D	7 #	4D	.	4f#X
+4GG	.	4GG	4b	[4g
+=	=	=	=	=
+4D	5 4	4D	2a	4g]
+4DD	#	4DD	.	4f#X
+2GG	.	2GG	2g	4g
+.	.	.	.	4ee
+=	=	=	=	=
+4r	.	4r	4r	2dd
+4F#X	6	4F#X	4a	.
+2E	6	2E	2g	4r
+.	.	.	.	4cc
+=	=	=	=	=
+4r	.	4r	4r	2b
+4D	6 #	4D	4f#X	.
+2C	6	2C	2e	4r
+.	.	.	.	4a
+=	=	=	=	=
+4r	.	4r	4r	4g
+4C	.	4C	2cc	4ee
+4D	7 #	4D	.	4f#X
+4GG	.	4GG	4b	[4g
+=	=	=	=	=
+4D	5 4	4D	2a	4g]
+4DD	#	4DD	.	4f#X
+2GG	.	2GG	2g	4g
+.	.	.	.	4ee
+=	=	=	=	=
+4r	.	4r	4r	2dd
+4F#X	6	4F#X	4a	.
+2E	6	2E	2g	4r
+.	.	.	.	4cc
+=	=	=	=	=
+4r	.	4r	4r	2b
+4D	6 #	4D	4f#X	.
+2C	6	2C	2e	4r
+.	.	.	.	4a
+=	=	=	=	=
+4r	.	4r	4r	4g
+4C	.	4C	2cc	4ee
+4D	7 #	4D	.	4f#X
+4GG	.	4GG	4b	[4g
+=	=	=	=	=
+4D	5 4	4D	2a	4g]
+4DD	#	4DD	.	4f#X
+2GG	.	2GG	2g	2g
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

@@ -1,0 +1,59 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 3
+!!!ONM: 10
+!!!OMV: 3
+!!!OMD: Adagio
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M3/2	*	*M3/2	*M3/2	*M3/2
+=1	=1	=1	=1	=1
+2r	.	2r	1.r	2r
+2r	.	2r	.	2r
+2C	.	2C	.	2ee
+=	=	=	=	=
+1D	9	1D	2r	[1.a
+.	.	.	2r	.
+2D	8	2D	2ff	.
+=	=	=	=	=
+1E	5 4	1E	[1.b	2a]
+.	#	.	.	2g#X
+2D	6	2D	.	2bb
+=	=	=	=	=
+1C	7	1C	2b]	[1.ee
+.	6	.	2a	.
+2C	.	2C	2ccc	.
+=	=	=	=	=
+2D	9 #	2D	2ff#X	2ee]
+2E	7 #	2E	2gg#X	2dd
+2F	5	2F	2aa	(4cc
+.	.	.	.	4b)
+=	=	=	=	=
+2D	7 5	2D	2a	2cc
+2E	5 4	2E	2.a	1b
+2EE	#	2EE	.	.
+.	.	.	4g#X	.
+=	=	=	=	=
+1AA	.	1AA	2a	1a
+.	.	.	[1ee	.
+2C	6	2C	.	2ee
+=	=	=	=	=
+2D	9 #	2D	2ee]	2f#X
+2E	7 #	2E	[1dd	2g#X
+2F	5	2F	.	2a
+=	=	=	=	=
+1E	#	1E	1dd]	1g#X
+[2D#X	7 5	[2D#X	[2cc	[2a
+=	=	=	=	=
+2D#]	.	2D#]	2cc]	2a]
+1E	5 4	1E	1b	2.a
+.	#	.	.	4g#X
+=	=	=	=	=
+1.AA	.	1.AA	1.a	1.a
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

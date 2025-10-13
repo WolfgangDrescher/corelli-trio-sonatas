@@ -1,0 +1,160 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 5
+!!!OMV: 3
+!!!OMD: Corrente: Vivace
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M3/4	*	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1
+2.A	.	2.A	4.ee	4.cc
+.	.	.	8dd	8b
+.	.	.	4cc	4a
+=	=	=	=	=
+4G	6	4G	4b	4ee
+2F	6	2F	2a	2aa
+=	=	=	=	=
+2.E	#	2.E	2.ee	2.gg#X
+=	=	=	=	=
+2.A	.	2.A	4.ee	4.ccc
+.	.	.	8dd	8bb
+.	.	.	4cc	4aa
+=	=	=	=	=
+4A	7	4A	4cc	4gg
+2B	5	2B	2dd	2ff
+=	=	=	=	=
+2c	.	2c	2g	4.ee
+.	.	.	.	8ff
+4B	6	4B	4dd	4gg
+=	=	=	=	=
+2A	6	2A	4.cc	4.ff
+.	5 4	.	8dd	8gg
+4G	6	4G	4b	4ee
+=	=	=	=	=
+2F	6	2F	4.a	4.aa
+.	.	.	8b	8aa
+4E	6	4E	4cc	4gg
+=	=	=	=	=
+4F	.	4F	4cc	(8ffL
+.	.	.	.	8eeJ)
+4G	5 4	4G	4.cc	2dd
+4GG	3	4GG	.	.
+.	.	.	8b	.
+=	=	=	=	=
+2.C	.	2.C	2.cc	2.cc
+=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:
+2.c	.	2.c	4.gg	4.ee
+.	.	.	8ff	8ff
+.	.	.	4ee	4gg
+=	=	=	=	=
+4c	.	4c	4ee	4gg
+2c#X	6	2c#X	2ee	2aa
+=	=	=	=	=
+4.d	.	4.d	2.a	4.ff
+8e	#6\	8e	.	8ee
+4f	6	4f	.	4dd
+=	=	=	=	=
+4G	-	4G	4dd	4bb-X
+2A	#	2A	2cc#X	2aa
+=	=	=	=	=
+4.B-X	6	4.B-X	4.dd	4.gg
+8F	6	8F	8dd	8aa
+4G	6 #4|	4G	4ee	4cc#X
+=	=	=	=	=
+4D	.	4D	(8ffL	(8ddL
+.	.	.	8aJ)	8eeJ)
+4A	5 4	4A	4.cc#X	4.ee
+4AA	#	4AA	.	.
+.	.	.	8dd	8dd
+=	=	=	=	=
+4D	.	4D	2.dd	2.dd
+4d	.	4d	.	.
+4c	4 2	4c	.	.
+=	=	=	=	=
+4B	#	4B	2.ff#X	2.dd#X
+4B	.	4B	.	.
+4A	#4| 2	4A	.	.
+=	=	=	=	=
+4.G	6	4.G	2b	4.ee
+8F#X	.	8F#X	.	8ff#X
+4E	.	4E	4bb	4gg
+=	=	=	=	=
+4AA	#6\ 5	4AA	(8aaL	(8ff#XL
+.	.	.	8ggJ)	8eeJ)
+2BB	#	2BB	2ff#X	2dd#X
+=	=	=	=	=
+2.EE	.	2.EE	2.ee	2.ee
+=	=	=	=	=
+2.A	.	2.A	4.ee	4.cc
+.	.	.	8dd	8b
+.	.	.	4cc	4a
+=	=	=	=	=
+4G	6	4G	4b	4ee
+2F	6	2F	2a	2aa
+=	=	=	=	=
+2.E	#	2.E	2.ee	2.gg#X
+=	=	=	=	=
+2.A	.	2.A	4.ee	4.ccc
+.	.	.	8dd	8bb
+.	.	.	4cc	4aa
+=	=	=	=	=
+4A	7	4A	4cc	4gg
+2B	5	2B	2dd	2ff
+=	=	=	=	=
+2c	.	2c	2g	4.ee
+.	.	.	.	8ff
+4B	6	4B	4dd	4gg
+=	=	=	=	=
+2A	6	2A	2cc	4ff
+.	5	.	.	2ee
+4G	6	4G	4b	.
+=	=	=	=	=
+2F	6	2F	2a	4dd
+.	5	.	.	2cc
+4E	6	4E	4g	.
+=	=	=	=	=
+2D	6	2D	2f	4b
+.	5	.	.	2a
+4C	6	4C	4e	.
+=	=	=	=	=
+2BB	#6\	2BB	2d	2g#X
+[4AA	.	[4AA	4c	4ee
+=	=	=	=	=
+4AA]	.	4AA]	4a	(8ddL
+.	.	.	.	8ccJ)
+2E	5 4	2E	4.a	2b
+.	#	.	8g#X	.
+=	=	=	=	=
+2AA	.	2AA	2a	2a
+4C	.	4C	4ee	4aa
+=	=	=	=	=
+2D	.	2D	2a	4ff
+.	.	.	.	2ee
+4E	#	4E	4g#X	.
+=	=	=	=	=
+2F	6	2F	2a	4dd
+.	5	.	.	2cc
+4E	6	4E	4gni	.
+=	=	=	=	=
+2D	6	2D	2f	4b
+.	5	.	.	2a
+4C	6	4C	4e	.
+=	=	=	=	=
+2BB	#6\	2BB	2d	2g#X
+[4AA	.	[4AA	4c	4ee
+=	=	=	=	=
+4AA]	.	4AA]	4a	(8ddL
+.	.	.	.	8ccJ)
+2E	5 4	2E	4.a	2b
+.	#	.	8g#X	.
+=	=	=	=	=
+2.AA	.	2.AA	2.a	2.a
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

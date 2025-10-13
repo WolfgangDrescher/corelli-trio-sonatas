@@ -1,0 +1,153 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 4
+!!!OMV: 1
+!!!OMD: Preludio: Grave
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*	*D:	*D:	*D:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)
+=1	=1	=1	=1	=1
+4.D	.	4.D	4.ff#	4.aa
+8D	.	8D	8ff#	8aa
+4GG	.	4GG	4gg	4bb
+[4D	.	[4D	4ff#	4aa
+=	=	=	=	=
+4D]	4 2	4D]	2ee	2gg
+4C#	5	4C#	.	.
+2D	.	2D	2a	2ff#
+=	=	=	=	=
+1r;	.	1r;	1r;	1r;
+=	=	=	=	=
+4.A	.	4.A	4.cc#	4.ee
+8A	.	8A	8cc#	8ee
+4D	.	4D	4dd	4ff#
+[4A	.	[4A	4cc#	4ee
+=	=	=	=	=
+4A]	4 2	4A]	2b	2dd
+4G#X	5	4G#X	.	.
+2A	.	2A	2e	2cc#
+=	=	=	=	=
+1r;	.	1r;	1r;	1r;
+=	=	=	=	=
+8AL	.	8AL	4r	2ee
+8AA	.	8AA	.	.
+8C#	6	8C#	2ee	.
+8AAJ	.	8AAJ	.	.
+8r	.	8r	.	2ff#
+8DL	9	8DL	.	.
+8F#	6	8F#	[4dd	.
+8DJ	.	8DJ	.	.
+=	=	=	=	=
+8r	.	8r	4dd]	2ee
+8AL	5 4	8AL	.	.
+8c#	6	8c#	2cc#	.
+8AJ	.	8AJ	.	.
+8r	.	8r	.	2dd
+8BL	9	8BL	.	.
+8G#X	5	8G#X	[4b	.
+8EJ	.	8EJ	.	.
+=	=	=	=	=
+8r	.	8r	4b]	4.cc#
+8AL	9	8AL	.	.
+8c#	6	8c#	4a	.
+8C#J	.	8C#J	.	8ee
+8DL	.	8DL	8f#L	4dd
+8E	#	8E	8g#XJ	.
+8F#	5	8F#	[4a	(8cc#L
+8DJ	6 5	8DJ	.	8bJ)
+=	=	=	=	=
+8EL	6 4	8EL	4a]	4cc#
+8D	.	8D	.	.
+8E	5 #	8E	4g#X	4b
+8EEJ	.	8EEJ	.	.
+8AL	.	8AL	4a	4a
+8G	.	8G	.	.
+8F#	6	8F#	4r	[4dd
+8DJ	.	8DJ	.	.
+=	=	=	=	=
+8GL	6 5	8GL	2.ee	4dd]
+8E	.	8E	.	.
+8A	.	8A	.	4cc#
+8AAJ	.	8AAJ	.	.
+8r	.	8r	.	2ff#
+8DL	9	8DL	.	.
+8F#	6	8F#	[4dd	.
+8DJ	.	8DJ	.	.
+=	=	=	=	=
+8r	.	8r	4dd]	2ee
+8AL	5 4	8AL	.	.
+8c#	6	8c#	2cc#	.
+8A#XJ	.	8A#XJ	.	.
+8r	.	8r	.	2dd
+8BL	9	8BL	.	.
+8d	6	8d	[4b	.
+8DJ	.	8DJ	.	.
+=	=	=	=	=
+8EL	6 5	8EL	4b]	2cc#
+8C#	.	8C#	.	.
+8F#	#	8F#	4a#X	.
+8FF#J	.	8FF#J	.	.
+4BB	.	4BB	4b	8bL
+.	.	.	.	8cc#
+8r	.	8r	8r	8dd
+8F#	6	8F#	8an	8ddJ
+=	=	=	=	=
+4G	6	4G	4b	(8eeL
+.	5	.	.	8ddJ)
+4F#	6	4F#	4a	8r
+.	.	.	.	8dd
+4G	6	4G	4b	(8eeL
+.	5	.	.	8ddJ)
+4F#	6	4F#	4a	8r
+.	.	.	.	8dd
+=	=	=	=	=
+4E	6	4E	4cc#	4gg
+4D	.	4D	4dd	4ff#
+4A	.	4A	4cc#	8eeL
+.	.	.	.	8aJ
+8r	.	8r	8r	[4aa
+8F#	.	8F#	8ff#	.
+=	=	=	=	=
+8BL	7	8BL	8ddL	8aaL]
+8BB	.	8BB	8bJ	8ddJ
+8E	7	8E	8r	2gg
+8EEJ	.	8EEJ	8ee	.
+4AA	7	4AA	8cc#L	.
+.	.	.	8aJ	.
+8r	.	8r	8r	4ff#
+8D	.	8D	8aa	.
+=	=	=	=	=
+8GL	.	8GL	4gg	8bL
+8A	.	8A	.	8cc#J
+8B	5	8B	(8ff#L	2dd
+8GJ	6 5	8GJ	8eeJ)	.
+8AL	6 4	8AL	4ff#	.
+8G	.	8G	.	.
+8A	5 3	8A	4ee	4cc#
+8AAJ	.	8AAJ	.	.
+=	=	=	=	=
+8DL	.	8DL	4dd	4dd
+8E	.	8E	.	.
+8F#	6	8F#	4r	4.a
+8DJ	.	8DJ	.	.
+4.G	9	4.G	4.b	.
+.	.	.	.	8d
+.	8	.	.	[4g
+8GG	.	8GG	8b	.
+=	=	=	=	=
+1AA	7	1AA	4c#	4g]
+.	6 4	.	2d	4f#
+.	5 4	.	.	2e
+.	3	.	4c#	.
+=	=	=	=	=
+1DD;	.	1DD;	1d;	1f#;
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

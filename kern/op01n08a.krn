@@ -1,0 +1,106 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 8
+!!!OMV: 1
+!!!OMD: Grave
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*I"violn	*	*I"violn	*I"cello	*I"organ
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[b-e-]	*	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*g:	*	*g:	*g:	*g:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)
+=1	=1	=1	=1	=1
+4c	.	4c	4r	2cc
+4A-X	.	4A-X	2cc	.
+4G	5 4	4G	.	2dd
+4GG	n	4GG	4bn	.
+=	=	=	=	=
+8CL	.	8CL	4cc	2ee-
+8D	.	8D	.	.
+8E-	6	8E-	2cc	.
+8FJ	.	8FJ	.	.
+2G	5 4	2G	.	4dd
+.	n	.	4bn	(8ggL
+.	.	.	.	8ffJ)
+=	=	=	=	=
+4.c	.	4.c	4.cc	(8ee-L
+.	.	.	.	8ffJ)
+.	.	.	.	2gg
+8B-	6	8B-	8dd	.
+2A-X	7	2A-X	2cc	.
+.	6	.	.	4ff
+=	=	=	=	=
+2G	n	2G	2bn	2gg
+2r;	.	2r;	2r;	2r;
+=	=	=	=	=
+4G	-	4G	4r	2gg
+4E-	.	4E-	2gg	.
+4D	5 4	2D	.	2aa
+4DD	#	.	4ff#X	.
+=	=	=	=	=
+8GGL	.	8GGL	4gg	2bb-
+8AA	.	8AA	.	.
+8BB-	6	8BB-	2gg	.
+8CJ	.	8CJ	.	.
+2D	5 4	2D	.	4aa
+.	#	.	4ff#X	(8dddL
+.	.	.	.	8cccJ)
+=	=	=	=	=
+4.G	.	4.G	4.gg	(8bb-L
+.	.	.	.	8cccJ)
+.	.	.	.	2ddd
+8F	6	8F	8aa	.
+2E-	7	2E-	2gg	.
+.	6	.	.	4ccc
+=	=	=	=	=
+2D	#	2D	2ff#X	2ddd
+2F#X	6	2r	2r	4dd
+.	5	.	.	4cc
+=	=	=	=	=
+2G	-	2r	4gg	4b-
+.	7 n	.	4ffni	4bn
+4c	.	4c	4ee-	4cc
+4B-	6 #4|	4B-	4een	4g
+=	=	=	=	=
+4A-X	6	4A-X	4ff	2cc
+4An	-r5	4An	4ee-Xi	.
+4B-	6	4B-	2dd	4gg
+4Bn	5	4Bn	.	4ff
+=	=	=	=	=
+4c	.	4c	4cc	4ee-
+4G	#6\	4G	4b-	4een
+4F	-	4F	4a-X	[2ff
+4BB-Xi	5 -	4BB-Xi	4dd-X	.
+=	=	=	=	=
+2C	5 4	2C	2g	4ff]
+.	n	.	.	4een
+4F	-	4F	4f	4ff
+4En	6	4En	4g	[4cc
+=	=	=	=	=
+4F	-	4F	4a-X	4cc]
+4F#X	6 n	4F#X	4an	(8ddL
+.	.	.	.	8ccJ)
+4G	n	4G	4d	2bn
+4Fn	6 #4|	4Fn	4dd	.
+=	=	=	=	=
+4E-	6	4E-	4g	4cc
+4En	5	4En	4gg	4b-Xi
+4F	-	4F	4cc	4a-X
+4F#X	6 n	4F#X	[4dd	4an
+=	=	=	=	=
+2G	5 n	2G	4dd]	8bnL
+.	.	.	.	8gJ
+.	6 4	.	4ee-	2cc
+2GG	5 4	2GG	2dd	.
+.	n	.	.	4b
+=	=	=	=	=
+1C	.	1C	1cc	1cc
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

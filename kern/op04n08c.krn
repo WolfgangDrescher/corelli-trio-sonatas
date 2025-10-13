@@ -1,0 +1,117 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 8
+!!!OMV: 3
+!!!OMD: Sarabanda: Allegro
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M6/8	*	*M6/8	*M6/8	*M6/8
+=1	=1	=1	=1	=1
+8dL	.	8dL	4.dd	4.ff
+8F	.	8F	.	.
+8DJ	.	8DJ	.	.
+8AL	#	8AL	4.cc#X	4.ee
+8C#X	.	8C#X	.	.
+8AAJ	.	8AAJ	.	.
+=	=	=	=	=
+8DL	.	8DL	4.ff	4.dd
+8F	6	8F	.	.
+8DJ	.	8DJ	.	.
+8AL	#	8AL	4.ee	4.cc#X
+8G	.	8G	.	.
+8AJ	.	8AJ	.	.
+=	=	=	=	=
+8FL	.	8FL	4.ff	4.aa
+8G	.	8G	.	.
+8AJ	.	8AJ	.	.
+8B-XL	.	8B-XL	4.dd	4.ff
+8A	.	8A	.	.
+8B-J	.	8B-J	.	.
+=	=	=	=	=
+8GL	-	8GL	4.dd	4.bb-X
+8F	.	8F	.	.
+8GJ	.	8GJ	.	.
+4.A	#	4.A	4.cc#X	4.aa
+=||	=||	=||	=||	=||
+8AL	#	8AL	4.cc#X	4.ee
+8G	.	8G	.	.
+8AJ	.	8AJ	.	.
+8FL	6	8FL	4.dd	4.ff
+8E	.	8E	.	.
+8DJ	.	8DJ	.	.
+=	=	=	=	=
+8cL	.	8cL	4.ee	4.gg
+8B-X	.	8B-X	.	.
+8cJ	.	8cJ	.	.
+8AL	6	8AL	4.ff	4.aa
+8G	.	8G	.	.
+8FJ	.	8FJ	.	.
+=	=	=	=	=
+8FL	.	8FL	8aaL	8cccL
+8G	.	8G	8gg	8bb-X
+8AJ	.	8AJ	8ffJ	8aaJ
+8CL	.	8CL	8eeL	8ggL
+8BB-X	.	8BB-X	8ff	8aa
+8AAJ	.	8AAJ	8ggJ	8bb-J
+=	=	=	=	=
+8BB-X	7 5	8BB-X	8ff	8aa
+4C	.	4C	4ee	4gg
+4.FF	.	4.FF	4.ff	4.ff
+=	=	=	=	=
+8FL	.	8FL	4.ff	4.aa
+8A	.	8A	.	.
+8FJ	.	8FJ	.	.
+8cL	.	8cL	4.ee	4.gg
+8E	.	8E	.	.
+8CJ	.	8CJ	.	.
+=	=	=	=	=
+8GL	-	8GL	4.gg	4.bb-X
+8B-X	.	8B-X	.	.
+8GJ	.	8GJ	.	.
+8dL	.	8dL	4.ff	4.aa
+8F	.	8F	.	.
+8DJ	.	8DJ	.	.
+=	=	=	=	=
+8GL	9 7 -	8GL	8ffL	8aaL
+8B-X	6	8B-X	8ee	8gg
+8GJ	.	8GJ	8ddJ	8ffJ
+8AL	#	8AL	8cc#XL	8eeL
+8F	6	8F	8dd	8ff
+8DJ	.	8DJ	8eeJ	8ggJ
+=	=	=	=	=
+8GG	7 5	8GG	8dd	8ff
+4AA	#	4AA	4cc#X	4ee
+4.D	.	4.D	4.dd	4.dd
+=	=	=	=	=
+8FL	.	8FL	4.ff	4.aa
+8A	.	8A	.	.
+8FJ	.	8FJ	.	.
+8cL	.	8cL	4.ee	4.gg
+8E	.	8E	.	.
+8CJ	.	8CJ	.	.
+=	=	=	=	=
+8GL	-	8GL	4.gg	4.bb-X
+8B-X	.	8B-X	.	.
+8GJ	.	8GJ	.	.
+8dL	.	8dL	4.ff	4.aa
+8F	.	8F	.	.
+8DJ	.	8DJ	.	.
+=	=	=	=	=
+8GL	9 7	8GL	8ffL	8aaL
+8B-X	6	8B-X	8ee	8gg
+8GJ	.	8GJ	8ddJ	8ffJ
+8AL	#	8AL	8cc#XL	8eeL
+8F	6	8F	8dd	8ff
+8DJ	.	8DJ	8eeJ	8ggJ
+=	=	=	=	=
+8GG	7 5	8GG	8dd	8ff
+4AA	#	4AA	4cc#X	4ee
+4.D	.	4.D	4.dd	4.dd
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

@@ -1,0 +1,173 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da camera
+!!!OPS: 4
+!!!ONM: 7
+!!!OMV: 1
+!!!OMD: Preludio: Largo
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[b-]	*	*k[b-]	*k[b-]	*k[b-]
+*F:	*	*F:	*F:	*F:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)
+=1	=1	=1	=1	=1
+4F	.	4F	4a	4cc
+4E	6	4E	8.gL	16r
+.	.	.	.	16ccLL
+.	.	.	.	16dd
+.	.	.	16ccJk	16eeJJ
+4D	.	4D	8aL	4ff
+.	.	.	8fJ	.
+4AA	6	4AA	[4ff	16r
+.	.	.	.	16ffLL
+.	.	.	.	16gg
+.	.	.	.	16aaJJ
+=	=	=	=	=
+4BB-	6 5	4BB-	4ff]	4gg
+4C	.	4C	4ee	16r
+.	.	.	.	16ggLL
+.	.	.	.	16aa
+.	.	.	.	16bb-JJ
+4F	.	4F	4ff	8aaL
+.	.	.	.	8ff
+4E	6	4E	8r	8ccc
+.	.	.	8gg	8ccJ
+=	=	=	=	=
+4D	7	4D	4aa	8ffL
+.	.	.	.	(16ggL
+.	.	.	.	16aaJJ)
+4G	7 n	4G	4bbn	8.ggL
+.	.	.	.	16ffJk
+4C	.	4C	4ccc	8eeL
+.	.	.	.	8ccJ
+4BB-	6	4BB-	8r	[4gg
+.	.	.	8gg	.
+=	=	=	=	=
+4AA	7	4AA	4.cc	16ggLL]
+.	.	.	.	16cc
+.	.	.	.	16dd
+.	.	.	.	16eeJJ
+4D	7	4D	.	4.ff
+.	.	.	8ff	.
+8GGL	7 n	8GGL	8bn	.
+8C	.	8C	4gg	8eeL
+8FF	9	8FF	.	8a
+8FJ	8 6	8FJ	[8ff	8ddJ
+=	=	=	=	=
+8GL	7 n	8GL	8ffL]	8bnL
+8A	5	8A	8eeJ	8ccJ
+8F	6 5	8F	4dd	8.ccL
+8GJ	n	8GJ	.	.
+.	.	.	.	16bJk
+4C	.	4C	16eeLL	4cc
+.	.	.	16cc	.
+.	.	.	16dd	.
+.	.	.	16eeJJ	.
+4A	6	4A	4ff	16r
+.	.	.	.	16ffLL
+.	.	.	.	16gg
+.	.	.	.	16aaJJ
+=	=	=	=	=
+4B-	6 5	4B-	16r	4dd
+.	.	.	16ggLL	.
+.	.	.	16aa	.
+.	.	.	16bb-JJ	.
+4c	.	4c	4ee	16r
+.	.	.	.	16ggLL
+.	.	.	.	16aa
+.	.	.	.	16bb-XiJJ
+4f	.	4f	16r	4aa
+.	.	.	16ffLL	.
+.	.	.	16aa	.
+.	.	.	16ffJJ	.
+4e	6	4e	8ggL	16r
+.	.	.	.	16ccLL
+.	.	.	[8cccJ	16ee
+.	.	.	.	16ccJJ
+=	=	=	=	=
+4d	7	4d	8ccc]	4ff
+.	6	.	4bb-	.
+4c	7	4c	.	4ee
+.	6	.	8.aaL	.
+4B-	7	4B-	.	16ddLL
+.	.	.	16ddL	16ff
+.	6	.	16ee	16gg
+.	.	.	16ffJJ	16aaJJ
+4G	.	4G	16ggLL	16bb-LL
+.	.	.	16ff	16aa
+.	.	.	16ee	16gg
+.	.	.	16ddJJ	16ffJJ
+=	=	=	=	=
+8AL	#	8AL	8cc#X	8ee
+8F	6	8F	4ff	4aa
+8G	9 7	8G	.	.
+8GGJ	8 6	8GGJ	16eeLL	16ggLL
+.	.	.	16ddJJ	16ffJJ
+8AAL	#	8AAL	8cc#L	8eeL
+8D	.	8D	8ddJ	8ffJ
+8A	5 4	8A	8.ddL	8.eeL
+8AAJ	#	8AAJ	.	.
+.	.	.	16cc#Jk	16eeJk
+=	=	=	=	=
+8dL	.	8dL	4dd	4dd
+8c	.	8c	.	.
+8B-	5	8B-	8r	8r
+8AJ	6	8AJ	8ccni	8ff
+8B-L	6	8B-L	(8ddL	(8ggL
+8A	6	8A	8ccJ)	8ffJ)
+8B-	6	8B-	8r	8r
+8AJ	6	8AJ	8cc	8ff
+=	=	=	=	=
+8B-L	6	8B-L	(8ddL	(8ggL
+8A	6	8A	8ccJ)	8ffJ)
+8B-	6	8B-	8r	8r
+8AJ	6	8AJ	8cc	(16ffLL
+.	.	.	.	16ccJJ)
+8B-L	5	8B-L	4.f	8ddL
+8A	.	8A	.	8cc
+8G	.	8G	.	8b-
+8FJ	.	8FJ	8f	8aJ
+=	=	=	=	=
+8CL	.	8CL	4.e	8gL
+8BB-	.	8BB-	.	8cJ
+8AA	.	8AA	.	4.cc
+8AJ	.	8AJ	8cc	.
+8dL	7	8dL	4.f	.
+8D	.	8D	.	(16b-LL
+.	.	.	.	16aJJ)
+8G	7	8G	.	[4b-
+8GGJ	.	8GGJ	8b-	.
+=	=	=	=	=
+8CL	7	8CL	8e	8b-L]
+8F	5	8F	4cc	8a
+8BB-	9 5	8BB-	.	8d
+8B-J	8 6	8B-J	4b-	8gJ
+8cL	7	8cL	.	8eL
+8F	.	8F	8a	8fJ
+8BB-	6 5	8BB-	4g	8.fL
+8CJ	.	8CJ	.	.
+.	.	.	.	16eJk
+=	=	=	=	=
+8FL	.	8FL	1f	1f
+8B-	.	8B-	.	.
+8A	6	8A	.	.
+8B-J	.	8B-J	.	.
+8FL	.	8FL	.	.
+8B-	.	8B-	.	.
+8A	6	8A	.	.
+8B-J	.	8B-J	.	.
+=	=	=	=	=
+4BB-	4 2	4BB-	4g	4e
+8AAL	6	8AAL	8ccL	2f
+8BB-J	.	8BB-J	8ddJ	.
+2C	6 4	2C	4a	.
+.	5 3	.	4g	4e
+=	=	=	=	=
+1FF	.	1FF	1f	1f
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

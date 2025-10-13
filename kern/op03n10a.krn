@@ -1,0 +1,115 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 3
+!!!ONM: 10
+!!!OMV: 1
+!!!OMD: Vivace
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+4.A	.	4.A	4.cc	4.ee
+16r	.	16r	16r	16r
+16A	.	16A	16cc	16ee
+4.G#X	6	4.G#X	4.b	4.ee
+16r	.	16r	16r	16r
+16A	.	16A	16cc	16ee
+=	=	=	=	=
+4D	7	4D	8.aL	8.ffL
+.	.	.	16aJk	16ffJk
+4Gni	7	4Gni	8.bL	8.ffL
+.	.	.	16ccJk	16eeJk
+4.C	.	4.C	4.cc	4.ee
+16r	.	16r	16r	16r
+16C	.	16C	16ee	16gg
+=	=	=	=	=
+4C	.	4C	4ee	8.ggL
+.	.	.	.	16eeJk
+4C#X	6	4C#X	4ee	8.aaL
+.	.	.	.	16ggJk
+4D	.	4D	4a	4ff
+4E	#	4E	4g#X	[4ee
+=	=	=	=	=
+2F	7	2F	2a	4ee]
+.	6	.	.	4dd
+2E	#	2E	2g#X	2ee
+=	=	=	=	=
+4.c	.	4.c	4.ee	4.gg
+16r	.	16r	16r	16r
+16c	.	16c	16ee	16gg
+4B	#6\	4B	8.ddL	8.gg#XL
+.	.	.	16ddJk	16gg#Jk
+4A	.	4A	8.ccL	8.aaL
+.	.	.	16ccJk	16aaJk
+=	=	=	=	=
+2G#X	6	2G#X	2ee	2bb
+4.A	.	4.A	4.ee	4.ccc
+16r	.	16r	16r	16r
+16A	.	16A	16ee	16aa
+=	=	=	=	=
+4A	#4| 2	4A	8.dd#XL	4bb
+.	.	.	16bJk	.
+8.cL	6	8.cL	8.eeL	8.aaL
+16AJk	7 5	16AJk	16eeJk	16ggJk
+4B	6 4	4B	4.ee	4gg
+4BB	5 #	4BB	.	4ff#X
+.	.	.	8dd#	.
+=	=	=	=	=
+4.E	.	4.E	4.ee	4.ee
+16r	.	16r	16r	16r
+16e	.	16e	16ee	16gg
+2c#X	6 5	2c#X	4ee	8.ggL
+.	.	.	.	16ggJk
+.	.	.	4ee	8.ggL
+.	.	.	.	16ffniJk
+=	=	=	=	=
+4.d	.	4.d	4.a	4.ff
+16r	.	16r	16r	16r
+16d	.	16d	16a	16ff
+2B	6 5	2B	4dd	8.ffL
+.	.	.	.	16ffJk
+.	.	.	4dd	8.ffL
+.	.	.	.	16eeJk
+=	=	=	=	=
+4.c	.	4.c	4.g	4.ee
+16r	.	16r	16r	16r
+16c	.	16c	16cc	16ee
+2G#X	6	2G#X	4b	8.eeL
+.	.	.	.	16ddJk
+.	.	.	4b	8.ccL
+.	.	.	.	16bJk
+=	=	=	=	=
+4A	.	4A	4.e	8ccL
+.	.	.	.	8aJ
+4Gni	6	4Gni	.	4.ee
+.	.	.	8e	.
+4.F	7	4.F	4.a	.
+.	.	.	.	8a
+.	6	.	.	[4dd
+8D	6	8D	8b	.
+=	=	=	=	=
+4E	7 #	4E	4g#X	4dd]
+8r	.	8r	8r	8r
+8A	.	8A	8ee	8cc
+8DL	#	8DL	4dd	8f#XL
+8E	7 #	8E	.	8g#XJ
+8F	5	8F	8ccL	[4a
+8DJ	6 5 n	8DJ	8bJ	.
+=	=	=	=	=
+4E	6 4	4E	4cc	4a]
+4EE	5 #	4EE	4b	4g#X
+4AA	.	4AA	4a	4.a
+4GG	6	4GG	[4ee	.
+.	.	.	.	8ee
+=	=	=	=	=
+2FF	7	2FF	4ee]	2aa
+.	6	.	4dd	.
+2EE	#	2EE	2ee	2gg#X
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

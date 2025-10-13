@@ -1,0 +1,416 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 9
+!!!OMV: 2
+!!!OMD: Adagio - Allegro
+**kern	**fb	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*I"violn	*	*I"violn	*I"cello	*I"organ
+*clefF4	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)
+=1	=1	=1	=1	=1
+[2D	#	[2D	4r	2r
+.	.	.	4dd	.
+2D]	7 5	2D]	4cc	4r
+.	6 4	.	4b	4dd
+=	=	=	=	=
+2.D	7 5	2.D	4a	4cc
+.	6 4	.	4g	4b
+.	5 #	.	4f#X	4a
+4BB	6	4BB	4d	[4dd
+=	=	=	=	=
+2C	9 3	2C	(8eL	4dd]
+.	.	.	16f#XL	.
+.	.	.	16gJJ)	.
+.	8 6	.	8.aL	2cc
+.	.	.	16gJk	.
+2D	7 #	2D	8f#L	.
+.	.	.	8dJ	.
+.	6 4	.	[4g	4b
+=	=	=	=	=
+2DD	5 4	2DD	4g]	2a
+.	#	.	4f#X	.
+2GG	.	2GG	2g	2g
+=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)
+4GG	.	1r	1r	4g
+2G	5	.	.	16r
+.	.	.	.	16gLL
+.	.	.	.	16a
+.	.	.	.	16bJJ
+.	4 2	.	.	8ccL
+.	.	.	.	8bJ
+4F#X	6 5	.	.	8aL
+.	.	.	.	16ddL
+.	.	.	.	16ccJJ
+=	=	=	=	=
+2G	.	1r	1r	8bL
+.	.	.	.	8g
+.	.	.	.	8dd
+.	.	.	.	8bJ
+4.BB	6	.	.	8ggL
+.	.	.	.	8ddJ
+.	.	.	.	8bbL
+8C#X	6	.	.	16aaL
+.	.	.	.	16ggJJ
+=	=	=	=	=
+4D	#	1r	4dd	8ff#XL
+.	.	.	.	8aJ
+4F#X	6	.	16r	2dd
+.	.	.	16ddLL	.
+.	.	.	16ee	.
+.	.	.	16ff#XJJ	.
+4E	7	.	8ggL	.
+.	.	.	8ff#J	.
+4AA	#	.	8eeL	4cc#X
+.	.	.	16aaL	.
+.	.	.	16ggJJ	.
+=	=	=	=	=
+2D	#	1r	8ff#XL	8ddL
+.	.	.	8dd	8a
+.	.	.	8ddd	8ff#X
+.	.	.	8bbJ	8ddJ
+2AA	5	.	8cccL	8eeL
+.	.	.	8aaJ	8ccni
+.	#6\	.	8cccL	8ee
+.	.	.	16dddL	8ff#J
+.	.	.	16cccJJ	.
+=	=	=	=	=
+4GG	.	4GG	8bbL	4.gg
+.	.	.	8ddJ	.
+16r	.	16r	2gg	.
+16GGLL	.	16GGLL	.	.
+16AA	.	16AA	.	8dd
+16BBJJ	.	16BBJJ	.	.
+8CL	5	8CL	.	8eeL
+8BBJ	.	8BBJ	.	8ddJ
+8AAL	#6\	8AAL	4ff#X	8ccL
+16DL	.	16DL	.	(16bL
+16CJJ	.	16CJJ	.	16aJJ)
+=	=	=	=	=
+8BBL	6	8BBL	8ggL	4b
+8GG	.	8GG	8ddJ	.
+8BB	6	8BB	8ggL	4r
+8C#XJ	6	8C#XJ	(16aaL	.
+.	.	.	16ggJJ)	.
+4D	#	4D	8ff#XL	4d
+.	.	.	8aJ	.
+4F#X	6	4F#X	[4dd	16r
+.	.	.	.	16dLL
+.	.	.	.	16e
+.	.	.	.	16f#XJJ
+=	=	=	=	=
+8EL	7	8EL	4dd]	8gL
+16F#XL	.	16F#XL	.	8f#XJ
+16GJJ	.	16GJJ	.	.
+8AL	#	8AL	4cc#X	8eL
+8AAJ	.	8AAJ	.	(16aL
+.	.	.	.	16gJJ)
+4D	#	4D	4dd	8f#L
+.	.	.	.	8dJ
+8r	.	8r	4r	[4dd
+8B	.	8B	.	.
+=	=	=	=	=
+8GL	6 5	8GL	2ee	4dd]
+8EJ	.	8EJ	.	.
+8r	.	8r	.	[4cc
+8A	.	8A	.	.
+8F#XL	6 5	8F#XL	4.dd	8ccL]
+8DJ	.	8DJ	.	8f#XJ
+8r	.	8r	.	[4b
+8G	6	8G	8ee	.
+=	=	=	=	=
+8EL	6 5	8EL	4.cc	8bL]
+8CJ	.	8CJ	.	8eJ
+8r	.	8r	.	[4a
+8F#X	6	8F#X	8dd	.
+8DL	6 5	8DL	4.b	8aL]
+8BBJ	.	8BBJ	.	8dJ
+8r	.	8r	.	[4g
+8E	6	8E	8cc	.
+=	=	=	=	=
+8CL	6 5	8CL	2a	4g]
+8AA	.	8AA	.	.
+8D	#	8D	.	4f#X
+8DDJ	.	8DDJ	.	.
+4GG	.	4GG	4g	16gLL
+.	.	.	.	16dd
+.	.	.	.	16ee
+.	.	.	.	16ff#XJJ
+4BB	6	4BB	16r	8ggL
+.	.	.	16gLL	.
+.	.	.	16a	8ggJ
+.	.	.	16bJJ	.
+=	=	=	=	=
+4AA	7	4AA	8ccL	4gg
+.	.	.	8bJ	.
+4D	7 #	4D	8aL	4ff#X
+.	.	.	16ddL	.
+.	.	.	16ccJJ	.
+4GG	.	4GG	8bL	4gg
+.	.	.	8gJ	.
+4G	6	4G	[4ee	4r
+=	=	=	=	=
+4.F#X	7	4.F#X	8eeL]	4.aa
+.	.	.	8aJ	.
+.	6	.	2dd	.
+8F#	.	8F#	.	(16bbLL
+.	.	.	.	16aaJJ)
+4E	7	4E	.	4.gg
+4AA	7 #	4AA	4cc#X	.
+.	.	.	.	(16aaLL
+.	.	.	.	16ggJJ)
+=	=	=	=	=
+4D	#	4D	4.dd	8ff#XL
+.	.	.	.	8aJ
+16r	.	16r	.	2dd
+16DLL	.	16DLL	.	.
+16E	.	16E	8a	.
+16F#XJJ	.	16F#XJJ	.	.
+8GL	5	8GL	8bL	.
+8F#J	.	8F#J	8aJ	.
+8EL	#6\	8EL	8gL	4cc#X
+16AL	.	16AL	16f#XL	.
+16GJJ	.	16GJJ	16eJJ	.
+=	=	=	=	=
+8F#XL	6	8F#XL	4d	16ddLL
+.	.	.	.	16ff#X
+8DJ	.	8DJ	.	16aa
+.	.	.	.	16ff#JJ
+8r	.	8r	16r	4bb
+.	.	.	16bLL	.
+8D	6	8D	16dd	.
+.	.	.	16bJJ	.
+4C	7	4C	4ee	16r
+.	.	.	.	16eeLL
+.	.	.	.	16gg
+.	.	.	.	16eeJJ
+8r	.	8r	16r	4aa
+.	.	.	16aLL	.
+8C	6	8C	16cc	.
+.	.	.	16aJJ	.
+=	=	=	=	=
+4BB	7	4BB	4dd	16r
+.	.	.	.	16ddLL
+.	.	.	.	16ff#X
+.	.	.	.	16ddJJ
+8r	.	8r	16r	[4gg
+.	.	.	16gLL	.
+8BB	6	8BB	16b	.
+.	.	.	16gJJ	.
+4AA	7	4AA	4cc	8ggL]
+.	.	.	.	(16aaL
+.	.	.	.	16ggJJ)
+4D	7 #	4D	8r	8ff#L
+.	.	.	16ddLL	(16ggL
+.	.	.	16ccJJ	16aaJJ)
+=	=	=	=	=
+4GG	.	4GG	4b	16ggLL
+.	.	.	.	16b
+.	.	.	.	16dd
+.	.	.	.	16bJJ
+8r	.	8r	16r	[4ee
+.	.	.	16eLL	.
+8G	6	8G	16g	.
+.	.	.	16eJJ	.
+4F#X	7	4F#X	4a	8eeL]
+.	.	.	.	(16ff#XL
+.	.	.	.	16eeJJ)
+4BB	7 #	4BB	8r	8.dd#XL
+.	.	.	16bLL	.
+.	.	.	16aJJ	16dd#Jk
+=	=	=	=	=
+4.E	n	4.E	4.g	8eeL
+.	.	.	.	8bJ
+.	.	.	.	[4gg
+8G	6	8G	8b	.
+4.A	7	4.A	4.cc	8ggL]
+.	.	.	.	(16aaL
+.	.	.	.	16ggJJ)
+.	-r6	.	.	[4ffni
+8B	5	8B	8dd	.
+=	=	=	=	=
+4.c	5 4	4.c	4.g	8ffL]
+.	.	.	.	(16ggL
+.	.	.	.	16ffJJ)
+.	3	.	.	2ee
+8G	6	8G	8b	.
+4A	.	4A	(16ccLL	.
+.	.	.	16b)	.
+.	.	.	(16a	.
+.	.	.	16gJJ)	.
+4B	5 4	4B	8.f#XL	8.eeL
+.	#	.	16f#Jk	16dd#XJk
+=	=	=	=	=
+4E	.	4E	8eL	4ee
+.	.	.	8bJ	.
+4G	6	4G	2ee	16r
+.	.	.	.	16eeLL
+.	.	.	.	16ff#X
+.	.	.	.	16ggJJ
+4F#X	7	4F#X	.	8aaL
+.	.	.	.	8ggJ
+4BB	7 #	4BB	4dd#X	8ff#L
+.	.	.	.	(16bbL
+.	.	.	.	16aaJJ)
+=	=	=	=	=
+4E	.	4E	4.ee	8ggL
+.	.	.	.	8eeJ
+8r	.	8r	.	[4ccc
+8E	6	8E	8gg	.
+4D	7 #	4D	4.ff#X	8cccL]
+.	.	.	.	8ff#XJ
+8r	.	8r	.	[4bb
+8D	6	8D	(16ggLL	.
+.	.	.	16ff#JJ)	.
+=	=	=	=	=
+4C	7	4C	4.ee	8bbL]
+.	.	.	.	8eeJ
+8r	.	8r	.	[4aa
+8C	6	8C	(16ff#XLL	.
+.	.	.	16eeJJ)	.
+4BB	7	4BB	4.dd	8aaL]
+.	.	.	.	8ddJ
+8r	.	8r	.	[4gg
+8BB	6	8BB	(16eeLL	.
+.	.	.	16ddJJ)	.
+=	=	=	=	=
+4AA	7	4AA	4cc	8ggL]
+.	.	.	.	(16aaL
+.	.	.	.	16ggJJ)
+4D	7 #	4D	8r	8.ff#XL
+.	.	.	16ddLL	.
+.	.	.	16ccJJ	16ff#Jk
+4GG	.	4GG	8bL	4.gg
+.	.	.	8bJ	.
+8r	.	8r	[4ee	.
+8G	6	8G	.	8bb
+=	=	=	=	=
+4F#X	7	4F#X	8eeL]	4.aa
+.	.	.	8aJ	.
+8r	.	8r	2dd	.
+8F#	6	8F#	.	(16bbLL
+.	.	.	.	16aaJJ)
+4E	7	4E	.	4gg
+4AA	7 #	4AA	4cc#X	8r
+.	.	.	.	16aaLL
+.	.	.	.	16ggJJ
+=	=	=	=	=
+4D	#	4D	4dd	4ff#X
+8r	.	8r	2aa	4r
+8f#X	.	8f#X	.	.
+8dL	6 5	8dL	.	2bb
+8BJ	.	8BJ	.	.
+8r	.	8r	[4gg	.
+8e	.	8e	.	.
+=	=	=	=	=
+8c#XL	6 5	8c#XL	8ggL]	4.aa
+8AJ	.	8AJ	8cc#XJ	.
+8r	.	8r	[4ff#X	.
+8d	6 #	8d	.	(16bbLL
+.	.	.	.	16aaJJ)
+8BL	6 5	8BL	8ff#L]	4.gg
+8GJ	.	8GJ	8bJ	.
+8r	.	8r	[4ee	.
+8c#	6	8c#	.	16aaLL
+.	.	.	.	16ggJJ
+=	=	=	=	=
+8AL	6 5	8AL	8eeL]	4.ff#X
+8F#XJ	.	8F#XJ	8aJ	.
+8r	.	8r	2dd	.
+8B	6	8B	.	(16ggLL
+.	.	.	.	16ff#JJ)
+8GL	6 5	8GL	.	4.ee
+8E	.	8E	.	.
+8A	#	8A	4cc#X	.
+8AAJ	.	8AAJ	.	8ee
+=	=	=	=	=
+4D	#	4D	4.dd	16ff#XLL
+.	.	.	.	16a
+.	.	.	.	16b
+.	.	.	.	16cc#XJJ
+16r	.	16r	.	8ddL
+16DLL	.	16DLL	.	.
+16E	.	16E	8a	8ddJ
+16F#XJJ	.	16F#XJJ	.	.
+8GL	5_	8GL	16bLL	4dd
+.	.	.	16dd	.
+8F#J	.	8F#J	16ee	.
+.	.	.	16ff#XJJ	.
+8EL	#6\_	8EL	8ggL	4cc#
+16AL	.	16AL	8eeJ	.
+16GJJ	.	16GJJ	.	.
+=	=	=	=	=
+8F#XL	6_	8F#XL	4ff#X	8ddL
+8DJ	.	8DJ	.	(16ddL
+.	.	.	.	16ccniJJ)
+2G	5	2G	16r	8bL
+.	.	.	16gLL	.
+.	.	.	16a	(16ccL
+.	.	.	16bJJ	16bJJ)
+.	4 2	.	8ccL	4.a
+.	.	.	8bJ	.
+4F#	6	4F#	8aL	.
+.	.	.	16ddL	8a
+.	.	.	16ccJJ	.
+=	=	=	=	=
+4G	.	4G	8bL	4d
+.	.	.	8gJ	.
+4F#X	6	4F#X	2dd	16r
+.	.	.	.	16ddLL
+.	.	.	.	16ee
+.	.	.	.	16ff#XJJ
+2E	7	2E	.	8ggL
+.	.	.	.	8ff#J
+.	6	.	[4cc	8eeL
+.	.	.	.	16aaL
+.	.	.	.	16ggJJ
+=	=	=	=	=
+4D	7 #	4D	4cc]	8ff#XL
+.	.	.	.	8ddJ
+4E	5	4E	4b	2gg
+4C	6 5	4C	2a	.
+4D	#	4D	.	4ff#
+=	=	=	=	=
+4GG	.	4GG	4g	16ggLL
+.	.	.	.	16b
+.	.	.	.	16dd
+.	.	.	.	16bJJ
+8r	.	8r	16r	4ee
+.	.	.	16eLL	.
+8G	6	8G	16g	.
+.	.	.	16eJJ	.
+4F#X	7	4F#X	4a	16r
+.	.	.	.	16aLL
+.	.	.	.	16cc#X
+.	.	.	.	16aJJ
+8r	.	8r	16r	4dd
+.	.	.	16dLL	.
+8F#	6	8F#	16f#X	.
+.	.	.	16dJJ	.
+=	=	=	=	=
+4E	7	4E	4g	16r
+.	.	.	.	16gLL
+.	.	.	.	16b
+.	.	.	.	16gJJ
+8r	.	8r	16r	2ccni
+.	.	.	16cLL	.
+8E	6	8E	16e	.
+.	.	.	16cJJ	.
+2D	7 #	2D	8f#XL	.
+.	.	.	8dJ	.
+.	6 4	.	[4g	4b
+=	=	=	=	=
+2DD	5 4	2DD	4g]	2a
+.	#	.	4f#X	.
+2GG	.	2GG	2g	2g
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental
