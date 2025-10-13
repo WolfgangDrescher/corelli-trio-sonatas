@@ -65,62 +65,50 @@ for url in $FILE_URLS; do
 		| extractxx -I "**mxhm" \
 		| awk -F'\t' -v OFS='\t' '
 {
-	lines[NR] = $0
-	if ($0 ~ /\*staff/) staff_line = NR
-	# Zähle alle *I" Felder
-	for(i=1;i<=NF;i++){
-		if($i ~ /^\*I"/){
-			indices[++count] = i
-			old_instr[count]=$i
-		}
-	}
+	lines[NR]=$0
+	if($1 ~ /^\*\*kern/) { kern_line=NR; split($0,kern_cols,FS) }
+	if($1 ~ /^\*staff/) { staff_line=NR }
+	if($1 ~ /^\*I"/) { i_line=NR }
 }
 
 END {
-	# Reihenfolge der Ersetzungen abhängig von Anzahl
-	if(count==3){
+	kcount=0
+	for(i=1;i<=length(kern_cols);i++) if(kern_cols[i] ~ /^\*\*kern/) kcount++
+
+	if(kcount==3){
 		repl[1]="*I\"Violone & Organo"
 		repl[2]="*I\"Violino II"
 		repl[3]="*I\"Violino I"
-	} else if(count==4){
+	} else if(kcount==4){
 		repl[1]="*I\"Organo"
 		repl[2]="*I\"Violone"
 		repl[3]="*I\"Violino II"
 		repl[4]="*I\"Violino I"
 	}
 
-	if(count>0){
-		# Ersetzungen auf existierende Zeilen anwenden
-		for(i=1;i<=NR;i++){
-			split(lines[i],cols,FS)
-			ri=1
-			for(j=1;j<=length(cols);j++){
-				if(cols[j] ~ /^\*I"/){
-					cols[j]=repl[ri++]
-				}
-			}
-			print join(cols,OFS)
+	if(i_line){
+		split(lines[i_line], cols, FS)
+		ri=1
+		for(i=1;i<=length(cols);i++){
+			if(kern_cols[i] ~ /^\*\*kern/) cols[i]=repl[ri++]
+			else cols[i]="*"
 		}
-	} else if(staff_line>0){
-		# Keine *I" Zeilen → neue Zeile nach *staff einfügen
-		split(lines[staff_line],staff_cols,FS)
+		lines[i_line]=join(cols,OFS)
+	} else if(staff_line){
+		split(lines[staff_line], staff_cols, FS)
 		n=length(staff_cols)
 		for(i=1;i<=n;i++) new_cols[i]="*"
-
-		if(n==5){
-			new_cols[1]="*I\"Organo"
-			new_cols[3]="*I\"Violone"
-			new_cols[4]="*I\"Violino II"
-			new_cols[5]="*I\"Violino I"
+		ri=1
+		for(i=1;i<=n;i++){
+			if(kern_cols[i] ~ /^\*\*kern/) new_cols[i]=repl[ri++]
 		}
-
-		for(i=1;i<=NR;i++){
-			print lines[i]
-			if(i==staff_line) print join(new_cols,OFS)
-		}
-	} else {
-		for(i=1;i<=NR;i++) print lines[i]
+		# neue Zeile direkt nach *staff einfügen
+		for(i=NR;i>=staff_line+1;i--) lines[i+1]=lines[i]
+		lines[staff_line+1]=join(new_cols,OFS)
+		NR++
 	}
+
+	for(i=1;i<=NR;i++) print lines[i]
 }
 
 function join(a, sep,   s,i){
