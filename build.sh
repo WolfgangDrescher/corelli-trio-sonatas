@@ -63,10 +63,48 @@ for url in $FILE_URLS; do
 		| grep -v "*I'" \
 		| extractxx -I "**recip" \
 		| extractxx -I "**mxhm" \
-		| awk 'BEGIN{r=0} /Keyboard/ && r==0 {sub(/Keyboard/,"Organo"); r=1} {print}' \
-		| awk 'BEGIN{r=0} /StringInstrument/ && r==0 {sub(/StringInstrument/,"Violone"); r=1} {print}' \
-		| awk 'BEGIN{r=0} /StringInstrument/ && r==0 {sub(/StringInstrument/,"Violino II"); r=1} {print}' \
-		| awk 'BEGIN{r=0} /StringInstrument/ && r==0 {sub(/StringInstrument/,"Violino I"); r=1} {print}' \
+		| awk -F'\t' -v OFS='\t' '
+{
+	for(i=1; i<=NF; i++) {
+		if ($i ~ /^\*I"/) {
+			indices[++count] = i
+		}
+	}
+
+	lines[NR] = $0
+}
+
+END {
+	# Setze *I"-Ersetzungen nach Anzahl
+	if(count==3) {
+		repl[1] = "*I\"Violone & Organo"
+		repl[2] = "*I\"Violino II"
+		repl[3] = "*I\"Violino I"
+	} else if(count==4) {
+		repl[1] = "*I\"Organo"
+		repl[2] = "*I\"Violone"
+		repl[3] = "*I\"Violino II"
+		repl[4] = "*I\"Violino I"
+	}
+
+	for (i=1; i<=NR; i++) {
+		split(lines[i], cols, FS)
+		ri = 1
+		for (j=1; j<=length(cols); j++) {
+			if(cols[j] ~ /^\*I"/) {
+				cols[j] = repl[ri++]
+			}
+		}
+		print join(cols, OFS)
+	}
+}
+
+function join(a, sep,   s,i) {
+	s=a[1]
+	for(i=2;i in a;i++) s=s sep a[i]
+	return s
+}
+'  \
 		| awk 'BEGIN{r=0} /OMV/ && r==0 {sub(/OMV/,"OMD"); r=1} {print}' \
 		| awk -v ops="$OPS" '/^!!!OTL/ {print; print "!!!OPS: " ops; next} {print}' \
 		| awk -v onm="$ONM" '/^!!!OPS/ {print; print "!!!ONM: " onm; next} {print}' \
