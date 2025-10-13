@@ -65,46 +65,70 @@ for url in $FILE_URLS; do
 		| extractxx -I "**mxhm" \
 		| awk -F'\t' -v OFS='\t' '
 {
-	for(i=1; i<=NF; i++) {
-		if ($i ~ /^\*I"/) {
+	lines[NR] = $0
+	if ($0 ~ /\*staff/) staff_line = NR
+	# Zähle alle *I" Felder
+	for(i=1;i<=NF;i++){
+		if($i ~ /^\*I"/){
 			indices[++count] = i
+			old_instr[count]=$i
 		}
 	}
-
-	lines[NR] = $0
 }
 
 END {
-	# Setze *I"-Ersetzungen nach Anzahl
-	if(count==3) {
-		repl[1] = "*I\"Violone & Organo"
-		repl[2] = "*I\"Violino II"
-		repl[3] = "*I\"Violino I"
-	} else if(count==4) {
-		repl[1] = "*I\"Organo"
-		repl[2] = "*I\"Violone"
-		repl[3] = "*I\"Violino II"
-		repl[4] = "*I\"Violino I"
+	# Reihenfolge der Ersetzungen abhängig von Anzahl
+	if(count==3){
+		repl[1]="*I\"Violone & Organo"
+		repl[2]="*I\"Violino II"
+		repl[3]="*I\"Violino I"
+	} else if(count==4){
+		repl[1]="*I\"Organo"
+		repl[2]="*I\"Violone"
+		repl[3]="*I\"Violino II"
+		repl[4]="*I\"Violino I"
 	}
 
-	for (i=1; i<=NR; i++) {
-		split(lines[i], cols, FS)
-		ri = 1
-		for (j=1; j<=length(cols); j++) {
-			if(cols[j] ~ /^\*I"/) {
-				cols[j] = repl[ri++]
+	if(count>0){
+		# Ersetzungen auf existierende Zeilen anwenden
+		for(i=1;i<=NR;i++){
+			split(lines[i],cols,FS)
+			ri=1
+			for(j=1;j<=length(cols);j++){
+				if(cols[j] ~ /^\*I"/){
+					cols[j]=repl[ri++]
+				}
 			}
+			print join(cols,OFS)
 		}
-		print join(cols, OFS)
+	} else if(staff_line>0){
+		# Keine *I" Zeilen → neue Zeile nach *staff einfügen
+		split(lines[staff_line],staff_cols,FS)
+		n=length(staff_cols)
+		for(i=1;i<=n;i++) new_cols[i]="*"
+
+		if(n==5){
+			new_cols[1]="*I\"Organo"
+			new_cols[3]="*I\"Violone"
+			new_cols[4]="*I\"Violino II"
+			new_cols[5]="*I\"Violino I"
+		}
+
+		for(i=1;i<=NR;i++){
+			print lines[i]
+			if(i==staff_line) print join(new_cols,OFS)
+		}
+	} else {
+		for(i=1;i<=NR;i++) print lines[i]
 	}
 }
 
-function join(a, sep,   s,i) {
+function join(a, sep,   s,i){
 	s=a[1]
-	for(i=2;i in a;i++) s=s sep a[i]
+	for(i=2;i<=length(a);i++) s=s sep a[i]
 	return s
 }
-'  \
+' \
 		| awk 'BEGIN{r=0} /OMV/ && r==0 {sub(/OMV/,"OMD"); r=1} {print}' \
 		| awk -v ops="$OPS" '/^!!!OTL/ {print; print "!!!OPS: " ops; next} {print}' \
 		| awk -v onm="$ONM" '/^!!!OPS/ {print; print "!!!ONM: " onm; next} {print}' \
