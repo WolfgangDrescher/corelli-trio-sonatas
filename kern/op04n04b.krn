@@ -1,9 +1,10 @@
 !!!COM: Corelli, Arcangelo
-!!!OTL: Sonata da camera
+!!!OPR: Sonata da camera
 !!!OPS: 4
 !!!ONM: 4
 !!!OMV: 2
-!!!OMD: Corrente: Allegro
+!!!OTL: Corrente
+!!!OMD: Allegro
 **kern	**fb	**kern	**kern	**kern
 *part4	*part4	*part3	*part2	*part1
 *staff4	*	*staff3	*staff2	*staff1
