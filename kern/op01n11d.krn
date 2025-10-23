@@ -22,7 +22,7 @@
 8Bn	.	8Bn	.	.
 8c#X	6	8c#X	8r	8r
 8AJ	.	8AJ	8cc#	8ee
-=	=	=	=	=
+=2	=2	=2	=2	=2
 8DL	.	8DL	4dd	4ff
 8E	.	8E	.	.
 8F	6	8F	8r	8r
@@ -31,7 +31,7 @@
 8BB-Xi	.	8BB-Xi	.	.
 8AA	.	8AA	8r	8r
 8GGJ	.	8GGJ	8ee	8gg
-=	=	=	=	=
+=3	=3	=3	=3	=3
 8FFL	.	8FFL	4ff	4aa
 8GG	.	8GG	.	.
 8AA	6	8AA	8r	8r
@@ -40,7 +40,7 @@
 8FF	.	8FF	.	.
 8GG	.	8GG	8r	8r
 8AAJ	.	8AAJ	8ee	8gg
-=	=	=	=	=
+=4	=4	=4	=4	=4
 8BB-L	.	8BB-L	4dd	4.ff
 8AA	.	8AA	.	.
 8GG	6	8GG	8r	.
@@ -51,7 +51,7 @@
 8A	5 4	8A	8.ddL	8.eeL
 8AAJ	#	8AAJ	.	.
 .	.	.	16cc#Jk	16eeJk
-=	=	=	=	=
+=5	=5	=5	=5	=5
 8DL	.	8DL	4dd	4.ff
 8E	.	8E	.	.
 8F	6	8F	8r	.
@@ -60,7 +60,7 @@
 8c	6	8c	.	8aaJ)
 8B-	7	8B-	8r	8r
 8AJ	.	8AJ	8ccni	8aa
-=	=	=	=	=
+=6	=6	=6	=6	=6
 8B-L	7	8B-L	4dd	(8aaL
 8BB-	6	8BB-	.	8ggJ)
 8AA	7	8AA	8r	8r
@@ -69,7 +69,7 @@
 8A	6	8A	.	8ffJ)
 8G	7	8G	8r	8r
 8FJ	3	8FJ	8a	8ff
-=	=	=	=	=
+=7	=7	=7	=7	=7
 8B-L	6 5	8B-L	4g	4.ff
 8G	.	8G	.	.
 8c	5 4	8c	8r	.
@@ -78,7 +78,7 @@
 8G	.	8G	.	.
 8A	6	8A	.	.
 8FJ	.	8FJ	8ff	8aa
-=	=	=	=	=
+=8	=8	=8	=8	=8
 8CL	5	8CL	4.ee	4.gg
 8D	.	8D	.	.
 8E	#6\	8E	.	.
@@ -87,7 +87,7 @@
 8E	.	8E	.	.
 8F	6	8F	8r	.
 8C#J	6	8C#J	8a	8ee
-=	=	=	=	=
+=9	=9	=9	=9	=9
 8DL	.	8DL	4.a	8ddL
 8AA	.	8AA	.	8ccJ
 8E	5 4	8E	.	8.bnL
@@ -97,7 +97,7 @@
 .	.	.	.	8eeJ
 8r	.	8r	.	[4ff
 8AA	6 #	8AA	8cc#X	.
-=	=	=	=	=
+=10	=10	=10	=10	=10
 4.BB-	5	4.BB-	4.dd	8ffL]
 .	.	.	.	8ffJ
 .	6	.	.	[4gg
@@ -106,7 +106,7 @@
 .	.	.	.	8ggJ
 .	6	.	.	[4aa
 8C#X	.	8C#X	8ee	.
-=	=	=	=	=
+=11	=11	=11	=11	=11
 4.D	5	4.D	4.ff	8aaL]
 .	.	.	.	8aa
 .	6	.	.	8bb-
@@ -115,7 +115,7 @@
 8BB-	.	8BB-	.	.
 8C	.	8C	.	.
 8AAJ	.	8AAJ	8cc	8ccc
-=	=	=	=	=
+=12	=12	=12	=12	=12
 8BB-L	9	8BB-L	4dd	(8cccL
 8B-	8	8B-	.	8bb-J)
 8A	.	8A	8r	8r
@@ -124,7 +124,7 @@
 8C	6	8C	.	8aaJ)
 8BB-	7	8BB-	8r	8r
 8AAJ	.	8AAJ	8cc	8ccc
-=	=	=	=	=
+=13	=13	=13	=13	=13
 8BB-L	6 5	8BB-L	(16ddLL	(8bb-L
 .	.	.	16eeJ	.
 8FF	.	8FF	8ffJ)	8aaJ)
@@ -135,7 +135,7 @@
 8GG	.	8GG	.	.
 8AA	6	8AA	8r	8r
 8FFJ	.	8FFJ	8ff	8aa
-=	=	=	=	=
+=14	=14	=14	=14	=14
 8BB-L	7	8BB-L	(8ffL	(8aaL
 8B-	6	8B-	8eeJ)	8ggJ)
 8A	7	8A	8r	8r
@@ -144,7 +144,7 @@
 8A	6	8A	8ddJ)	8ffJ)
 8G	7	8G	8r	8r
 8FJ	.	8FJ	8a	8ff
-=	=	=	=	=
+=15	=15	=15	=15	=15
 8GL	7	8GL	4b-	(8ffL
 8G	-r6	8G	.	8ee-XJ)
 8A	-r5	8A	8r	8r
@@ -153,7 +153,7 @@
 8B-	3	8B-	.	8ddJ)
 8A	6	8A	8r	8r
 8FJ	.	8FJ	8a	8aa
-=	=	=	=	=
+=16	=16	=16	=16	=16
 8GL	n	8GL	(16bnLL	8ggL
 .	.	.	16cc#XJ	.
 8D	.	8D	8ddJ)	8ffJ
@@ -164,7 +164,7 @@
 8E	.	8E	.	.
 8F	6	8F	.	8r
 8DJ	.	8DJ	8a	8ff
-=	=	=	=	=
+=17	=17	=17	=17	=17
 8GGL	7	8GGL	4b-Xi	(8ffL
 8GG	-r6	8GG	.	8ee-XJ)
 8AA	-r5	8AA	8r	8r
@@ -173,7 +173,7 @@
 8B-	3	8B-	.	8ddJ)
 8A	6	8A	8r	8r
 8FJ	.	8FJ	8a	8aa
-=	=	=	=	=
+=18	=18	=18	=18	=18
 8GL	n	8GL	(16bnLL	8ggL
 .	.	.	16cc#XJ	.
 8D	.	8D	8ddJ)	8ffJ

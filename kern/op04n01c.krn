@@ -22,7 +22,7 @@
 8G#	.	8e	.
 8Gn	6	8e	.
 8GJ	.	8eJ	.
-=	=	=	=
+=2	=2	=2	=2
 8F#XL	7	8eL	8aL
 8F#	.	8e	8a
 8Fn	6	8d	8a
@@ -31,7 +31,7 @@
 8E	.	8c	8a
 8E	5 #	8ee	8g#X
 8EJ	.	8eeJ	8g#J
-=	=	=	=
+=3	=3	=3	=3
 8AL	6 5	8eeL	8ffL
 8A	.	8ee	8ff
 8A	6 4	8dd	8ff
@@ -40,7 +40,7 @@
 8G#	.	8dd	8ee
 8A	.	8cc	8e
 8AJ	.	8ccJ	8eJ
-=	=	=	=
+=4	=4	=4	=4
 8AL	#4| 2	8bL	8d#XL
 8A	.	8b	8d#
 8G	6	8e	8b
@@ -49,7 +49,7 @@
 8B	.	8e	8f#
 8BB	#	8d#X	8b
 8BBJ	.	8d#J	8bJ
-=	=	=	=
+=5	=5	=5	=5
 8EL	6 5	8ccL	8bL
 8E	.	8cc	8b
 8E	6 4	8cc	8a
@@ -58,7 +58,7 @@
 8E	.	8b	8a
 8E	3	8b	8g
 8EJ	.	8bJ	8gJ
-=	=	=	=
+=6	=6	=6	=6
 8AAL	#	8cc#XL	8gL
 8AA	.	8cc#	8g
 8AA	6 4	8dd	8f
@@ -67,7 +67,7 @@
 8AA	.	8dd	8e
 8A	#	8cc#Xi	8ee
 8AJ	.	8cc#J	8eeJ
-=	=	=	=
+=7	=7	=7	=7
 8DL	9	8ffL	8eeL
 8D	.	8ff	8ee
 8d	8	8ff	8dd
@@ -76,7 +76,7 @@
 8G#	.	8ee	8dd
 8A	.	8ee	8cc
 8AJ	.	8eeJ	8ccJ
-=	=	=	=
+=8	=8	=8	=8
 8FL	7	8eeL	8aL
 8F	.	8ee	8a
 8F	6	8dd	8aa
@@ -84,7 +84,7 @@
 4E	#	4ee	4gg#X
 8EL	.	8eL	4r
 8EJ	.	8eJ	.
-=	=	=	=
+=9	=9	=9	=9
 8FL	7	8eL	8aL
 8F	.	8e	8a
 8F#X	6	8d	8a
@@ -93,23 +93,23 @@
 8G	.	8d	8b
 8G#X	6	8e	8b
 8G#J	.	8eJ	8bJ
-=	=	=	=
+=10	=10	=10	=10
 8AL	.	8eL	8ccL
 8A	.	8e	8cc
 8F	6	8a	8dd
 8DJ	.	8aJ	8ffJ
 4D	6 #4|	4g#X	4b
 4D#X	7 5	[4a	4cc
-=	=	=	=
+=11	=11	=11	=11
 2E	5 #r4	4a]	2b
 .	.	4g#X	.
 2AA	.	2a	2a
-=	=	=	=
+=12	=12	=12	=12
 4GG	6	4b	4ee
 4r	.	4r	4r
 4FF	6	4a	4dd
 4r	.	4r	4r
-=	=	=	=
+=13	=13	=13	=13
 1EE;	#	1g#X;	1ee;
 =||	=||	=||	=||
 *-	*-	*-	*-
