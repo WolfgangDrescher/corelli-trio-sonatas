@@ -143,6 +143,7 @@ function join(a, sep,   s,i){
 }
 { print }
 ' \
+		| barnum \
 		| echo -ne "$(cat)" \
 		| tee "$KERN_DIR/$kern_file" > /dev/null
 done
