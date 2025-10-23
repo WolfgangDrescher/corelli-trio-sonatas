@@ -1,0 +1,7 @@
+{
+  "name": "corelli-trio-sonatas",
+  "author": "Wolfgang Drescher",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

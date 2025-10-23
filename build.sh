@@ -149,3 +149,6 @@ function join(a, sep,   s,i){
 done
 
 echo "Done! Humdrum files: $KERN_DIR/"
+
+npm i
+node add-modulations.mjs
