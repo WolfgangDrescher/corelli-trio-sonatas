@@ -22,6 +22,14 @@ mkdir -p "$MSCX_DIR"
 mkdir -p "$MUSICXML_DIR"
 mkdir -p "$KERN_DIR"
 
+filter_violone() {
+	if [ "${REMOVE_VIOLONE:-0}" -eq 1 ]; then
+		extractxx -k 1,3,4
+	else
+		cat
+	fi
+}
+
 echo "Fetching file list from $API_URL"
 # Always fetch the list of MSCX files once
 FILE_URLS=$(curl -s "$API_URL" | jq -r '.[] | select(.name | endswith(".mscx")) | .download_url')
@@ -61,11 +69,19 @@ for url in $FILE_URLS; do
 		OMV=0
 	fi
 
+	if diff -q <(musicxml2hum "$MUSICXML_DIR/$xml_file" | extractxx -k1 | extractxx -i "**kern" | ridxx -LGTMd) \
+	            <(musicxml2hum "$MUSICXML_DIR/$xml_file" | extractxx -k2 | extractxx -i "**kern" | ridxx -LGTMd) >/dev/null; then
+		REMOVE_VIOLONE=1
+	else
+		REMOVE_VIOLONE=0
+	fi
+
 	musicxml2hum "$MUSICXML_DIR/$xml_file" \
 		| grep -v '^55' \
 		| grep -v "*I'" \
 		| extractxx -I "**recip" \
 		| extractxx -I "**mxhm" \
+		| filter_violone \
 		| awk -F'\t' -v OFS='\t' -v OPS="$OPS" '
 {
 	lines[NR]=$0
