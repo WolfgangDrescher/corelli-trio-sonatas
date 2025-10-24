@@ -66,7 +66,7 @@ for url in $FILE_URLS; do
 		| grep -v "*I'" \
 		| extractxx -I "**recip" \
 		| extractxx -I "**mxhm" \
-		| awk -F'\t' -v OFS='\t' '
+		| awk -F'\t' -v OFS='\t' -v OPS="$OPS" '
 {
 	lines[NR]=$0
 	if($1 ~ /^\*\*kern/) { kern_line=NR; split($0,kern_cols,FS) }
@@ -78,12 +78,19 @@ END {
 	kcount=0
 	for(i=1;i<=length(kern_cols);i++) if(kern_cols[i] ~ /^\*\*kern/) kcount++
 
-	if(kcount==3){
-		repl[1]="*I\"Violone & Organo"
+	keyboard_instr="Organo"
+	keyboard_combined="Violone & Organo"
+	if (OPS == 4) {
+		keyboard_instr="Cembalo"
+		keyboard_combined="Violone & Cembalo"
+	}
+
+	if (kcount==3) {
+		repl[1]="*I\"" keyboard_combined
 		repl[2]="*I\"Violino II"
 		repl[3]="*I\"Violino I"
 	} else if(kcount==4){
-		repl[1]="*I\"Organo"
+		repl[1]="*I\"" keyboard_instr
 		repl[2]="*I\"Violone"
 		repl[3]="*I\"Violino II"
 		repl[4]="*I\"Violino I"
