@@ -4,102 +4,102 @@
 !!!ONM: 6
 !!!OMV: 1
 !!!OMD: Grave
-**kern	**fb	**kern	**kern	**kern
-*part4	*part4	*part3	*part2	*part1
-*staff4	*	*staff3	*staff2	*staff1
-*I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
-*clefF4	*	*clefF4	*clefG2	*clefG2
-*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]
-*M4/4	*	*M4/4	*M4/4	*M4/4
-=1	=1	=1	=1	=1
-4B	.	4B	4dd	4ff#
-4A#X	6	4A#X	4cc#	4ff#
-4.B	.	4.B	4.dd	4ff#
-.	.	.	.	[4bb
-8BB	.	8BB	8dd	.
-=2	=2	=2	=2	=2
-2C#	7	2C#	4.ee	4bb]
-.	6	.	.	8aaL
-.	.	.	8ee	8ggJ
-4.D	.	4.D	4.a	8ff#L
-.	.	.	.	8ggJ
-.	.	.	.	[4aa
-8C#	6	8C#	8ee	.
-=3	=3	=3	=3	=3
-4.BB	7	4.BB	4.dd	8aa]
-.	6	.	.	(16ggLL
-.	.	.	.	16ff#JJ)
-.	.	.	.	[4gg
-8BB	6	8BB	8dd	.
-4.AA	7	4.AA	4.cc#	8gg]
-.	6	.	.	16ff#LL
-.	.	.	.	16eeJJ
-.	.	.	.	[4ff#
-8AA	.	8AA	8cc#	.
-=4	=4	=4	=4	=4
-4.GG	7	4.GG	4.b	8ff#]
-.	6	.	.	16eeLL
-.	.	.	.	16ddJJ
-.	.	.	.	8.eeL
-8GG	.	8GG	8b	.
-.	.	.	.	16ff#Jk
-4.FF#	#	4.FF#	4.a#X	4.ff#
-8F#	.	8F#	8a#	8ff#
-=5	=5	=5	=5	=5
-4G#X	7	4G#X	4b	8ff#L
-.	6	.	.	8ee
-4A#X	5	4A#X	4cc#	8ee
-.	.	.	.	8eeJ
-4.B	5 4	4.B	4.f#	8eeL
-.	.	.	.	8ddJ
-.	.	.	.	8r
-8B	3	8B	8f#	8dd
-=6	=6	=6	=6	=6
-4.E#X	6 #	4.E#X	4.g#X	8.cc#L
-.	.	.	.	16ddJk
-.	.	.	.	8.cc#L
-8E#	.	8E#	8g#	.
-.	.	.	.	16bJk
-4.F#	9	4.F#	8g#	4a
-.	8	.	(16f#LL	.
-.	.	.	16e#XJJ)	.
-.	.	.	8f#L	8r
-8F#	.	8F#	8cc#J	8aa
-=7	=7	=7	=7	=7
-4BB	7	4BB	4dd	(8aaL
-.	6	.	.	8gg)
-4C#	5	4C#	4ee	8gg
-.	.	.	.	8ggJ
-4D	4	4D	4a	(8ggL
-.	3	.	.	8ff#J)
-8r	.	8r	8r	[4ff#
-8AA	6	8AA	8cc#	.
-=8	=8	=8	=8	=8
-4BB	6 5	4BB	(16ddLL	4ff#]
-.	.	.	16cc#)	.
-.	.	.	(16b	.
-.	.	.	16aJJ)	.
-4C#	5 4	4C#	8.g#XL	8.ff#L
-.	#	.	16g#Jk	16ee#XJk
-4F#	.	4F#	4f#	4ff#
-4F#	.	4F#	[4ff#	4aa
-=9	=9	=9	=9	=9
-4BB	6 5 n	4BB	4ff#]	2gg
-4C#	5	4C#	2ee	.
-4D	9	4D	.	2ff#
-4F#	6	4F#	[4dd	.
-=10	=10	=10	=10	=10
-4G#X	6 5	4G#X	4dd]	2ee
-4A#X	5	4A#X	[4cc#	.
-4.B	9	4.B	8cc#L]	2dd
-.	.	.	8f#J	.
-.	8	.	[4b	.
-8BB	.	8BB	.	.
-=11	=11	=11	=11	=11
-4F#	5 4	4F#	4b]	2cc#
-4FF#	#	4FF#	4a#X	.
-2BB	.	2BB	2b	2b
-=:|!	=:|!	=:|!	=:|!	=:|!
-*-	*-	*-	*-	*-
+**kern	**fb	**kern	**kern
+*part4	*part4	*part2	*part1
+*staff4	*	*staff2	*staff1
+*I"Violone & Organo	*	*I"Violino II	*I"Violino I
+*clefF4	*	*clefG2	*clefG2
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*M4/4	*	*M4/4	*M4/4
+=1	=1	=1	=1
+4B	.	4dd	4ff#
+4A#X	6	4cc#	4ff#
+4.B	.	4.dd	4ff#
+.	.	.	[4bb
+8BB	.	8dd	.
+=2	=2	=2	=2
+2C#	7	4.ee	4bb]
+.	6	.	8aaL
+.	.	8ee	8ggJ
+4.D	.	4.a	8ff#L
+.	.	.	8ggJ
+.	.	.	[4aa
+8C#	6	8ee	.
+=3	=3	=3	=3
+4.BB	7	4.dd	8aa]
+.	6	.	(16ggLL
+.	.	.	16ff#JJ)
+.	.	.	[4gg
+8BB	6	8dd	.
+4.AA	7	4.cc#	8gg]
+.	6	.	16ff#LL
+.	.	.	16eeJJ
+.	.	.	[4ff#
+8AA	.	8cc#	.
+=4	=4	=4	=4
+4.GG	7	4.b	8ff#]
+.	6	.	16eeLL
+.	.	.	16ddJJ
+.	.	.	8.eeL
+8GG	.	8b	.
+.	.	.	16ff#Jk
+4.FF#	#	4.a#X	4.ff#
+8F#	.	8a#	8ff#
+=5	=5	=5	=5
+4G#X	7	4b	8ff#L
+.	6	.	8ee
+4A#X	5	4cc#	8ee
+.	.	.	8eeJ
+4.B	5 4	4.f#	8eeL
+.	.	.	8ddJ
+.	.	.	8r
+8B	3	8f#	8dd
+=6	=6	=6	=6
+4.E#X	6 #	4.g#X	8.cc#L
+.	.	.	16ddJk
+.	.	.	8.cc#L
+8E#	.	8g#	.
+.	.	.	16bJk
+4.F#	9	8g#	4a
+.	8	(16f#LL	.
+.	.	16e#XJJ)	.
+.	.	8f#L	8r
+8F#	.	8cc#J	8aa
+=7	=7	=7	=7
+4BB	7	4dd	(8aaL
+.	6	.	8gg)
+4C#	5	4ee	8gg
+.	.	.	8ggJ
+4D	4	4a	(8ggL
+.	3	.	8ff#J)
+8r	.	8r	[4ff#
+8AA	6	8cc#	.
+=8	=8	=8	=8
+4BB	6 5	(16ddLL	4ff#]
+.	.	16cc#)	.
+.	.	(16b	.
+.	.	16aJJ)	.
+4C#	5 4	8.g#XL	8.ff#L
+.	#	16g#Jk	16ee#XJk
+4F#	.	4f#	4ff#
+4F#	.	[4ff#	4aa
+=9	=9	=9	=9
+4BB	6 5 n	4ff#]	2gg
+4C#	5	2ee	.
+4D	9	.	2ff#
+4F#	6	[4dd	.
+=10	=10	=10	=10
+4G#X	6 5	4dd]	2ee
+4A#X	5	[4cc#	.
+4.B	9	8cc#L]	2dd
+.	.	8f#J	.
+.	8	[4b	.
+8BB	.	.	.
+=11	=11	=11	=11
+4F#	5 4	4b]	2cc#
+4FF#	#	4a#X	.
+2BB	.	2b	2b
+=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-
 !!!system-decoration: [{s1,s2},s3,s4]
 !!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

@@ -5,177 +5,177 @@
 !!!OMV: 1
 !!!OTL: Preludio
 !!!OMD: Largo
-**kern	**fb	**kern	**kern	**kern
-*part4	*part4	*part3	*part2	*part1
-*staff4	*	*staff3	*staff2	*staff1
-*I"Cembalo	*	*I"Violone	*I"Violino II	*I"Violino I
-*clefF4	*	*clefF4	*clefG2	*clefG2
-*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]
-*A:	*	*A:	*A:	*A:
-*M4/4	*	*M4/4	*M4/4	*M4/4
-=1	=1	=1	=1	=1
-4A	.	4A	2r	8aL
-.	.	.	.	8cc#
-4G#X	6	4G#X	.	8ee
-.	.	.	.	8eJ
-4F#	.	4F#	8aL	4a
-.	.	.	8cc#	.
-4E	6 #	4E	8ee	4r
-.	.	.	8eJ	.
-=2	=2	=2	=2	=2
-4D	.	4D	4a	8ff#L
-.	.	.	.	8aa
-4C#	6	4C#	4r	8ee
-.	.	.	.	8aJ
-4BB	7	4BB	8ff#L	8ddL
-.	.	.	8dd	8ff#
-4E	7 #	4E	8b	8g#X
-.	.	.	8g#XJ	8eeJ
-=3	=3	=3	=3	=3
-4A	5	4A	4a	8cc#L
-.	6	.	.	8ff#
-4G#X	7	4G#X	8r	(8ff#
-.	6	.	8b	8eeJ)
-4F#	7 4	4F#	(8bL	8r
-.	6 3	.	8aJ)	8ddL
-4E	7 #	4E	8r	(8dd
-.	6	.	8g#X	8cc#J)
-=4	=4	=4	=4	=4
-4D	7	4D	(8g#XL	8r
-.	6	.	8f#J)	8bL
-4C#	7	4C#	8r	(8b
-.	6	.	8e	8aJ)
-4D	6 5	4D	16f#LL	(16ff#LL
-.	.	.	16g#J	16ee)
-.	7	.	8aJ	(16dd
-.	.	.	.	16cc#JJ)
-4E	5 4	4E	8.aL	4b
-.	#	.	.	.
-.	.	.	16g#Jk	.
-=5	=5	=5	=5	=5
-4A	.	4A	4a	8aL
-.	.	.	.	8cc#
-4G#X	6	4G#X	8r	8b
-.	.	.	8ee	8eJ
-4A	.	4A	8cc#L	8r
-.	.	.	8aJ	8ff#L
-*E:	*	*E:	*E:	*E:
-4B	#	4B	8r	8dd#X
-.	.	.	8bb	8bJ
-=6	=6	=6	=6	=6
-4E	5 #	4E	8gg#XL	8r
-.	6	.	8eeJ	8cc#L
-4D#X	7	4D#X	8r	(8cc#
-.	6	.	8ff#	8bJ)
-4C#	7 4	4C#	(8ff#L	8r
-.	6 3	.	8eeJ)	8aL
-4BB	7 #	4BB	8r	(8a
-.	#6\	.	8dd#X	8g#XJ)
-=7	=7	=7	=7	=7
-4AA	#7\ 4	4AA	(8dd#XL	8r
-.	6 3	.	8cc#J)	8f#L
-4GG#X	7	4GG#X	8r	(8f#
-.	6	.	8b	8eJ)
-4AA	.	4AA	8eeL	(16cc#LL
-.	.	.	.	16b)
-.	.	.	8eJ	(16a
-.	.	.	.	16g#XJJ)
-4BB	5 4	4BB	8.eL	8.f#L
-.	#	.	.	.
-.	.	.	16d#XJk	16bJk
-=8	=8	=8	=8	=8
-1EE;	#	1EE;	1e;	1g#X;
-=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:
-4e	.	4e	2r	8eeL
-.	.	.	.	8gg#X
-4d#X	6	4d#X	.	8bb
-.	.	.	.	8bJ
-4c#	#5\	4c#	8eeL	4ee
-.	.	.	8gg#X	.
-4B	6 #	4B	8bb	4r
-.	.	.	8bJ	.
-=10	=10	=10	=10	=10
-4A	.	4A	4ee	8aL
-.	.	.	.	8cc#
-4G#X	6	4G#X	4r	8ee
-.	.	.	.	8eJ
-4F#	.	4F#	8aL	4a
-.	.	.	8cc#	.
-4E	6 #	4E	8ee	4r
-.	.	.	8eJ	.
-=11	=11	=11	=11	=11
-*f#:	*	*f#:	*f#:	*f#:
-4D	.	4D	4a	8f#L
-.	.	.	.	8a
-4BB	.	4BB	8r	8ddJ
-.	.	.	8dd	4b
-8C#L	7 #	8C#L	8e#X	.
-8F#	.	8F#	4f#	8a
-8c#	5 4	8c#	.	4g#X
-8C#J	#	8C#J	8e#	.
-=12	=12	=12	=12	=12
-8F#L	.	8F#L	4f#	4.f#
-8G#X	.	8G#X	.	.
-8A	6	8A	8r	.
-8F#J	.	8F#J	8ff#	8aa
-4C#	6 4	4C#	(8ff#L	(8aaL
-.	#5\ 3	.	8eeniJ)	8gg#XJ)
-4D	9	4D	8r	8r
-.	8	.	8dd	8ff#
-=13	=13	=13	=13	=13
-8AAL	6 4	8AAL	(8ddL	(8ff#L
-8BB	.	8BB	8cc#J)	8eeJ)
-8C#	6	8C#	8r	8r
-8AAJ	.	8AAJ	8cc#	8ee
-8BBL	9 4	8BBL	(8cc#L	(8eeL
-8C#	.	8C#	8bJ)	8ddJ)
-8D	6	8D	8r	8r
-8EJ	.	8EJ	8b	8dd
-=14	=14	=14	=14	=14
-8F#L	6 4	8F#L	(8bL	(8ddL
-8G#X	.	8G#X	8aJ)	8cc#J)
-8A	5	8A	8r	8r
-8AAJ	.	8AAJ	8cc#	8ee
-*A:	*	*A:	*A:	*A:
-4D	.	4D	8ddL	8ff#L
-.	.	.	8cc#J	8eeJ
-8r	.	8r	8.bL	8.ddL
-8D	.	8D	.	.
-.	.	.	16aJk	16cc#Jk
-=15	=15	=15	=15	=15
-4E	#	4E	4g#X	8bL
-.	.	.	.	8eeJ
-*D:	*	*D:	*D:	*D:
-4C#	6	4C#	8r	4a
-.	.	.	8ee	.
-4D	.	4D	4a	8r
-.	.	.	.	8ff#
-*E:	*	*E:	*E:	*E:
-4D#X	6	4D#X	8r	4b
-.	.	.	8ff#	.
-=16	=16	=16	=16	=16
-4E	#	4E	4b	8r
-.	.	.	.	8eeL
-*A:	*	*A:	*A:	*A:
-4C#	6	4C#	8r	8aa
-.	.	.	8ee	8aJ
-8DniL	6 #4|	8DniL	8g#X	8bL
-8AA	.	8AA	4a	8cc#J
-8E	5 4	8E	.	4b
-8EEJ	#	8EEJ	8g#	.
-=17	=17	=17	=17	=17
-4AA	.	4AA	4a	8aL
-.	.	.	.	8ee
-4C#	6	4C#	8r	8aa
-.	.	.	8ee	8aJ
-8DL	6 #4|	8DL	8g#X	8bL
-8AA	.	8AA	4a	8cc#J
-8E	5 4	8E	.	4b
-8EEJ	#	8EEJ	8g#	.
-=18	=18	=18	=18	=18
-1AA;	.	1AA;	1a;	1a;
-=:|!	=:|!	=:|!	=:|!	=:|!
-*-	*-	*-	*-	*-
+**kern	**fb	**kern	**kern
+*part4	*part4	*part2	*part1
+*staff4	*	*staff2	*staff1
+*I"Violone & Cembalo	*	*I"Violino II	*I"Violino I
+*clefF4	*	*clefG2	*clefG2
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*A:	*	*A:	*A:
+*M4/4	*	*M4/4	*M4/4
+=1	=1	=1	=1
+4A	.	2r	8aL
+.	.	.	8cc#
+4G#X	6	.	8ee
+.	.	.	8eJ
+4F#	.	8aL	4a
+.	.	8cc#	.
+4E	6 #	8ee	4r
+.	.	8eJ	.
+=2	=2	=2	=2
+4D	.	4a	8ff#L
+.	.	.	8aa
+4C#	6	4r	8ee
+.	.	.	8aJ
+4BB	7	8ff#L	8ddL
+.	.	8dd	8ff#
+4E	7 #	8b	8g#X
+.	.	8g#XJ	8eeJ
+=3	=3	=3	=3
+4A	5	4a	8cc#L
+.	6	.	8ff#
+4G#X	7	8r	(8ff#
+.	6	8b	8eeJ)
+4F#	7 4	(8bL	8r
+.	6 3	8aJ)	8ddL
+4E	7 #	8r	(8dd
+.	6	8g#X	8cc#J)
+=4	=4	=4	=4
+4D	7	(8g#XL	8r
+.	6	8f#J)	8bL
+4C#	7	8r	(8b
+.	6	8e	8aJ)
+4D	6 5	16f#LL	(16ff#LL
+.	.	16g#J	16ee)
+.	7	8aJ	(16dd
+.	.	.	16cc#JJ)
+4E	5 4	8.aL	4b
+.	#	.	.
+.	.	16g#Jk	.
+=5	=5	=5	=5
+4A	.	4a	8aL
+.	.	.	8cc#
+4G#X	6	8r	8b
+.	.	8ee	8eJ
+4A	.	8cc#L	8r
+.	.	8aJ	8ff#L
+*E:	*	*E:	*E:
+4B	#	8r	8dd#X
+.	.	8bb	8bJ
+=6	=6	=6	=6
+4E	5 #	8gg#XL	8r
+.	6	8eeJ	8cc#L
+4D#X	7	8r	(8cc#
+.	6	8ff#	8bJ)
+4C#	7 4	(8ff#L	8r
+.	6 3	8eeJ)	8aL
+4BB	7 #	8r	(8a
+.	#6\	8dd#X	8g#XJ)
+=7	=7	=7	=7
+4AA	#7\ 4	(8dd#XL	8r
+.	6 3	8cc#J)	8f#L
+4GG#X	7	8r	(8f#
+.	6	8b	8eJ)
+4AA	.	8eeL	(16cc#LL
+.	.	.	16b)
+.	.	8eJ	(16a
+.	.	.	16g#XJJ)
+4BB	5 4	8.eL	8.f#L
+.	#	.	.
+.	.	16d#XJk	16bJk
+=8	=8	=8	=8
+1EE;	#	1e;	1g#X;
+=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:
+4e	.	2r	8eeL
+.	.	.	8gg#X
+4d#X	6	.	8bb
+.	.	.	8bJ
+4c#	#5\	8eeL	4ee
+.	.	8gg#X	.
+4B	6 #	8bb	4r
+.	.	8bJ	.
+=10	=10	=10	=10
+4A	.	4ee	8aL
+.	.	.	8cc#
+4G#X	6	4r	8ee
+.	.	.	8eJ
+4F#	.	8aL	4a
+.	.	8cc#	.
+4E	6 #	8ee	4r
+.	.	8eJ	.
+=11	=11	=11	=11
+*f#:	*	*f#:	*f#:
+4D	.	4a	8f#L
+.	.	.	8a
+4BB	.	8r	8ddJ
+.	.	8dd	4b
+8C#L	7 #	8e#X	.
+8F#	.	4f#	8a
+8c#	5 4	.	4g#X
+8C#J	#	8e#	.
+=12	=12	=12	=12
+8F#L	.	4f#	4.f#
+8G#X	.	.	.
+8A	6	8r	.
+8F#J	.	8ff#	8aa
+4C#	6 4	(8ff#L	(8aaL
+.	#5\ 3	8eeniJ)	8gg#XJ)
+4D	9	8r	8r
+.	8	8dd	8ff#
+=13	=13	=13	=13
+8AAL	6 4	(8ddL	(8ff#L
+8BB	.	8cc#J)	8eeJ)
+8C#	6	8r	8r
+8AAJ	.	8cc#	8ee
+8BBL	9 4	(8cc#L	(8eeL
+8C#	.	8bJ)	8ddJ)
+8D	6	8r	8r
+8EJ	.	8b	8dd
+=14	=14	=14	=14
+8F#L	6 4	(8bL	(8ddL
+8G#X	.	8aJ)	8cc#J)
+8A	5	8r	8r
+8AAJ	.	8cc#	8ee
+*A:	*	*A:	*A:
+4D	.	8ddL	8ff#L
+.	.	8cc#J	8eeJ
+8r	.	8.bL	8.ddL
+8D	.	.	.
+.	.	16aJk	16cc#Jk
+=15	=15	=15	=15
+4E	#	4g#X	8bL
+.	.	.	8eeJ
+*D:	*	*D:	*D:
+4C#	6	8r	4a
+.	.	8ee	.
+4D	.	4a	8r
+.	.	.	8ff#
+*E:	*	*E:	*E:
+4D#X	6	8r	4b
+.	.	8ff#	.
+=16	=16	=16	=16
+4E	#	4b	8r
+.	.	.	8eeL
+*A:	*	*A:	*A:
+4C#	6	8r	8aa
+.	.	8ee	8aJ
+8DniL	6 #4|	8g#X	8bL
+8AA	.	4a	8cc#J
+8E	5 4	.	4b
+8EEJ	#	8g#	.
+=17	=17	=17	=17
+4AA	.	4a	8aL
+.	.	.	8ee
+4C#	6	8r	8aa
+.	.	8ee	8aJ
+8DL	6 #4|	8g#X	8bL
+8AA	.	4a	8cc#J
+8E	5 4	.	4b
+8EEJ	#	8g#	.
+=18	=18	=18	=18
+1AA;	.	1a;	1a;
+=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-
 !!!system-decoration: [{s1,s2},s3,s4]
 !!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
 !!!RDF**kern: i = editorial accidental
