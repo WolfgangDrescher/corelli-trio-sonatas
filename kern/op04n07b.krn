@@ -11,6 +11,7 @@
 *I"Violone & Cembalo	*	*I"Violino II	*I"Violino I
 *clefF4	*	*clefG2	*clefG2
 *k[b-]	*	*k[b-]	*k[b-]
+*F:	*	*F:	*F:
 *M3/4	*	*M3/4	*M3/4
 =1	=1	=1	=1
 !	!	!	!LO:TX:a:t=Corrente Allegro
@@ -65,6 +66,7 @@
 =12	=12	=12	=12
 4B-]	5	2cc	4ee
 4A	6	.	4cc
+*C:	*	*C:	*C:
 4d	.	4dd	[4ff
 =13	=13	=13	=13
 4Bn	6 5	2g	4ff]
@@ -108,6 +110,7 @@
 .	.	4gg	.
 =23	=23	=23	=23
 4r	.	4cc	4bb-]
+*F:	*	*F:	*F:
 8AL	6	[2ff	[2aa
 8B-J	.	.	.
 4c	6 4	.	.
@@ -118,6 +121,7 @@
 =25	=25	=25	=25
 2F	98	2.aa	4gg]
 .	.	.	4cc
+*d:	*	*d:	*d:
 4A	6	.	[4ff
 =26	=26	=26	=26
 4Bn	6 5	2.gg	4ff]
@@ -140,6 +144,7 @@
 4AA	7 #	.	.
 4A	.	.	.
 =31	=31	=31	=31
+*F:	*	*F:	*F:
 4D	.	4r	4r
 [2F	5	8ffL	8aaL
 .	.	8ggJ	8bb-J
@@ -176,6 +181,7 @@
 .	.	.	4cc
 .	.	.	4dd
 =39	=39	=39	=39
+*B-:	*	*B-:	*B-:
 4c	-	4g	2.ee-X
 4G	-6	4b-	.
 4A	-5	4cc	.
@@ -200,6 +206,7 @@
 8cL	.	4ee	4gg
 8B-J	.	.	.
 =43	=43	=43	=43
+*F:	*	*F:	*F:
 4.A	6	4ff	4ccc
 .	.	4.cc	4ccc
 8B-	.	.	.
