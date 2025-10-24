@@ -1,5 +1,8 @@
 #!/bin/bash
 
+set -Eeuo pipefail
+trap 'echo "❌ ERROR: Command \"$BASH_COMMAND\" failed at line $LINENO." >&2' ERR
+
 REPO="DCMLab/corelli"
 PATH_IN_REPO="MS3"
 API_URL="https://api.github.com/repos/$REPO/contents/$PATH_IN_REPO"
@@ -9,7 +12,7 @@ MUSICXML_DIR="musicxml"
 KERN_DIR="kern"
 
 FORCE_DOWNLOAD=false
-if [[ "$1" == "--force-download" ]]; then
+if [[ "${1-}" == "--force-download" ]]; then
 	FORCE_DOWNLOAD=true
 	echo "Force download: clearing all cache directories..."
 	rm -rf "$MSCX_DIR" "$MUSICXML_DIR" "$KERN_DIR"
