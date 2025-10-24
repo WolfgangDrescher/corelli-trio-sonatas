@@ -11,6 +11,7 @@
 *I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
 *clefF4	*	*clefF4	*clefG2	*clefG2
 *k[]	*	*k[]	*k[]	*k[]
+*d:	*	*d:	*d:	*d:
 *M3/2	*	*M3/2	*M3/2	*M3/2
 =1	=1	=1	=1	=1
 1.r	.	1.r	1.r	2d
@@ -27,10 +28,12 @@
 =4	=4	=4	=4	=4
 1d	9	1d	1ff	2ee]
 .	8	.	.	2dd
+*g:	*	*g:	*g:	*g:
 2F#X	#5\	2F#X	[2a	2cc
 =5	=5	=5	=5	=5
 1G	9 -	1G	2a]	1b-X
 .	8	.	2d	.
+*d:	*	*d:	*d:	*d:
 2C#X	6	2C#X	2e	[2a
 =6	=6	=6	=6	=6
 2D	.	2D	2f	2a]
@@ -45,11 +48,13 @@
 .	.	.	.	4ee)
 2D	.	2D	[2aa	2ff
 =9	=9	=9	=9	=9
+*a:	*	*a:	*a:	*a:
 1E	5 4	1E	2aa]	[1.b
 .	#	.	(4gg#X	.
 .	.	.	4aa)	.
 2D	6	2D	2bb	.
 =10	=10	=10	=10	=10
+*d:	*	*d:	*d:	*d:
 1C	7	1C	[1.ee	2b]
 .	6	.	.	(4a
 .	.	.	.	4b)

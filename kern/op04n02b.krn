@@ -11,6 +11,7 @@
 *I"Violone & Organo	*	*I"Violino II	*I"Violino I
 *clefF4	*	*clefG2	*clefG2
 *k[b-]	*	*k[b-]	*k[b-]
+*g:	*	*g:	*g:
 *M4/4	*	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)
 =	=	=	=
@@ -88,6 +89,7 @@
 .	.	8aa	8ggJ
 8GGL	-6	4gg	(8ee-XL
 8AA	#	.	8cc#XJ)
+*d:	*	*d:	*d:
 8BB-	5	(8ffL	4dd
 8GGJ	n6 5	8eeniJ)	.
 =9	=9	=9	=9
@@ -142,12 +144,14 @@
 8C	-	4cc	8ee-X
 8G	5 4	.	8dd
 8GGJ	n	8bni	8ggJ
+*c:	*	*c:	*c:
 4.C	-	4.cc	8ee-XiL
 .	.	.	8ccJ
 .	.	.	[4ee-Xi
 8C	.	(16ccLL	.
 .	.	16b-XJJ)	.
 =15	=15	=15	=15
+*B-:	*	*B-:	*B-:
 8FL	-7	8a	8ee-L]
 8BB-	.	4b-	8dd
 8F	5 4	.	8cc
@@ -170,6 +174,7 @@
 .	3	.	8dd
 4C	9 -	4e-X	8g
 .	8	.	8ccJ
+*g:	*	*g:	*g:
 4D	#	4d	8f#XL
 .	.	.	8aa
 8r	.	8r	(8bb-
@@ -184,6 +189,7 @@
 8r	.	8r	(8ee-X
 8G	n	8bn	8ddJ)
 =19	=19	=19	=19
+*c:	*	*c:	*c:
 8cL	-	8ccL	8r
 8GJ	n	8bnJ	8ddL
 8r	.	8r	(8ee-X
@@ -193,6 +199,7 @@
 8r	.	8r	(8gg
 8Bn	6	8dd	8ffJ)
 =20	=20	=20	=20
+*g:	*	*g:	*g:
 8cL	-	8gL	8ee-X
 8d	#	8f#X	4dd
 8e-X	7	8g	.

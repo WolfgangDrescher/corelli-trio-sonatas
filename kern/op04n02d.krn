@@ -11,7 +11,7 @@
 *I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
 *clefF4	*	*clefF4	*clefG2	*clefG2
 *k[b-]	*	*k[b-]	*k[b-]	*k[b-]
-*d:	*	*d:	*d:	*d:
+*g:	*	*g:	*g:	*g:
 *M3/4	*	*M3/4	*M3/4	*M3/4
 =1	=1	=1	=1	=1
 2.r	.	2.r	2.r	4dd
@@ -34,10 +34,12 @@
 .	n	.	4bn	4gg
 4G	7	4G	[4dd	4ff
 =6	=6	=6	=6	=6
+*c:	*	*c:	*c:	*c:
 2C	9 n	2C	4dd]	4ee-X
 .	8	.	4g	4cc
 4c	-	4c	[4cc	4ee-
 =7	=7	=7	=7	=7
+*g:	*	*g:	*g:	*g:
 4F#X	6 5	4F#X	4cc]	2dd
 4G	.	4G	4b-	.
 4D	#	4D	4f#X	4cc
@@ -50,10 +52,12 @@
 4d	.	4d	.	.
 4c	.	4c	.	.
 =10	=10	=10	=10	=10
+*G:	*	*G:	*G:	*G:
 2.Bn	6	2.Bn	[2.dd	4dd
 .	.	.	.	4gg
 .	.	.	.	4ff
 =11	=11	=11	=11	=11
+*c:	*	*c:	*c:	*c:
 2.c	9 -	2.c	4dd]	4ee-X
 .	8	.	4cc	4cc
 .	.	.	4b-	[4ee-
@@ -62,10 +66,12 @@
 .	6	.	[2aa	4dd
 .	5	.	.	4cc
 =13	=13	=13	=13	=13
+*g:	*	*g:	*g:	*g:
 2G	9	2G	4aa]	4b-
 .	8	.	4gg	4cc
 4BBn	5	4BBn	4ff	[4dd
 =14	=14	=14	=14	=14
+*c:	*	*c:	*c:	*c:
 2C	9 n	2C	4ee	4dd]
 .	8 6	.	4aa	[2cc
 4C	5	4C	4gg	.
@@ -77,6 +83,7 @@
 4D	6 4	4D	4gg]	4b-
 2DD	5 #	2DD	2ff#X	2a
 =17	=17	=17	=17	=17
+*g:	*	*g:	*g:	*g:
 4GG	.	4GG	2.gg	4g
 [2G	.	[2G	.	4b-
 .	.	.	.	4g
@@ -97,10 +104,12 @@
 [2c	-	[2c	2r	4ee-X
 .	.	.	.	4cc
 =22	=22	=22	=22	=22
+*G:	*	*G:	*G:	*G:
 4c]	4 2	4c]	4r	4dd
 2Bn	6	2Bn	4gg	2g
 .	.	.	4dd	.
 =23	=23	=23	=23	=23
+*g:	*	*g:	*g:	*g:
 4c	-	4c	4ee-X	4r
 2d	#	2d	2r	4dd
 .	.	.	.	4f#X
@@ -131,6 +140,7 @@
 .	.	.	.	2ccc
 4A	-5	4A	.	.
 =31	=31	=31	=31	=31
+*B-:	*	*B-:	*B-:	*B-:
 2B-	9	2B-	4dd	4ccc
 .	8	.	[2ff	4bb-
 4D	5	4D	.	4aa
@@ -154,6 +164,7 @@
 4A	#	4A	.	2cc#X
 4AA	.	4AA	4ee	.
 =37	=37	=37	=37	=37
+*d:	*	*d:	*d:	*d:
 4D	.	4D	2ff	4dd
 4d	.	4d	.	[2ff
 4A	6	4A	4ff	.
@@ -162,6 +173,7 @@
 4c	n	4c	.	2ee
 4C	.	4C	4gg	.
 =39	=39	=39	=39	=39
+*F:	*	*F:	*F:	*F:
 4F	-	4F	4aa-X	4ff
 4E-X	6	4E-X	[2cc	4gg
 4F	-	4F	.	4aa-X
@@ -169,6 +181,7 @@
 4G	-r6 4	4G	4cc]	4ee-X
 2GG	5 n	2GG	2bn	2dd
 =41	=41	=41	=41	=41
+*c:	*	*c:	*c:	*c:
 2C	-	2C	2.cc	4cc
 .	.	.	.	[2ee-X
 4c	.	4c	.	.
@@ -177,6 +190,7 @@
 .	6	.	[2aa	4dd
 .	.	.	.	4cc
 =43	=43	=43	=43	=43
+*g:	*	*g:	*g:	*g:
 2.G	9	2.G	4aa]	4b-
 .	8	.	4gg	[2bb-
 .	.	.	4ff	.
