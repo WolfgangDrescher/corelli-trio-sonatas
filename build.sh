@@ -178,3 +178,4 @@ echo "Done! Humdrum files: $KERN_DIR/"
 
 npm i
 node add-modulations.mjs
+node add-tempo.mjs
