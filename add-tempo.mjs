@@ -74,7 +74,8 @@ try {
 			if (currentMeasure <= 1 && line.startsWith('!') && !line.startsWith('!!!')) {
 				const lower = line.toLowerCase();
 				const isTempoComment = tempoNames.some(t => lower.includes(t));
-				if (isTempoComment) continue; // Zeile überspringen
+				const isMMComment = /t=.*=\d+/i.test(lower);
+				if (isTempoComment || isMMComment) continue;
 			}
 
 			output.push(line);
