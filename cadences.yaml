@@ -36,7 +36,7 @@ op04n08a:
     # - [3/3, 4/1, semplice]
     - [4/3, 5/1, semplice]
     - [5/3, 6/1, semplice]
-    - [6/2, 7/1, phrgyian]
+    - [6/2, 7/1, phrygian]
     - [12/1, 14/1, [sfuggita, composta]]
     - [21/1, 23/1, [sfuggita, composta]]
     - [30/1, 32/1, [sfuggita, composta]]
@@ -49,7 +49,7 @@ op04n08b:
     - [20/4, 21/3, composta]
     - [22/4, 23/3, composta]
 op04n08c:
-    - [4/1, 4/2, phrgyian]
+    - [4/1, 4/2, phrygian]
     - [8/1, 8/2, semplice]
     - [12/1, 12/2, semplice]
     - [16/1, 16/2, semplice]
