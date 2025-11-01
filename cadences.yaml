@@ -16,21 +16,21 @@ op04n01b:
     - [45/1, 47/1, doppia]
 
 
-op04n7a:
+op04n07a:
     - [2/1, 2/3, semplice]
     - [3/1, 3/3, semplice]
     - [5/1, 5/3, [sfuggita, doppia, composta]]
     - [8/3, 9/1, [doppia, composta]]
     - [12/1, 13/1, [TRIPPIA, composta]]
     - [14/3, 15/1, composta]
-op04n7b:
+op04n07b:
     - [6/2, 7/1, semplice]
     - [16/1, 18/1, [sfuggita, doppia, composta]]
     - [24/2, 25/1, semplice]
     - [28/1, 29/1, semplice]
     - [37/1, 38/1, composta]
     - [44/1, 46/1, [doppia, composta]]
-op04n7e: []
+op04n07e: []
 
 op04n08a:
     # - [3/3, 4/1, semplice]
