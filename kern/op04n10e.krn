@@ -11,6 +11,7 @@
 *I"Violone & Cembalo	*	*I"Violino II	*I"Violino I
 *clefF4	*	*clefG2	*clefG2
 *k[]	*	*k[]	*k[]
+*e:	*	*e:	*e:
 *M2/2	*	*M2/2	*M2/2
 *met(c|)	*	*met(c|)	*met(c|)
 *MM168	*	*MM168	*MM168
@@ -25,16 +26,19 @@
 4E	.	4ee	4gg
 4BB	#	4dd#	4ff#
 =3	=3	=3	=3
+*G:	*	*G:	*G:
 4E	.	4ee	4gg
 4G	.	4b	4dd
 4C	.	4cc	4ee
 4GG	.	4b	4dd
 =4	=4	=4	=4
+*e:	*	*e:	*e:
 2C	6	4a	4cc
 .	.	4g	4b
 2D	#	2f#X	4a
 .	.	.	4d
 =5	=5	=5	=5
+*b:	*	*b:	*b:
 4r	.	4r	2.dd
 4D	#	4f#X	.
 2E	7	2g	.
@@ -45,6 +49,7 @@
 2G	5 4	4d	.
 .	3	[4dd	4b
 =7	=7	=7	=7
+*a:	*	*a:	*a:
 2C	9	4dd]	4e
 .	8 6	2cc	4a
 4D	7 #	.	4f#X
@@ -54,6 +59,7 @@
 4DD	#	.	4f#X
 2GG	.	2g	2g
 =9	=9	=9	=9
+*C:	*	*C:	*C:
 2G	.	2dd	4gg
 .	.	.	4bb
 2F#X	6	2dd	4aa
