@@ -331,7 +331,7 @@ op04n10d:
     - [5/1, b]
     - [7/1, a]
     - [9/1, C]
-    - [10/4, a]
+    - [10/4, a] # remove? (a als deg 5+ 6 Trugschluss)
     - [11/3, e]
 op04n10e:
     - [1/1, G]
