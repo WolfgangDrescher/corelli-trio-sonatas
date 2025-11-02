@@ -151,3 +151,17 @@ op04n12a:
     - [20/1, 21/1, tenorizans]
     - [24/1, 26/1, doppia]
     - [33/1, 35/1, doppia]
+op04n12b:
+    - [2/1, 3/1, [semplice, quasi-composta]]
+    - [8/1, 9/1, doppia]
+    - [10/2, 11/1, semplice]
+    - [12/1, 13/1, doppia]
+    - [14/2, 15/1, semplice]
+    - [16/1, 17/1, doppia]
+    - [24/1, 25/1, doppia]
+    - [25/2.5, 27/1, doppia]
+    - [31/1, 34/1, [phrygian, half]]
+    - [34/1, 35/1, doppia]
+    - [35/1, 38/1, [phrygian, half]]
+    - [38/1, 39/1, doppia]
+op04n12c: [] # wrong format
