@@ -11,7 +11,7 @@
 *I"Violone & Cembalo	*	*I"Violino II	*I"Violino I
 *clefF4	*	*clefG2	*clefG2
 *k[b-e-]	*	*k[b-e-]	*k[b-e-]
-*g:	*	*g:	*g:
+*c:	*	*c:	*c:
 *M4/4	*	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)
 *MM56	*	*MM56	*MM56
@@ -53,6 +53,7 @@
 2GG	n	2bn	2gg
 2r;	.	2r;	2r;
 =6	=6	=6	=6
+*E-:	*	*E-:	*E-:
 4E-	.	4gg	4.bb-
 8r	.	8r	.
 8e-	.	8gg	8bb-
@@ -88,6 +89,7 @@
 8BB-J	5	8d	.
 =10	=10	=10	=10
 8EE-L	5	4e-	8g
+*c:	*	*c:	*c:
 8E-	6	.	4cc
 8F	6 5	4.dd	.
 8GJ	n	.	8bn
@@ -96,10 +98,12 @@
 .	4 2	8ff	4dd
 8Bn	5	8ddJ	.
 =11	=11	=11	=11
+*g:	*	*g:	*g:
 4e-	7	4g	8r
 .	6	.	4gg
 4d	4	4.aa	.
 .	#	.	8ff#X
+*f:	*	*f:	*f:
 8r	.	.	4bb-Xi
 4G	3	8ggL	.
 .	4 2	8ccc	4aa
@@ -109,6 +113,7 @@
 .	6	.	4ddd
 4c	9 n	4een	.
 .	8	.	4ccc
+*E-:	*	*E-:	*E-:
 8dL	7 #	8ff#X	.
 8G	.	4gg	8bb-
 8C	#6\ 5	.	4aa
@@ -134,15 +139,18 @@
 =15	=15	=15	=15
 8EE-L	.	8ee-L	8gg
 8E-	.	8ggJ	4ee-
+*c:	*	*c:	*c:
 8AAni	6 5	4ff	.
 8BBnJ	5	.	4dd
 8CL	9	4ee-	.
 8E-	6	.	4cc
+*A-:	*	*A-:	*A-:
 8F	6 5	4dd	.
 8GJ	.	.	[8b-
 =16	=16	=16	=16
 8A-XL	9	4cc	8b-]
 8C	-6	.	4a-X
+*f:	*	*f:	*f:
 8D	6 5	4b-	.
 8EnJ	5	.	4g
 8FL	9 -	4a-X	.
@@ -150,6 +158,7 @@
 8BB-Xi	6 5 -	4g	.
 8CJ	n	.	8en
 =17	=17	=17	=17
+*c:	*	*c:	*c:
 8FFL	-	4f	8fL
 8F	.	.	8cc
 8G	#6\	8r	8en
