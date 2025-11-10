@@ -40,16 +40,16 @@ op04n04c:
     - [14/1, 14/3, doppia]
     - [16/3, 17/1, half-cadence]
 op04n04d:
-    - [3/12, 4/7, null]
-    - [5/12, 6/7, null]
-    - [7/10, 8/7, composta]
-    - [11/10, 12/7, composta]
-    - [13/10, 14/7, composta]
-    - [18/10, 19/1, semplice]
+    - [3/4+2/3, 4/3, null]
+    - [5/4+2/3, 6/3, null]
+    - [7/4, 8/3, composta]
+    - [11/4, 12/3, composta]
+    - [13/4, 14/3, composta]
+    - [18/4, 19/1, semplice]
     - [22/1, 23/1, doppia]
-    - [23/10, 24/1,sfuggita]
-    - [28/10, 29/7, composta]
-    - [30/10, 31/7,composta]
+    - [23/4, 24/1,sfuggita]
+    - [28/4, 29/3, composta]
+    - [30/4, 31/3,composta]
 
 
 op04n06a:
