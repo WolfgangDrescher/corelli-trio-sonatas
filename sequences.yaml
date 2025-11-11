@@ -33,5 +33,5 @@ op04n10d:
     - [2/4, 4/4, [Synkopenkette, Stimmtausch, Karussell]]
     - [6/2, 9/3, [Synkopenkette, Stimmtausch]]
     - [9/1, 9/4, [Karussell]]
-    - [10/4, 11/4, [Karussell]]
-    - [10/3, 11/1, [Karussell]]
+    - [10/4, 11/4.5, [Synkopenkette]]
+    - [10/3, 11/2, [Karussell]]
