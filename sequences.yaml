@@ -119,7 +119,15 @@ op04n11b:
     - [32/1, 35/1, [Lamento]]
     - [45/3, 47/1, [Monte]]
     - [58/1, 65/1, [Quintfall]]
-
+op04n11c:
+    - [1/1, 3/4, [Terzstieg, quasi Synkopenkette aufwärts]] # nicht konstant mit Synkopen
+    - [6/1, 7/3, [Ansteigende Sequenz, Synkopenkette aufwärts, Stimmtausch]]
+    - [7/4, 10/1, [Synkopenkette]] 
+    - [7/3, 8/1, [Romanesca]]
+    - [10/2, 11/1, [Synkopenkette aufwärts]]
+    - [18/2, 21/1, [Fonte]]
+    - [24/2, 27/1, [Monte]]
+    - [29/2, 31/3, [Synkopenkette aufwärts]]
 
 op04n12a:
     - [4/3, 8/1, [Parallelismus, Terzstieg]]
