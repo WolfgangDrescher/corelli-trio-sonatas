@@ -56,12 +56,12 @@
 8E	.	8cc	8b
 8E	6 4	8cc	8a
 8EJ	.	8ccJ	8aJ
-*d:	*	*d:	*d:
 8EL	5 4	8bL	8aL
 8E	.	8b	8a
 8E	3	8b	8g
 8EJ	.	8bJ	8gJ
 =6	=6	=6	=6
+*d:	*	*d:	*d:
 8AAL	#	8cc#XL	8gL
 8AA	.	8cc#	8g
 8AA	6 4	8dd	8f
