@@ -50,6 +50,28 @@ op04n06f:
     - [21/1, 23/4, [Monte, Chromatik im Bass aufwärts]]
 
 
+op04n7a:
+    - [7/1, 7/3.5, 7-6 consecutive]
+op04n7b:
+    - [7/3, 11/3, 246-Dissonanzenkette]
+    - [31/1, 33/2, Synkopendissonanz im Bass]
+    - [34/1, 36/2, 7-6 consecutive]
+
+op04n08a:
+    - [7/1, 11/3, imitations]
+    - [16/2, 21/1, quintfall]
+    - [27/1, 29/3, quintfall]
+    - [27/1, 29/3, 9-8-kette]
+    - [36/1, 37/2, hemiole]
+op04n08b:
+    - [5/1, 7/1, quintfall]
+    - [13/1, 14/4.5, quintfall] # aadg ccff
+    - [17/1, 18/4.5, quintstieg]
+op04n08c:
+    - [5/1, 6/2+2/3, DurMoll-Parallelismus mit Zwischendominanten]
+    - [9/1, 10/2+2/3, quintstieg]
+
+
 op04n10d:
     - [2/4, 4/4, [Synkopenkette, Stimmtausch, Karussell]]
     - [6/2, 9/3, [Synkopenkette, Stimmtausch]]
