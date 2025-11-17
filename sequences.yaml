@@ -2,8 +2,8 @@ op04n01a:
     - [1/1, 3/4, [Synkopenkette]]
     # - [4/1, 4/3, [Quintfall]]
     - [5/2, 6/3, [Lamento]]
-    - [8/4, 11/1, [Synkopenkette, Terzfalltreppe]]
-    - [11/4, 12/4, [Synkopenkette, Karussell]]
+    - [8/4, 11/1, [Terzfalltreppe, Synkopenkette]]
+    - [11/4, 12/4, [Karussell, Synkopenkette]]
     - [15/1, 16/2, [Romanesca, Bass schrittweise abwärts]]
 op04n01b:
     - [3/1, 6/1, [Lamento in Dur (Oktavregel)]]
