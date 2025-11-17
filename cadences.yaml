@@ -299,8 +299,8 @@ op04n11c:
     - [35/3, 36/3, doppia]
 
 op04n12a:
-    - [3/1, 4/1, [phrygian, half]]
-    - [9/1, 11/1, half]
+    - [3/1, 4/1, [phrygian, half, cantizans]]
+    - [9/1, 11/1, half] # erst ab penultima?
     - [15/1, 17/1, [phrygian, half, quasi-doppia]]
     - [20/1, 21/1, [semplice, tenorizans]]
     - [24/1, 26/1, doppia]
