@@ -57,6 +57,17 @@ op04n02b:
     - [22/1, 22/3, [doppia, fast]]
 op04n02c:
     - [4/1, 5/1, [phrygian, half]]
+op04n02d:
+    - [8/1, 9/1, [phrygian, half]]
+    - [15/1, 17/1, [doppia]]
+    - [24/1, 25/1, [phrygian, half]]
+    - [33/1, 35/1, [doppia]]
+    - [35/3, 37/1, [composta]]
+    - [37/3, 39/1, [composta]]
+    - [39/2, 41/1, [composta]]
+    - [47/1, 49/1, [doppia]]
+    - [51/1, 53/1, [doppia]]
+    - [55/1, 57/1, [doppia]]
 
 
 op04n04a:
