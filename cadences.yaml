@@ -37,6 +37,16 @@ op04n01d:
     - [31/3, 32/3, [doppia]]
     - [33/1, 34/1, [doppia]]
 
+op04n02a:
+    - [3/3, 4/1, [composta]]
+    - [4/3, 5/3, [phrygian, half]]
+    - [10/3, 11/1, [doppia, fast]]
+    - [11/3, 12/1, [composta]]
+    - [12/3, 13/1, [doppia, fast]]
+    - [13/3, 14/1, [doppia, fast]]
+    - [16/3, 17/3, [doppia]]
+    - [19/1, 20/1, [doppia]]
+
 
 op04n04a:
     - [1/4, 2/3, null]

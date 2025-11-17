@@ -28,6 +28,15 @@ op04n01d:
     - [21/3.5, 24/3, [Fonte]]
     - [25/1, 26/4.5, [5-6-Konsekutive aufwärts]]
 
+op04n02a:
+    - [1/3, 3/4, [Synkopenkette, Special Ende]] # Ausstieg über Synkope aufwärts
+    - [2/1, 4/1, [Terzfalltreppe, Synkopenkette]]
+    - [7/3, 9/2, [Synkopenkette]]
+    - [8/1, 8/4, [Terzfalltreppe, Synkopenkette]]
+    - [8/3, 9/2, [Karussell, Synkopenkette]]
+    - [11/2, 12/2, [Synkopenkette aufwärts]]
+    - [14/2, 14/3.5, [Karussell]]
+
 
 op04n06a:
     - [1/3, 3/1, [Quintfall, Synkopenkette]]
