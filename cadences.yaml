@@ -314,8 +314,8 @@ op04n12b:
     - [16/1, 17/1, doppia]
     - [24/1, 25/1, doppia]
     - [25/2.5, 27/1, doppia]
-    - [31/1, 34/1, [phrygian, half]]
+    - [31/1, 34/1, [phrygian, half]] # erst ab penultima?
     - [34/1, 35/1, doppia]
-    - [35/1, 38/1, [phrygian, half]]
+    - [35/1, 38/1, [phrygian, half]] # erst ab penultima?
     - [38/1, 39/1, doppia]
 op04n12c: [] # wrong format
