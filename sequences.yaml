@@ -103,6 +103,16 @@ op04n10d:
     - [10/3, 11/2, [Karussell]]
 
 
+op04n11a:
+    - [2/3, 4/1, [Quintfall, fast]]
+    - [7/3, 9/1, [Quintfall, fast]]
+    - [10/1.5, 10/3.5, [Synkopenkette aufwärts, fast]]
+    - [11/1.5, 11/3.5, [Synkopenkette aufwärts, fast]]
+    - [13/1, 15/1, [Fonte]]
+    - [15/1, 17/1, [Karussell, fast, Synkopenkette]]
+    - [17/2, 20/4.5, [quasi-Fauxbourdon]]
+
+
 op04n12a:
     - [4/3, 8/1, [Parallelismus, Terzstieg]]
     - [21/2, 24/3, [Fauxbourdon, Synkopenkette]]
