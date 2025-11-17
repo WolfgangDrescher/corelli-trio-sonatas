@@ -263,14 +263,14 @@ op04n11a:
     - [9/3, 10/1, [doppia, fast]]
     - [10/1.5, 10/3, composta] # quinta syncopata
     - [11/1, 10/3, composta]
-    - [12/3, 13/1, doppia]
-    - [13/3, 14/1, doppia]
-    - [14/3, 15/1, doppia]
-    - [15/2, 15/3, ~]
-    - [15/3.5, 16/1, ~]
-    - [16/1.5, 16/3, ~]
+    - [12/3, 13/1, [doppia, fast]]
+    - [13/3, 14/1, [doppia, fast]]
+    - [14/3, 15/1, [doppia, fast]]
+    # - [15/2, 15/3, ~] # Karussell
+    # - [15/3.5, 16/1, ~] # Karussell
+    # - [16/1.5, 16/3, ~] # Karussell
     - [16/3.5, 17/1, composta]
-    - [21/1, 21/3, doppia]
+    - [21/1, 21/3, [doppia, fast]]
     - [23/1, 24/1, doppia]
 op04n11b:
     - [8/1, 9/1, [phrygian, half]]
