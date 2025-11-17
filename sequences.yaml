@@ -101,3 +101,12 @@ op04n10d:
     - [9/1, 9/4, [Karussell]]
     - [10/4, 11/4.5, [Synkopenkette]]
     - [10/3, 11/2, [Karussell]]
+
+
+op04n12a:
+    - [4/3, 8/1, [Parallelismus, Terzstieg]]
+    - [21/2, 24/3, [Fauxbourdon, Synkopenkette]]
+    - [26/3, 32/2, [Synkopenkette, Special]]
+    - [26/3, 28/2, [Fauxbourdon, Synkopenkette]]
+    - [27/1, 28/1, [Quintfall, Synkopenkette]]
+    - [28/1, 31/1, [quasi-Karussell]]
