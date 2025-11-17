@@ -39,7 +39,7 @@ op04n01d:
 
 op04n02a:
     - [3/3, 4/1, [composta]]
-    - [4/3, 5/3, [phrygian, half]]
+    - [4/3, 5/3, [phrygian, half, quasi-doppia]]
     - [10/3, 11/1, [doppia, fast]]
     - [11/3, 12/1, [composta]]
     - [12/3, 13/1, [doppia, fast]]
