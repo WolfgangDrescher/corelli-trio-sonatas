@@ -69,14 +69,26 @@ for url in $FILE_URLS; do
 		OMV=0
 	fi
 
-	if diff -q <(musicxml2hum "$MUSICXML_DIR/$xml_file" | extractxx -k1 | extractxx -i "**kern" | ridxx -LGTMd) \
-	            <(musicxml2hum "$MUSICXML_DIR/$xml_file" | extractxx -k2 | extractxx -i "**kern" | ridxx -LGTMd) >/dev/null; then
-		REMOVE_VIOLONE=1
-	else
+	HUM=$(musicxml2hum "$MUSICXML_DIR/$xml_file" 2>/dev/null || echo FAILED)
+
+	if [ "$HUM" = "FAILED" ] || [ -z "$HUM" ]; then
 		REMOVE_VIOLONE=0
+	else
+		SPINE1=$(printf "%s" "$HUM" | extractxx -k1 | extractxx -i "**kern" | ridxx -LGTMd || echo FAILED)
+		SPINE2=$(printf "%s" "$HUM" | extractxx -k2 | extractxx -i "**kern" | ridxx -LGTMd || echo FAILED)
+
+		if [ "$SPINE1" = "FAILED" ] || [ "$SPINE2" = "FAILED" ]; then
+			REMOVE_VIOLONE=0
+		else
+			if diff -q <(printf "%s" "$SPINE1") <(printf "%s" "$SPINE2") >/dev/null; then
+				REMOVE_VIOLONE=1
+			else
+				REMOVE_VIOLONE=0
+			fi
+		fi
 	fi
 
-	musicxml2hum "$MUSICXML_DIR/$xml_file" \
+	printf "%s" "$HUM" \
 		| grep -v '^55' \
 		| grep -v "*I'" \
 		| extractxx -I "**recip" \
@@ -169,8 +181,13 @@ function join(a, sep,   s,i){
 { print }
 ' \
 		| barnum \
-		| echo -ne "$(cat)" \
 		| tee "$KERN_DIR/$kern_file" > /dev/null
+
+	# remove if last byte is a newline
+	last_byte=$(tail -c1 "$KERN_DIR/$kern_file" 2>/dev/null | od -An -t u1 | tr -d ' ')
+	if [ "$last_byte" = "10" ]; then
+	truncate -s -1 "$KERN_DIR/$kern_file"
+fi
 done
 
 echo "Done! Humdrum files: $KERN_DIR/"
