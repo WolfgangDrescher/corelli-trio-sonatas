@@ -96,9 +96,14 @@ op04n08a:
     - [27/1, 29/3, 9-8-kette]
     - [36/1, 37/2, hemiole]
 op04n08b:
-    - [5/1, 7/1, quintfall]
-    - [13/1, 14/4.5, quintfall] # aadg ccff
-    - [17/1, 18/4.5, quintstieg]
+    - [1/1, 2/4.75, Parallelismus]
+    - [3/3, 4/3, Lamento]
+    - [5/1, 6/4.75, Fonte]
+    - [8/3, 9/4.75, Romanesca]
+    - [13/1, 14/4.5, [Terzweise ansteignder Quintfall, quasi Monte]] # aadg ccff
+    - [17/1, 18/4.5, Quintstieg]
+    - [19/4, 20/3, Quintstieg]
+    - [21/4, 22/3, Quintstieg]
 op04n08c:
     - [5/1, 6/2+2/3, DurMoll-Parallelismus mit Zwischendominanten]
     - [9/1, 10/2+2/3, quintstieg]
