@@ -4,122 +4,122 @@
 !!!ONM: 2
 !!!OMV: 3
 !!!OMD: Adagio
-**kern	**fb	**kern	**kern	**kern
-*part4	*part4	*part3	*part2	*part1
-*staff4	*	*staff3	*staff2	*staff1
-*I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
-*clefF4	*	*clefF4	*clefG2	*clefG2
-*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
-*M3/4	*	*M3/4	*M3/4	*M3/4
-*MM72	*	*MM72	*MM72	*MM72
-=1	=1	=1	=1	=1
-4r	.	4r	4r	4r
-4E	.	4E	4ee	4gg
-4BB	#	4BB	4dd#X	4ff#
-=2	=2	=2	=2	=2
-2E	.	2E	2ee	2gg
-4E	.	4E	4ee	4gg
-=3	=3	=3	=3	=3
-2.AA	6	2.AA	4.ff#	4.aa
-.	.	.	8ggL	8bbL
-.	.	.	8ff#	8aa
-.	.	.	8eeJ	8ggJ
-=4	=4	=4	=4	=4
-2.BB	#	2.BB	2.dd#X	2.ff#
-=5	=5	=5	=5	=5
-2G	6	2G	2b	2ee
-4F#	6	4F#	4a	4dd
-=6	=6	=6	=6	=6
-2E	6	2E	2g	2cc
-[4D	6	[4D	[4f#	[4b
-=7	=7	=7	=7	=7
-4D]	.	4D]	4f#]	4b]
-2C	6	2C	2e	2a
-=8	=8	=8	=8	=8
-4BB	#	4BB	4d#X	4b
-4B	#	4B	4ff#	4dd#X
-4A	#4| 2	4A	4ff#	4dd#
-=9	=9	=9	=9	=9
-2G	6	2G	2b	2ee
-4D#X	6	4D#X	4b	4ff#
-=10	=10	=10	=10	=10
-2E	.	2E	2b	2gg
-[4F#	#	[4F#	[4a#X	[4ff#
-=11	=11	=11	=11	=11
-4F#]	.	4F#]	4a#]	4ff#]
-2G	6	2G	2b	2ee
-=12	=12	=12	=12	=12
-2F#	#	2F#	4a#X	2ff#
-.	.	.	[2ff#	.
-4F#	.	4F#	.	4a#X
-=13	=13	=13	=13	=13
-2G#X	7	2G#X	4ff#]	2b
-.	6	.	[2ee	.
-4A#X	.	4A#X	.	4cc#X
-=14	=14	=14	=14	=14
-2B	4	2B	4ee]	2f#
-.	3	.	[2dd	.
-4D	.	4D	.	4f#
-=15	=15	=15	=15	=15
-2E	7	2E	4dd]	2g
-.	-r6	.	[2cc	.
-4F#	-r5	4F#	.	4a
-=16	=16	=16	=16	=16
-2G	5 4	2G	4cc]	2d
-.	3	.	[2b	.
-4D	6	4D	.	4ff#
-=17	=17	=17	=17	=17
-4E	.	4E	4b]	8eeL
-.	.	.	.	8ddJ
-2F#	#5\ #r4	2F#	4.b	2cc#X
-.	.	.	8a#X	.
-=18	=18	=18	=18	=18
-2BB	-	2BB	2b	4b
-.	.	.	.	[2bb
-4BB	.	4BB	4dd#X	.
-=19	=19	=19	=19	=19
-2C#X	7	2C#X	2ee	4bb]
-.	6	.	.	[2aa
-4D#X	5	4D#X	4ff#	.
-=20	=20	=20	=20	=20
-2E	5 4	2E	2b	4aa]
-.	3	.	.	[2gg
-4G	6	4G	4b	.
-=21	=21	=21	=21	=21
-2A	7	2A	2cc	4gg]
-.	-r6	.	.	[2ffn
-4B	-r5	4B	4dd	.
-=22	=22	=22	=22	=22
-2c	-4	2c	2g	4ff]
-.	3	.	.	[2ee
-4G	6	4G	4bb	.
-=23	=23	=23	=23	=23
-4A	.	4A	8aaL	4ee]
-.	.	.	8ggJ	.
-2B	5 4	2B	2ff#	4.ee
-.	#	.	.	8dd#X
-=24	=24	=24	=24	=24
-2E	5	2E	2ee	4ee
-.	-6	.	.	[2cc
-4C	6	4C	4a	.
-=25	=25	=25	=25	=25
-2D	7	2D	2f#	4cc]
-.	6	.	.	[2b
-4BB	6	4BB	4g	.
-=26	=26	=26	=26	=26
-2C	7	2C	2e	4b]
-.	6	.	.	[2a
-4AA	6	4AA	4f#	.
-=27	=27	=27	=27	=27
-2BB	7 #	2BB	2d#X	2a]
-[4EE	.	[4EE	[4e	[4g
-=28	=28	=28	=28	=28
-4EE]	.	4EE]	4e]	4g]
-2BB	5 4	2BB	4.e	2f#
-.	#	.	8d#X	.
-=29	=29	=29	=29	=29
-2.EE	.	2.EE	2.e	2.e
-=||	=||	=||	=||	=||
-*-	*-	*-	*-	*-
-!!!system-decoration: [{s1,s2},s3,s4]
+**kern	**fb	**kern	**kern
+*part3	*part3	*part2	*part1
+*staff3	*	*staff2	*staff1
+*I"Violone & Organo	*	*I"Violino II	*I"Violino I
+*clefF4	*	*clefG2	*clefG2
+*k[f#]	*	*k[f#]	*k[f#]
+*M3/4	*	*M3/4	*M3/4
+*MM72	*	*MM72	*MM72
+=1	=1	=1	=1
+4r	.	4r	4r
+4E	.	4ee	4gg
+4BB	#	4dd#X	4ff#
+=2	=2	=2	=2
+2E	.	2ee	2gg
+4E	.	4ee	4gg
+=3	=3	=3	=3
+2.AA	6	4.ff#	4.aa
+.	.	8ggL	8bbL
+.	.	8ff#	8aa
+.	.	8eeJ	8ggJ
+=4	=4	=4	=4
+2.BB	#	2.dd#X	2.ff#
+=5	=5	=5	=5
+2G	6	2b	2ee
+4F#	6	4a	4dd
+=6	=6	=6	=6
+2E	6	2g	2cc
+[4D	6	[4f#	[4b
+=7	=7	=7	=7
+4D]	.	4f#]	4b]
+2C	6	2e	2a
+=8	=8	=8	=8
+4BB	#	4d#X	4b
+4B	#	4ff#	4dd#X
+4A	#4| 2	4ff#	4dd#
+=9	=9	=9	=9
+2G	6	2b	2ee
+4D#X	6	4b	4ff#
+=10	=10	=10	=10
+2E	.	2b	2gg
+[4F#	#	[4a#X	[4ff#
+=11	=11	=11	=11
+4F#]	.	4a#]	4ff#]
+2G	6	2b	2ee
+=12	=12	=12	=12
+2F#	#	4a#X	2ff#
+.	.	[2ff#	.
+4F#	.	.	4a#X
+=13	=13	=13	=13
+2G#X	7	4ff#]	2b
+.	6	[2ee	.
+4A#X	.	.	4cc#X
+=14	=14	=14	=14
+2B	4	4ee]	2f#
+.	3	[2dd	.
+4D	.	.	4f#
+=15	=15	=15	=15
+2E	7	4dd]	2g
+.	-r6	[2cc	.
+4F#	-r5	.	4a
+=16	=16	=16	=16
+2G	5 4	4cc]	2d
+.	3	[2b	.
+4D	6	.	4ff#
+=17	=17	=17	=17
+4E	.	4b]	8eeL
+.	.	.	8ddJ
+2F#	#5\ #r4	4.b	2cc#X
+.	.	8a#X	.
+=18	=18	=18	=18
+2BB	-	2b	4b
+.	.	.	[2bb
+4BB	.	4dd#X	.
+=19	=19	=19	=19
+2C#X	7	2ee	4bb]
+.	6	.	[2aa
+4D#X	5	4ff#	.
+=20	=20	=20	=20
+2E	5 4	2b	4aa]
+.	3	.	[2gg
+4G	6	4b	.
+=21	=21	=21	=21
+2A	7	2cc	4gg]
+.	-r6	.	[2ffn
+4B	-r5	4dd	.
+=22	=22	=22	=22
+2c	-4	2g	4ff]
+.	3	.	[2ee
+4G	6	4bb	.
+=23	=23	=23	=23
+4A	.	8aaL	4ee]
+.	.	8ggJ	.
+2B	5 4	2ff#	4.ee
+.	#	.	8dd#X
+=24	=24	=24	=24
+2E	5	2ee	4ee
+.	-6	.	[2cc
+4C	6	4a	.
+=25	=25	=25	=25
+2D	7	2f#	4cc]
+.	6	.	[2b
+4BB	6	4g	.
+=26	=26	=26	=26
+2C	7	2e	4b]
+.	6	.	[2a
+4AA	6	4f#	.
+=27	=27	=27	=27
+2BB	7 #	2d#X	2a]
+[4EE	.	[4e	[4g
+=28	=28	=28	=28
+4EE]	.	4e]	4g]
+2BB	5 4	4.e	2f#
+.	#	8d#X	.
+=29	=29	=29	=29
+2.EE	.	2.e	2.e
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
 !!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

@@ -5,8 +5,8 @@
 !!!OMV: 4
 !!!OMD: Allegro
 **kern	**fb	**kern	**kern
-*part4	*part4	*part2	*part1
-*staff4	*	*staff2	*staff1
+*part3	*part3	*part2	*part1
+*staff3	*	*staff2	*staff1
 *I"Violone & Organo	*	*I"Violino II	*I"Violino I
 *clefF4	*	*clefG2	*clefG2
 *k[]	*	*k[]	*k[]
@@ -283,6 +283,6 @@
 8r	.	8r	8r
 =:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-
-!!!system-decoration: [{s1,s2},s3,s4]
+!!!system-decoration: [{s1,s2},s3]
 !!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
 !!!RDF**kern: i = editorial accidental
