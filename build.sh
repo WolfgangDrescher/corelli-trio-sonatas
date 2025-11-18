@@ -24,9 +24,9 @@ mkdir -p "$KERN_DIR"
 
 filter_violone() {
 	if [ "${REMOVE_VIOLONE:-0}" -eq 1 ]; then
-		extractxx -k 1,3,4
+		extractxx -k 1,3,4 | shed -e 's/part4/part3/I' | shed -e 's/staff4/staff3/I' | sed "s/!!!system-decoration:.*/!!!system-decoration: [{s1,s2},s3]/g"
 	else
-		cat
+		cat | sed "s/!!!system-decoration:.*/!!!system-decoration: [{s1,s2},s3,s4]/g"
 	fi
 }
 
@@ -147,7 +147,6 @@ function join(a, sep,   s,i){
 		| awk -v ops="$OPS" '/^!!!OTL/ {print; print "!!!OPS: " ops; next} {print}' \
 		| awk -v onm="$ONM" '/^!!!OPS/ {print; print "!!!ONM: " onm; next} {print}' \
 		| awk -v omv="$OMV" '/^!!!ONM/ {print; print "!!!OMV: " omv; next} {print}' \
-		| sed "s/!!!system-decoration:.*/!!!system-decoration: [{s1,s2},s3,s4]/g" \
 		| sed "s/!!!COM:.*/!!!COM: Corelli, Arcangelo/g" \
 		| sed "s/!!!OTL/!!!OPR/g" \
 		| awk '
