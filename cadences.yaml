@@ -302,7 +302,8 @@ op04n11b:
 op04n11c:
     # - [3/3, 5/1, TRIPPIA]
     - [4/1, 5/1, doppia]
-    # - [9/3, 10/1, composta]
+    - [8/3, 9/1, composta]
+    - [9/3, 10/1, composta]
     # - [10/3, 11/1, composta]
     # - [11/3, 12/1, ~]
     - [13/1, 14/1, doppia]
