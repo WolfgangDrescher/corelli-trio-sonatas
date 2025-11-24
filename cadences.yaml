@@ -231,6 +231,16 @@ op04n09a:
     - [9/3, 10/1, [doppia, fast]]
     - [12/1, 12/3, [doppia, fast]]
     - [13/1, 13/3, [doppia, fast]]
+op04n09b:
+    - [2/2, 3/1, semplice]
+    - [4/2, 5/1, semplice]
+    - [9/1, 11/1, doppia]
+    - [13/1, 14/1, composta]
+    - [17/1, 19/1, doppia]
+    - [26/1, 28/1, doppia]
+    - [32/1, 33/1, doppia]
+    - [36/1, 38/1, doppia]
+    - [43/1, 45/1, doppia]
 
 
 op04n10a:
