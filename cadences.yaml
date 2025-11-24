@@ -249,7 +249,18 @@ op04n09c:
     - [7/3, 8/3, [doppia, deceptive, special]]
     - [10/3, 11/3, [doppia]]
     - [12/1, 12/3, [phrygian, half]]
-
+op04n09d:
+    - [3/2, 4/2, doppia]
+    - [11/2, 12/2, doppia]
+    - [13/2, 13/2, doppia]
+    - [17/1, 18/2, half]
+    - [22/2, 23/2, doppia]
+    - [27/2, 28/2, doppia]
+    - [33/2, 34/2, doppia]
+    - [39/2, 40/2, doppia]
+    - [43/2, 44/2, doppia]
+    - [49/2, 50/2, doppia]
+    - [55/2, 56/2, doppia]
 
 op04n10a:
     - [1/1, 2/3, [half, special]] # erst ab penultima?

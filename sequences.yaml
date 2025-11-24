@@ -127,7 +127,15 @@ op04n09c:
     - [4/1, 5/1, [Lamento, Fauxbourdon]]
     - [6/2, 7/4, [Synkopenkette]]
     - [11/3, 12/3, [Lamento]]
-
+op04n09d:
+    - [2/2.5, 3/2, Quintfall]
+    - [5/1, 10/2.5, Monte]
+    - [19/1, 22/1, [aufsteigende Quintfälle, quasi 5-6-Konsekutive]]
+    - [24/1, 27/1, [aufsteigende Quintfälle, quasi 5-6-Konsekutive]]
+    - [29/1, 27/1, [Quintfall]]
+    - [35/1, 38/2.5, [Monte]]
+    - [45/1, 49/2, [Dezimensatz]]
+    - [51/1, 55/2, [Dezimensatz]]
 
 op04n10a:
     - [1/1, 2/3, [Lamento in Dur (Oktavregel)]]
