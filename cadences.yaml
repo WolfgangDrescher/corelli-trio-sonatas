@@ -224,6 +224,14 @@ op04n08c:
     - [12/1, 12/2, semplice]
     - [16/1, 16/2, semplice]
 
+op04n09a:
+    - [3/1, 3/3, semplice]
+    - [4/1, 4/3, semplice]
+    - [6/1, 6/3, [doppia, fast]]
+    - [9/3, 10/1, [doppia, fast]]
+    - [12/1, 12/3, [doppia, fast]]
+    - [13/1, 13/3, [doppia, fast]]
+
 
 op04n10a:
     - [1/1, 2/3, [half, special]] # erst ab penultima?
