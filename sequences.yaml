@@ -110,14 +110,15 @@ op04n08c:
 
 
 op04n10a:
-op04n10b:
     - [1/1, 2/3, [Lamento in Dur (Oktavregel)]]
+op04n10b:
+    # - [1/1, 2/3, [Lamento in Dur (Oktavregel)]] # falsche 6. Bassstufe
     - [3/1, 6/4.5, [Synkopenkette]]
     - [3/1, 5/2.5, [Romanesca, Synkopenkette]]
     - [8/3, 11/1, [Monte]]
     - [13/3, 19/1, [Fonte, unregelmässig]] # 3. Sequenzglied Terz abwärts
     - [19/1, 20/3, [Fauxbourdon]]
-    - [21/1, 22/3, [Lamento in Dur (Oktavregel)]]
+    # - [22/1, 35/3, [Lamento in Dur (Oktavregel)]] # falsche 6. Bassstufe
     - [24/1, 28/2, [Synkopenkette]]
     - [24/1, 26/2.5, [Romanesca, Synkopenkette]]
     - [29/2.5, 30/4.5, [5-6-Konsekutive aufwärts]]
@@ -128,12 +129,14 @@ op04n10d:
     - [9/1, 9/4, [Karussell]]
     - [10/4, 11/4.5, [Synkopenkette]]
     - [10/3, 11/2, [Karussell]]
+    - [13/1, 14/3, [Lamento]]
 op04n10e:
     - [1/1, 2/2.5, Romanesca]
+    - [9/1, 12/2, Lamento in Dur (Oktavregel)]
     - [19/1, 10/2, Lamento in Dur (Oktavregel)]
-    - [25/1, 28/1, Fonte]
+    - [25/1, 28/2.5, Fonte]
     - [32/1, 35/1, quasi-Fonte]
-    - [40/2.5, 43/1, Fauxbourdon]
+    - [41/2.5, 44/1, Fauxbourdon]
     - [44/2.5, 47/1, Fauxbourdon]
 
 op04n11a:

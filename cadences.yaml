@@ -226,7 +226,7 @@ op04n08c:
 
 
 op04n10a:
-    - [1/1, 2/3, half] # erst ab penultima?
+    - [1/1, 2/3, [half, special]] # erst ab penultima?
 op04n10b:
     - [1/1, 2/3, half] # erst ab penultima?
     - [5/3, 6/3, [doppia, special, feigned]] # abgetäuschte doppia "trippia"
@@ -258,7 +258,7 @@ op04n10d:
     - [9/1, 9/3, ~]
     - [10/1, 11/1, [doppia, deceptive]]
     - [12/1, 13/1, doppia]
-    - [13/1, 14/3, [phrygian, half]]
+    - [13/1, 14/3, [phrygian, half]] # erst ab penultima?
 op04n10e:
     - [4/1, 4/2, half]
     - [7/2, 8/2, doppia]
