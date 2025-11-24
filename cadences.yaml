@@ -226,14 +226,14 @@ op04n08c:
 
 
 op04n10a:
-    - [1/1, 2/3, half]
+    - [1/1, 2/3, half] # erst ab penultima?
 op04n10b:
-    - [1/1, 2/3, half]
-    - [5/3, 8/1, TRIPPIA]
+    - [1/1, 2/3, half] # erst ab penultima?
+    - [5/3, 6/3, [doppia, special, feigned]] # abgetäuschte doppia "trippia"
     - [7/1, 8/1, doppia]
-    - [8/3, 9/1, ~]
-    - [9/3, 10/1, ~]
-    - [10/3, 11/1, ~]
+    - [8/3, 9/1, cantizans]
+    - [9/3, 10/1, cantizans]
+    - [10/3, 11/1, cantizans]
     - [12/1, 13/1, doppia]
     - [13/3, 14/1, semplice]
     - [14/3, 15/1, semplice]
@@ -242,9 +242,9 @@ op04n10b:
     - [17/3, 18/1, semplice]
     - [18/3, 19/1, semplice]
     - [20/3, 21/3, doppia]
-    - [22/1, 23/3, half]
-    - [26/3, 27/3, TRIPPIA]
-    - [28/1, 29/1, ~]
+    - [22/1, 23/3, half] # erst ab penultima?
+    - [26/3, 27/3, [doppia, special, feigned]] # abgetäuschte doppia "trippia"
+    - [28/1, 29/1, half]
     - [31/1, 32/1, doppia]
     - [32/3, 33/1, half]
 op04n10c:
@@ -269,7 +269,7 @@ op04n10e:
     - [29/1, 30/2, deceptive] # start 29/2
     - [31/1, 32/2, doppia] # start 31/2
     - [33/1, 34/2, doppia] # start 33/2
-    - [35/1, 36/2, half]
+    - [35/1, 36/2, [half, deceptive, quasi-doppia]] # sollte als Fonte eine doppia sein
     - [39/2, 40/2, doppia]
     - [43/2, 44/2, doppia]
     - [47/2, 48/2, doppia]

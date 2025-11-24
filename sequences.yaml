@@ -109,13 +109,32 @@ op04n08c:
     - [9/1, 10/2+2/3, quintstieg]
 
 
+op04n10a:
+op04n10b:
+    - [1/1, 2/3, [Lamento in Dur (Oktavregel)]]
+    - [3/1, 6/4.5, [Synkopenkette]]
+    - [3/1, 5/2.5, [Romanesca, Synkopenkette]]
+    - [8/3, 11/1, [Monte]]
+    - [13/3, 19/1, [Fonte, unregelmässig]] # 3. Sequenzglied Terz abwärts
+    - [19/1, 20/3, [Fauxbourdon]]
+    - [21/1, 22/3, [Lamento in Dur (Oktavregel)]]
+    - [24/1, 28/2, [Synkopenkette]]
+    - [24/1, 26/2.5, [Romanesca, Synkopenkette]]
+    - [29/2.5, 30/4.5, [5-6-Konsekutive aufwärts]]
+op04n10c:
 op04n10d:
     - [2/4, 4/4, [Synkopenkette, Stimmtausch, Karussell]]
     - [6/2, 9/3, [Synkopenkette, Stimmtausch]]
     - [9/1, 9/4, [Karussell]]
     - [10/4, 11/4.5, [Synkopenkette]]
     - [10/3, 11/2, [Karussell]]
-
+op04n10e:
+    - [1/1, 2/2.5, Romanesca]
+    - [19/1, 10/2, Lamento in Dur (Oktavregel)]
+    - [25/1, 28/1, Fonte]
+    - [32/1, 35/1, quasi-Fonte]
+    - [40/2.5, 43/1, Fauxbourdon]
+    - [44/2.5, 47/1, Fauxbourdon]
 
 op04n11a:
     - [2/3, 4/1, [Quintfall, fast]]
