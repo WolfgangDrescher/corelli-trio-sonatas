@@ -13,6 +13,8 @@
 *M3/4	*	*M3/4	*M3/4	*M3/4
 *MM176	*	*MM176	*MM176	*MM176
 =1	=1	=1	=1	=1
+!!!OMD: Allegro
+*MM176	*	*MM176	*MM176	*MM176
 2.F	.	2.r	2.r	8ffL
 .	.	.	.	8ee
 .	.	.	.	8ff
@@ -389,8 +391,8 @@
 =72	=72	=72	=72	=72
 2.D	.	2.D	2.dd	2.dd
 =73	=73	=73	=73	=73
-*MM100	*	*MM100	*MM100	*MM100
-!	!	!	!	!LO:TX:a:t=[quarter]=100
+!!!OMD: Adagio
+*MM72	*	*MM72	*MM72	*MM72
 2.r	.	2.r	2.r	(8dddL
 .	.	.	.	8ccc
 .	.	.	.	8bb-
@@ -450,8 +452,8 @@
 2.E-X	-7	2.E-X	2.g	(2dd-Xt
 .	6	.	.	4cc)
 =87	=87	=87	=87	=87
-*MM168	*	*MM168	*MM168	*MM168
-!	!	!	!	!LO:TX:a:t=[quarter]=168
+!!!OMD: Allegro
+*MM176	*	*MM176	*MM176	*MM176
 4.E	6	4.E	8ccL	8eeL
 .	.	.	8bn	8dd
 .	.	.	8cc	8ee

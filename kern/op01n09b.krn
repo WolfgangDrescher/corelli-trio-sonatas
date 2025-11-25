@@ -13,6 +13,8 @@
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)	*met(c)
 =1	=1	=1	=1	=1
+!!!OMD: Adagio
+*MM36	*	*MM36	*MM36	*MM36
 [2D	#	[2D	4r	2r
 .	.	.	4dd	.
 2D]	7 5	2D]	4cc	4r
@@ -36,8 +38,10 @@
 .	#	.	4f#X	.
 2GG	.	2GG	2g	2g
 =5:|!|:	=5:|!|:	=5:|!|:	=5:|!|:	=5:|!|:
+!!!OMD: Allegro
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)	*met(c)
+*MM104	*	*MM104	*MM104	*MM104
 4GG	.	1r	1r	4g
 2G	5	.	.	16r
 .	.	.	.	16gLL

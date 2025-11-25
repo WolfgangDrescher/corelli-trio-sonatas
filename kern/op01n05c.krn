@@ -12,6 +12,8 @@
 *k[b-]	*	*k[b-]	*k[b-]	*k[b-]
 *M3/2	*	*M3/2	*M3/2	*M3/2
 =1	=1	=1	=1	=1
+!!!OMD: Adagio
+*MM104	*	*MM104	*MM104	*MM104
 2r	.	2r	2r	2r
 2r	.	2r	2r	2r
 2G	.	2G	2b-	2dd
@@ -25,8 +27,10 @@
 =4	=4	=4	=4	=4
 1.D	#	1.D	1.f#X	1.dd
 =5||	=5||	=5||	=5||	=5||
+!!!OMD: Allegro
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)	*met(c)
+*MM104	*	*MM104	*MM104	*MM104
 2B-	.	1r	1r	8r
 .	.	.	.	16b-LL
 .	.	.	.	16ccJJ
@@ -66,6 +70,8 @@
 16GLL	.	16GLL	.	.
 16FJJ	.	16FJJ	.	.
 =8	=8	=8	=8	=8
+!!!OMD: Adagio
+*MM36	*	*MM36	*MM36	*MM36
 4B-	.	4B-	4bb-	4dd
 4A	6	4A	2ff	4cc
 4G	7	4G	.	2b-
@@ -74,8 +80,10 @@
 2F	.	2F	2ff	2a
 2r;	.	2r;	2r;	2r;
 =10||	=10||	=10||	=10||	=10||
+!!!OMD: Allegro
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)	*met(c)
+*MM104	*	*MM104	*MM104	*MM104
 2F	.	1r	1r	8r
 .	.	.	.	16fLL
 .	.	.	.	16gJJ
@@ -115,6 +123,8 @@
 16dLL	.	16dLL	.	.
 16cJJ	.	16cJJ	.	.
 =13	=13	=13	=13	=13
+!!!OMD: Adagio
+*MM36	*	*MM36	*MM36	*MM36
 4f	.	4f	4ff	4aa
 4e	6	4e	2ccc	4gg
 4d	7	4d	.	2ff
@@ -123,7 +133,9 @@
 2c	.	2c	2ccc	2ee
 2r	.	2r	2r	2r
 =15||	=15||	=15||	=15||	=15||
+!!!OMD: Adagio
 *M3/2	*	*M3/2	*M3/2	*M3/2
+*MM104	*	*MM104	*MM104	*MM104
 2C	-	2C	2gg	2ee-X
 1AA	6 -5	1AA	2.ff	2.ee-
 .	.	.	4ff	4dd
@@ -140,8 +152,10 @@
 =20	=20	=20	=20	=20
 1.D	#	1.D	1.f#X	1.dd
 =21||	=21||	=21||	=21||	=21||
+!!!OMD: Allegro
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)	*met(c)
+*MM104	*	*MM104	*MM104	*MM104
 2BB-	.	8r	1r	1r
 .	.	16BB-LL	.	.
 .	.	16CJJ	.	.
@@ -196,11 +210,15 @@
 .	6 4	.	[2ff	2aa-X
 4BBn	7 5	4BBn	.	.
 =27	=27	=27	=27	=27
+!!!OMD: Adagio
+*MM36	*	*MM36	*MM36	*MM36
 2C	5 4	2C	4ff]	2gg
 .	3	.	4ee	.
 2FF	.	2FF	2ff	2ff
 =28||	=28||	=28||	=28||	=28||
+!!!OMD: Adagio e piano
 *M3/2	*	*M3/2	*M3/2	*M3/2
+*MM104	*	*MM104	*MM104	*MM104
 2r	.	2r	2r	2r
 2r	.	2r	2r	2r
 [2D	6	[2D	[2f	[2b-

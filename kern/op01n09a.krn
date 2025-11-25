@@ -14,6 +14,8 @@
 *met(c)	*	*met(c)	*met(c)	*met(c)
 *MM104	*	*MM104	*MM104	*MM104
 =1	=1	=1	=1	=1
+!!!OMD: Allegro
+*MM104	*	*MM104	*MM104	*MM104
 [1GG	.	4r	1r	4r
 .	.	8r	.	8r
 .	.	8GG	.	8g
@@ -89,6 +91,7 @@
 2GG]	.	1r;	2G	1r
 2r;	.	.	2r;	.
 =10||	=10||	=10||	=10||	=10||
+!!!OMD: Allegro
 *M3/4	*	*M3/4	*M3/4	*M3/4
 *MM176	*	*MM176	*MM176	*MM176
 2G	.	2.r	2.r	8gL
@@ -211,6 +214,9 @@
 =28	=28	=28	=28	=28
 4GG	.	4GG	4b	4gg
 4r	.	4r	4r	4r
+!!!OMD: Adagio e piano
+*MM72	*	*MM72	*MM72	*MM72
+!	!	!	!	!LO:TX:a:B:t=Adagio e piano
 4G	.	4G	4dd	4b
 =29	=29	=29	=29	=29
 4r	.	4r	4r	4r
@@ -219,6 +225,7 @@
 =30	=30	=30	=30	=30
 2.D	#	2.D	2.f#X	2.dd
 =31||	=31||	=31||	=31||	=31||
+!!!OMD: Allegro
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)	*met(c)
 *MM104	*	*MM104	*MM104	*MM104
