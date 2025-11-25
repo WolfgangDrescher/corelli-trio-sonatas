@@ -4,6 +4,7 @@ import { execSync } from 'node:child_process';
 // Tempo table: [OMD, meter, MM value]
 const tempos = [
 	['Adagio', '3/2', 104],
+	['Adagio e piano', '3/2', 104],
 	['Adagio', '3/4', 72],
 	['Adagio', '3/8', 40],
 	['Adagio', '4/4', 36],
@@ -60,14 +61,28 @@ try {
 
 		const output = [];
 		let currentMeasure = 0;
+		let currentMeter = null;
+		let currentTempo = null;
 
 		for (let i = 0; i < lines.length; i++) {
 			const line = lines[i];
 
-			// Track measure number
+			// Track current measure number
 			if (line.startsWith('=')) {
 				const m = line.match(/^=(\d+)/);
 				if (m) currentMeasure = parseInt(m[1]);
+			}
+
+			// Track current tempo
+			if (line.startsWith('!!!OMD')) {
+				const t = line.match(/^!!!OMD: (.+)$/);
+				if (t) currentTempo = t[1].trim();
+			}
+
+			// Track current meter
+			if (line.startsWith('*M')) {
+				const mm = line.match(/^\*M(\d+)\/(\d+)/);
+				if (mm) currentMeter = `${mm[1]}/${mm[2]}`;
 			}
 
 			// Remove tempo comment (!...Adagio etc.) in measure 0 or 1
@@ -80,54 +95,34 @@ try {
 
 			output.push(line);
 
-			// Detect time signature line (*M...)
-			const match = line.match(/^\*M(\d+)\/(\d+)/);
-			if (match) {
-				const meter = `${match[1]}/${match[2]}`;
-				const tempoEntry = findTempo(omd, meter);
+			const matchLineToAddMM = (line) => {
+				return line.match(/^\*M(\d+)\/(\d+)/)
+					|| line.startsWith('!!!OMD')
+					|| line.startsWith('*met')
+				;
+			}
 
-				if (!tempoEntry) {
-					console.warn(`⚠️ No tempo for ${omd} (${meter}) in ${filename}`);
-					continue;
-				}
-
-				const mmValue = tempoEntry[2];
-				let insertIndex = i + 1; // default: after *M line
-
-				// If next line is *met, place MM after that line instead
-				const nextLine = lines[i + 1] || '';
-				if (nextLine.includes('*met')) {
-					output.push(nextLine); // keep the *met line before inserting *MM
-					i++; // skip it
-					insertIndex = i + 1;
-				}
-
-				// Check if the next relevant line already contains *MM
-				const afterNext = lines[insertIndex] || '';
-				if (afterNext.includes('*MM')) {
-					// Replace existing *MM line with new tempo
-					const replaced = afterNext
-						.split('\t')
-						.map((cell, idx) => kernCols[idx] ? `*MM${mmValue}` : cell.startsWith('*') ? '*' : cell)
-						.join('\t');
-					output.push(replaced);
-					i++; // skip original *MM
-				} else {
-					// Insert new *MM line after *M or *met
-					const newLine = headers.map((h, idx) =>
-						kernCols[idx] ? `*MM${mmValue}` : '*'
-					).join('\t');
-					output.push(newLine);
+			// Add new MM after time signature (*M...) or tempo (!!!OMD...) changes
+			if (matchLineToAddMM(line)) {
+				const nextLine = lines[i + 1];
+				if (!matchLineToAddMM(nextLine)) {
+					const tempoEntry = findTempo(currentTempo, currentMeter);
+					if (tempoEntry) {
+						const mmValue = tempoEntry[2];
+						const newLine = headers.map((h, idx) =>
+							kernCols[idx] ? `*MM${mmValue}` : '*'
+						).join('\t');
+						output.push(newLine);
+					} else if (currentMeasure > 1) {
+						console.warn(`⚠️ No tempo for ${currentTempo} ${currentMeter} in ${filename}`);
+					}
 				}
 			}
 		}
 
-		// Combine all lines back into text
-		const outputString = output.join('\n');
-
 		// Clean redundant interpretations using Humdrum tool "ridxx"
 		const cleaned = execSync(`ridxx -i`, {
-			input: outputString,
+			input: output.join('\n'),
 			encoding: 'utf8'
 		}).trim();
 
