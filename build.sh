@@ -193,5 +193,6 @@ done
 echo "Done! Humdrum files: $KERN_DIR/"
 
 npm i
+node fix-tempo.mjs
 node add-modulations.mjs
 node add-tempo.mjs
