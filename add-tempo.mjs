@@ -2,12 +2,14 @@ import fs from 'node:fs';
 import { execSync } from 'node:child_process';
 
 // Tempo table: [OMD, meter, MM value]
-const tempos = [
+const tempi = [
 	['Adagio', '3/2', 104],
 	['Adagio e piano', '3/2', 104],
 	['Adagio', '3/4', 72],
+	['Adagio e piano', '3/4', 72],
 	['Adagio', '3/8', 40],
 	['Adagio', '4/4', 36],
+	['Adagio', '2/2', 36],
 	['Grave', '3/2', 132],
 	['Grave', '4/4', 34],
 	['Largo', '3/2', 108],
@@ -27,11 +29,11 @@ const tempos = [
 	['Allegro', '6/8', 152],
 ];
 
-const tempoNames = [...new Set(tempos.map(([name]) => name.toLowerCase()))];
+const tempoNames = [...new Set(tempi.map(([name]) => name.toLowerCase()))];
 
 // Helper: find MM value for a given OMD + meter
 function findTempo(omd, meter) {
-	return tempos.find(([tOmd, tMeter]) =>
+	return tempi.find(([tOmd, tMeter]) =>
 		tOmd.trim().toLowerCase() === omd.trim().toLowerCase() &&
 		tMeter === meter
 	);
@@ -67,6 +69,11 @@ try {
 		for (let i = 0; i < lines.length; i++) {
 			const line = lines[i];
 
+			// Ignore metronome numbers of original score
+			if (line.startsWith('*MM')) {
+				continue;
+			}
+
 			// Track current measure number
 			if (line.startsWith('=')) {
 				const m = line.match(/^=(\d+)/);
@@ -85,8 +92,15 @@ try {
 				if (mm) currentMeter = `${mm[1]}/${mm[2]}`;
 			}
 
-			// Remove tempo comment (!...Adagio etc.) in measure 0 or 1
-			if (currentMeasure <= 1 && line.startsWith('!') && !line.startsWith('!!!')) {
+			// Remove all tempo comment (!...Adagio etc.)
+			if (line.startsWith('!') && !line.startsWith('!!!')) {
+				// see fix-tempo.mjs. !!!OMD will only be rendered in Verovio
+				// if bound to the first note of a measure. This workaround
+				// ensures the diplay of the tempo marking.
+				if (line.includes('KEEP')) {
+					output.push(line.replace('KEEP', ''));
+					continue;
+				}
 				const lower = line.toLowerCase();
 				const isTempoComment = tempoNames.some(t => lower.includes(t));
 				const isMMComment = /t=.*=\d+/i.test(lower);
@@ -95,38 +109,49 @@ try {
 
 			output.push(line);
 
+			// Helper to detect lines that should block MM insertion
 			const matchLineToAddMM = (line) => {
-				return line.match(/^\*M(\d+)\/(\d+)/)
+				return /^\*M\d+\/\d+/.test(line)
 					|| line.startsWith('!!!OMD')
 					|| line.startsWith('*met')
+					|| /^\*MM\d+/.test(line)
 				;
-			}
+			};
 
-			// Add new MM after time signature (*M...) or tempo (!!!OMD...) changes
+			// Add or replace MM after *M or !!!OMD
 			if (matchLineToAddMM(line)) {
 				const nextLine = lines[i + 1];
-				if (!matchLineToAddMM(nextLine)) {
-					const tempoEntry = findTempo(currentTempo, currentMeter);
-					if (tempoEntry) {
-						const mmValue = tempoEntry[2];
-						const newLine = headers.map((h, idx) =>
-							kernCols[idx] ? `*MM${mmValue}` : '*'
-						).join('\t');
-						output.push(newLine);
-					} else if (currentMeasure > 1) {
-						console.warn(`⚠️ No tempo for ${currentTempo} ${currentMeter} in ${filename}`);
+				const tempoEntry = findTempo(currentTempo, currentMeter);
+
+				if (tempoEntry) {
+					const mmValue = tempoEntry[2];
+					const newMM = headers.map((h, idx) =>
+						kernCols[idx] ? `*MM${mmValue}` : '*'
+					).join('\t');
+
+					// Case A: replace existing MM
+					if (/^\*MM\d+/.test(nextLine)) {
+						output.push(newMM);
+						i++; // skip old MM
+						continue;
 					}
+
+					// Case B: insert new MM
+					if (!matchLineToAddMM(nextLine)) {
+						output.push(newMM);
+					}
+				} else if (currentMeasure > 1) {
+					console.warn(`⚠️ No tempo for ${currentTempo} ${currentMeter} in ${filename}`);
 				}
 			}
 		}
 
-		// Clean redundant interpretations using Humdrum tool "ridxx"
+		// Clean redundant interpretations
 		const cleaned = execSync(`ridxx -i`, {
 			input: output.join('\n'),
 			encoding: 'utf8'
 		}).trim();
 
-		// Write back to the same file
 		fs.writeFileSync(path, cleaned, 'utf8');
 		console.log(`✔ Inserted MM lines for ${filename} (${omd})`);
 	}
