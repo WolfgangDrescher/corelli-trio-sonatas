@@ -181,6 +181,7 @@ function join(a, sep,   s,i){
 { print }
 ' \
 		| barnum \
+		| ridxx -gild \
 		| tee "$KERN_DIR/$kern_file" > /dev/null
 
 	# remove if last byte is a newline
