@@ -1,0 +1,107 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 8
+!!!OMV: 1
+!!!OMD: Grave
+**kern	**harm	**fb	**kern	**kern	**kern
+*part4	*above	*part4	*part3	*part2	*part1
+*staff4	*	*	*staff3	*staff2	*staff1
+*I"Organo	*	*	*I"Violone	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefF4	*clefG2	*clefG2
+*k[b-e-]	*	*	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*g:	*	*	*g:	*g:	*g:
+*M4/4	*	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)	*met(c)
+*MM34	*	*	*MM34	*MM34	*MM34
+=1	=1	=1	=1	=1	=1
+4c	c.i{	.	4c	4r	2cc
+4A-X	VI	.	4A-X	2cc	.
+4G	V(4)	5 4	4G	.	2dd
+4GG	V	n	4GG	4bn	.
+=2	=2	=2	=2	=2	=2
+8CL	i	.	8CL	4cc	2ee-
+8D	.	.	8D	.	.
+8E-	i6	6	8E-	2cc	.
+8FJ	.	.	8FJ	.	.
+2G	V(4)	5 4	2G	.	4dd
+.	V	n	.	4bn	(8ggL
+.	.	.	.	.	8ffJ)
+=3	=3	=3	=3	=3	=3
+4.c	i	.	4.c	4.cc	(8ee-L
+.	.	.	.	.	8ffJ)
+.	.	.	.	.	2gg
+8B-	v6	6	8B-	8dd	.
+2A-X	iv6(2)	7	2A-X	2cc	.
+.	iv6	6	.	.	4ff
+=4	=4	=4	=4	=4	=4
+2G	V|HC}	n	2G	2bn	2gg
+2r;	.	.	2r;	2r;	2r;
+=5	=5	=5	=5	=5	=5
+4G	i/v{	-	4G	4r	2gg
+4E-	VI/v	.	4E-	2gg	.
+4D	V(4)/v	5 4	2D	.	2aa
+4DD	V/v	#	.	4ff#X	.
+=6	=6	=6	=6	=6	=6
+8GGL	i/v	.	8GGL	4gg	2bb-
+8AA	.	.	8AA	.	.
+8BB-	i6/v	6	8BB-	2gg	.
+8CJ	.	.	8CJ	.	.
+2D	V(4)/v	5 4	2D	.	4aa
+.	V/v	#	.	4ff#X	(8dddL
+.	.	.	.	.	8cccJ)
+=7	=7	=7	=7	=7	=7
+4.G	i/v	.	4.G	4.gg	(8bb-L
+.	.	.	.	.	8cccJ)
+.	.	.	.	.	2ddd
+8F	v6/v	6	8F	8aa	.
+2E-	iv6(2)/v	7	2E-	2gg	.
+.	iv6/v	6	.	.	4ccc
+=8	=8	=8	=8	=8	=8
+2D	V/v|HC}	#	2D	2ff#X	2ddd
+2F#X	V65/v{	6	2r	2r	4dd
+.	.	5	.	.	4cc
+=9	=9	=9	=9	=9	=9
+2G	i/v	-	2r	4gg	4b-
+.	V7	7 n	.	4ffni	4bn
+4c	i	.	4c	4ee-	4cc
+4B-	V2/iv	6 #4|	4B-	4een	4g
+=10	=10	=10	=10	=10	=10
+4A-X	iv6	6	4A-X	4ff	2cc
+4An	viio/VII	-r5	4An	4ee-Xi	.
+4B-	v6	6	4B-	2dd	4gg
+4Bn	#viio	5	4Bn	.	4ff
+=11	=11	=11	=11	=11	=11
+4c	i	.	4c	4cc	4ee-
+4G	#viio6/iv	#6\	4G	4b-	4een
+4F	i/iv	-	4F	4a-X	[2ff
+4BB-Xi	iv/iv	5 -	4BB-Xi	4dd-X	.
+=12	=12	=12	=12	=12	=12
+2C	V(4)/iv	5 4	2C	2g	4ff]
+.	V/iv	n	.	.	4een
+4F	i/iv|PAC}{	-	4F	4f	4ff
+4En	V6/iv	6	4En	4g	[4cc
+=13	=13	=13	=13	=13	=13
+4F	iv	-	4F	4a-X	4cc]
+4F#X	V6/V	6 n	4F#X	4an	(8ddL
+.	.	.	.	.	8ccJ)
+4G	V	n	4G	4d	2bn
+4Fn	V2	6 #4|	4Fn	4dd	.
+=14	=14	=14	=14	=14	=14
+4E-	i6	6	4E-	4g	4cc
+4En	#viio/iv	5	4En	4gg	4b-Xi
+4F	iv	-	4F	4cc	4a-X
+4F#X	V6/V	6 n	4F#X	[4dd	4an
+=15	=15	=15	=15	=15	=15
+2G	V	5 n	2G	4dd]	8bnL
+.	.	.	.	.	8gJ
+.	V(64)	6 4	.	4ee-	2cc
+2GG	V(4)	5 4	2GG	2dd	.
+.	V	n	.	.	4b
+=16	=16	=16	=16	=16	=16
+1C	i|PAC}	.	1C	1cc	1cc
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

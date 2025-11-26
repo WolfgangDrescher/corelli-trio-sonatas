@@ -1,0 +1,170 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 1
+!!!OMV: 3
+!!!OMD: Adagio
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[b-]	*	*	*k[b-]	*k[b-]
+*M3/4	*	*	*M3/4	*M3/4
+*MM72	*	*	*MM72	*MM72
+=1	=1	=1	=1	=1
+2.F	F.I{	.	4r	4r
+.	.	.	4ff	4aa
+.	ii2	.	4gg	4bb-
+=2	=2	=2	=2	=2
+4.F	I	5 2	4.aa	4.ccc
+8G	.	.	8gg	8bb-
+4A	I6	6	4ff	4aa
+=3	=3	=3	=3	=3
+4B-	ii65	6 5	8ggL	4ddd
+.	.	.	8bb-J	.
+4c	V(64)	6 4	4.aa	4.ccc
+4C	V	5 3	.	.
+.	.	.	8gg	8bb-
+=4	=4	=4	=4	=4
+4D	vi|DC	5	2ff	4.aa
+4F	I	.	.	.
+.	.	.	.	8bb-
+4E	V6	6	4gg	4ccc
+=5	=5	=5	=5	=5
+2D	vi.VI6	6	2ff	2bb-
+4C	v6	6	4ee	[4aa
+=6	=6	=6	=6	=6
+4BB-	iv6(2)	7	4dd	4aa]
+2BB-	iv6	7	4.dd	4.gg
+.	iv6	6	.	.
+.	.	.	8cc#X	8aa
+=7	=7	=7	=7	=7
+2AA	V|HC}	#	2cc#X	4aa
+.	.	.	.	[2aa
+4AA	.	.	4cc#	.
+=8	=8	=8	=8	=8
+2BBn	IV6(2)	7	2dd	4aa]
+.	IV6	6	.	[2gg
+4C#X	#viio	5	4ee	.
+=9	=9	=9	=9	=9
+2D	i(4)	7	2a	4gg]
+.	i	6	.	[2ff
+4F	i6	6	4dd	.
+=10	=10	=10	=10	=10
+2G	bII6(2)	7	2b-	4ff]
+.	bII6	-r6	.	[2ee-X
+4A	viio/VI	-r5	4cc	.
+=11	=11	=11	=11	=11
+2B-	VI(b4)	-4	2f	4ee-]
+.	VI	3	.	[2dd
+4F	i6	6	4a	.
+=12	=12	=12	=12	=12
+4G	iv7	7 5	4b-	4dd]
+4A	V(4)	5 4	4.e	4.dd
+4AA	V	#	.	.
+.	.	.	8e	8cc#X
+=13	=13	=13	=13	=13
+4DD	i|PAC}{	.	2d	4dd
+4D	VI6	6	.	[2b-
+4E	V65/III	6 5	4r	.
+=14	=14	=14	=14	=14
+4F	III(4)	5 4	4r	4b-]
+4F	i6	6 3	[2dd	4a
+4G	iv	5	.	4b-
+=15	=15	=15	=15	=15
+2A	V(4)	5 4	4dd]	4e
+.	V	#	4cc#X	[2aa
+4A	.	.	4r	.
+=16	=16	=16	=16	=16
+2B-	iv6(2)	7	2.bb-	4aa]
+.	iv6	6	.	[2gg
+4G	iv	.	.	.
+=17	=17	=17	=17	=17
+4c	I.iii65	6 5	2.aa	4gg]
+4A	I6	6	.	[2ff
+4F	I	.	.	.
+=18	=18	=18	=18	=18
+4G	V7/V	7 n	4bbn	4ff]
+4A-X	v.VI	-r5	[2ccc	2ee-X
+4E-X	i6	6	.	.
+=19	=19	=19	=19	=19
+4F	ii65	6 5	4ccc]	4dd
+4G	V	n	2bbn	2dd
+4GG	.	.	.	.
+=20	=20	=20	=20	=20
+4c	i|PAC}{	-	4ccc	4cc
+4B-	vi.iv6	6	4r	4gg
+4A	#viio6/iv	#6\	4r	4aa
+=21	=21	=21	=21	=21
+2G	iv	5	4r	4bb-
+.	.	.	4dd	[2bb-
+4GG	iio6	6	4ee	.
+=22	=22	=22	=22	=22
+2D	VI6	6	4ff	4bb-]
+.	i	5	[2ff	2aa
+4AA	I.I6	6	.	.
+=23	=23	=23	=23	=23
+4BB-	ii65	6 5	4ff]	2.gg
+4C	V	5	[2ee	.
+4c	.	.	.	.
+=24	=24	=24	=24	=24
+4A	IM65	6 5	4ee]	2.ff
+4F	vi.i6	6	[2dd	.
+4D	i	.	.	.
+=25	=25	=25	=25	=25
+4G	ii%65	6 5	4dd]	2.ee
+4A	V	#	2cc#X	.
+4AA	.	.	.	.
+=26	=26	=26	=26	=26
+2D	i|PAC}{	5	4dd	4dd
+.	I.IV6	6	[2bb-	4r
+4G	ii	.	.	4r
+=27	=27	=27	=27	=27
+4E	V65	6 5	4bb-]	2.cc
+4C	iii6	6	[2aa	.
+4AA	I6	6	.	.
+=28	=28	=28	=28	=28
+4BB-	ii6(2)	7	4aa]	2.dd
+2BBn	V6/V	6	[2gg	.
+=29	=29	=29	=29	=29
+2C	V	.	4gg]	4ee
+.	.	.	4r	[2ccc
+4AA	I6	6	4cc	.
+=30	=30	=30	=30	=30
+2BB-	IV(9)	9	2dd	4ccc]
+.	IV	8	.	[2bb-
+4GG	ii	.	4dd	.
+=31	=31	=31	=31	=31
+4C	V7	7	4ee	4bb-]
+4D-X	bVI	-r5	[2ff	2aa-X
+4AA-X	i6	6	.	.
+=32	=32	=32	=32	=32
+4BB-	ii%65	6 5 -	4ff]	4gg
+4C	V(4)	5 4	4.ff	2gg
+4CC	V	.	.	.
+.	.	.	8ee	.
+=33	=33	=33	=33	=33
+2FF	i|PAC}	-	4ff	4ff
+.	.	.	4r	[2ccc
+4AA	I6	6	4cc	.
+=34	=34	=34	=34	=34
+2BB-	IV(9)	9	2dd	4ccc]
+.	IV	8	.	[2bb-
+4GG	ii	.	4dd	.
+=35	=35	=35	=35	=35
+4C	V7	7	4ee	4bb-]
+4D-X	bVI	-r5	[2ff	2aa-X
+4AA-X	i6	6	.	.
+=36	=36	=36	=36	=36
+4BB-	ii%65	6 5 -	4ff]	4gg
+4C	V(4)	5 4	4.ff	2gg
+4CC	V	3	.	.
+.	.	.	8ee	.
+=37	=37	=37	=37	=37
+2.FF	I|PAC}	n	2ff	2ff
+.	.	.	4r	4r
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

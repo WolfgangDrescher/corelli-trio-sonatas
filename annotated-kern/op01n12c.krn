@@ -1,0 +1,102 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 12
+!!!OMV: 3
+!!!OMD: Grave
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[f#c#]	*	*	*k[f#c#]	*k[f#c#]
+*b:	*	*	*b:	*b:
+*M4/4	*	*	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)
+*MM34	*	*	*MM34	*MM34
+=1	=1	=1	=1	=1
+4B	b.i{	.	4dd	4ff#
+4A#X	V6	6	4cc#	4ff#
+2B	i	.	2dd	2ff#
+=2	=2	=2	=2	=2
+4B	.	.	4f#	4dd
+4Ani	v6	6	[4f#	4cc#
+2G	iv6(2)	7	4f#]	2b
+.	iv6	6	4e	.
+=3	=3	=3	=3	=3
+2F#	V|HC}	#	2f#	2a#X
+4d	III.I{	nr5	4ff#	2aani
+4c#	V6	6	4ee	.
+=4	=4	=4	=4	=4
+4B	IV6	6	4dd	4gg
+4A	iii6	6	4cc#	2ff#
+4G	ii6(2)	7	(8bL	.
+.	.	.	8cc#J)	.
+4G#X	viio7/V	-r7 5	[4dd	4ffn
+=5	=5	=5	=5	=5
+4A	V(4)	5 4	4dd]	2ee
+4AA	V	3	4cc#	.
+2D	I|IAC}	.	2dd	2ff#Xi
+=6	=6	=6	=6	=6
+4BB	i.i{	.	4d	4f#
+4AA#X	V6	6	4c#	4f#
+2BB	i	.	2d	2f#
+=7	=7	=7	=7	=7
+4B	.	.	2ff#	4dd
+4Ani	viio64/iv	6 #4|	.	4dd#X
+2G	iv6	6	4b	4.ee
+.	.	.	[4ee	.
+.	.	.	.	8bb
+=8	=8	=8	=8	=8
+4F#	ii%7/iv	7	4ee]	4aa
+4BB	V7/iv	7 #	4dd#X	2aa
+2E	iv(4)	4	8eeL	.
+.	.	.	8bJ	.
+.	iv	3	[4ee	4gg
+=9	=9	=9	=9	=9
+2AA#X	V65	6 5	4ee]	[2ff#
+.	.	.	8ddniL	.
+.	.	.	8cc#J	.
+4BB	i	5	4.dd	8ff#L]
+.	.	.	.	8ff#J
+4B	VI6	6	.	[4gg
+.	.	.	(16eeLL	.
+.	.	.	16ddJJ)	.
+=10	=10	=10	=10	=10
+2Ani	v6(2)	6	4.cc#	8ggL]
+.	.	.	.	(16aaL
+.	.	.	.	16ggJJ)
+.	v6	6	.	[4ff#
+.	.	.	(16ddLL	.
+.	.	.	16cc#JJ)	.
+2G	iv6(2)	7	4.b	8ff#L]
+.	.	.	.	(16ggL
+.	.	.	.	16ff#JJ)
+.	iv6	6	.	[4ee
+.	.	.	(16cc#LL	.
+.	.	.	16bJJ)	.
+=11	=11	=11	=11	=11
+4F#	V7	7 #	8a#XL	4ee]
+.	.	.	8f#J	.
+4G	VI	5	2b	4dd
+4E	ii%65	6 5	.	2cc#
+4F#	V	#	4a#	.
+=12	=12	=12	=12	=12
+4BB	i|PAC}	.	4b	8bL
+.	.	.	.	8bJ
+8r	.	.	8r	[4ff#
+8AA	v6	6	8cc#	.
+2GG	iv6(2)	7	4.b	8ff#L]
+.	.	.	.	(16ggL
+.	.	.	.	16ff#JJ)
+.	iv6	6	.	4ee
+.	.	.	(16cc#LL	.
+.	.	.	16bJJ)	.
+=13	=13	=13	=13	=13
+2FF#	V|HC}	#	2a#X	2ff#
+2r	.	.	2r	2r
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

@@ -1,0 +1,80 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 3
+!!!ONM: 12
+!!!OMV: 3
+!!!OMD: Adagio
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[f#c#]	*	*	*k[f#c#]	*k[f#c#]
+*b:	*	*	*b:	*b:
+*M4/4	*	*	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)
+*MM36	*	*	*MM36	*MM36
+=1	=1	=1	=1	=1
+4E	E.V.V2{	6 #4|	4a#X	4cc#
+4D#X	I6	6	2r	8ff#L
+.	.	.	.	8bJ
+4C#	ii7	7	.	4.ee
+4F#	V7	7 #	[4cc#	.
+.	.	.	.	(16dd#XLL
+.	.	.	.	16cc#JJ)
+=2	=2	=2	=2	=2
+4B	I(9)	9 #	4cc#]	4dd#X
+4BB	I	8	8bL	8r
+.	V7/IV	.	8aniJ	8ff#
+4E	IV	#	8g#XL	8eeL
+.	.	.	8a#XJ	8dd#
+4BB	I	#	[4b	8cc#
+.	.	.	.	8bJ
+=3	=3	=3	=3	=3
+4F#	V(64)	#6\ 4	4b]	4dd#X
+4FF#	V	5 #	4a#X	4cc#
+4.BB	I|PAC}	.	4b	4b
+.	.	.	4r	[4bb
+8GG#X	I.I6	6	.	.
+=4	=4	=4	=4	=4
+8AAL	IV(9)	9	2ccc#	4bb]
+8BB	.	.	.	.
+8C#	IV6	6	.	2aa
+8D#XJ	.	.	.	.
+8EL	I(4)	5 4	2bb	.
+8F#	.	.	.	.
+8G#X	I6	6	.	[4gg#X
+8EJ	I	.	.	.
+=5	=5	=5	=5	=5
+8F#L	ii(9)	#9\	2aa	4gg#]
+8E	.	.	.	.
+8D#X	V65	5	.	2ff#
+8BBJ	V7	.	.	.
+8EL	I(9)	9 #	[2gg#X	.
+8F#	.	.	.	.
+8G#X	I6	6	.	8eeL
+8EJ	V7/IV	.	.	8ddniJ
+=6	=6	=6	=6	=6
+4A	IVM7	#7\	4gg#]	8cc#L
+.	.	.	.	8dd#XJ
+4A#X	viio7/V	-7 5	4ggn	2ee
+4B	V(4)	5 4	2ff#	.
+4BB	V	#	.	4dd#
+=7	=7	=7	=7	=7
+4E	I|PAC}{	.	2ee	4ee
+4D#X	V6	6	.	4b
+4C#	IV6	6	4r	2e
+[4AAni	IV	.	4cc#	.
+=8	=8	=8	=8	=8
+4AA]	V2	#4| 2	4f#	4d#X
+8GG#XL	I6	6	8bL	2e
+8AAJ	IV	.	8cc#J	.
+2BB	V(64)	#6\ 4	4g#X	.
+.	V	5 #	4f#	4d#
+=9	=9	=9	=9	=9
+1EE	I|IAC}	#	1g#X	1e
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

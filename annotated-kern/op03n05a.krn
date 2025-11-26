@@ -1,0 +1,184 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 3
+!!!ONM: 5
+!!!OMV: 1
+!!!OMD: Grave
+**kern	**harm	**fb	**kern	**kern	**kern
+*part4	*above	*part4	*part3	*part2	*part1
+*staff4	*	*	*staff3	*staff2	*staff1
+*I"Organo	*	*	*I"Violone	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefF4	*clefG2	*clefG2
+*k[]	*	*	*k[]	*k[]	*k[]
+*M4/4	*	*	*M4/4	*M4/4	*M4/4
+*MM34	*	*	*MM34	*MM34	*MM34
+=1	=1	=1	=1	=1	=1
+4.D	d.i{	.	4.D	4.ff	4.aa
+8D	.	.	8D	8ff	8aa
+4D	ii2	-r6 4	4D	4gg	4bb-X
+4C#X	#viio7	-r7 5	4C#X	4gg	4bb-
+=2	=2	=2	=2	=2	=2
+2D	i|IAC}	.	2D	2ff	2aa
+2r;	.	.	2r;	2r;	2r;
+=3	=3	=3	=3	=3	=3
+4.d	i{	-	4.d	4.aa	4.ff
+8c	V2/iv	6 #4|	8c	8aa	8ff#X
+4B-X	iv6	6	4B-X	4dd	4gg
+4F#X	V65/iv	6 5	4F#X	4cc	[4aa
+=4	=4	=4	=4	=4	=4
+4.G	iv(9)	9 5	4.G	4.b-X	8aaL]
+.	.	.	.	.	8ddJ
+.	iv	8	.	.	2gg
+8G	.	.	8G	8b-	.
+4C#X	V65	6 5	4C#X	4a	.
+4D	i	.	4D	4aa	4ffni
+=5	=5	=5	=5	=5	=5
+4GG	iv	-	4GG	4gg	8bb-XL
+.	.	.	.	.	8cc#XJ
+4GG#X	V65/V	7 5	4GG#X	8ffL	2dd
+.	.	.	.	8eeJ	.
+2AA	V(64)	6 4	2AA	4ff	.
+.	V	5 #	.	4ee	4cc#
+=6	=6	=6	=6	=6	=6
+4D	i|PAC}{	.	4D	4dd	4dd
+4C	v6	6	4C	4.a	8eeL
+.	.	.	.	.	8aJ
+2BB-X	iv6(2)	7	2BB-X	.	2dd
+.	.	.	.	16ddLL	.
+.	.	.	.	16fJJ	.
+.	iv6	6	.	4g	.
+=7	=7	=7	=7	=7	=7
+2AA	V|HC}	#	2AA	2a	2cc#X
+8AAL	.	.	8AAL	4r	4.aa
+8BBni	.	.	8BBni	.	.
+8C#X	V6	6	8C#X	[4ee	.
+8AAJ	.	.	8AAJ	.	8gg
+=8	=8	=8	=8	=8	=8
+8DL	i(9)	9	8DL	4ee]	4.ff
+8E	.	.	8E	.	.
+8F	i6	6	8F	2dd	.
+8GJ	.	.	8GJ	.	8ff
+4.A	v(4)	5 4	4.A	.	8eeL
+.	.	.	.	.	8aJ
+.	v	3	.	4cc	[4aa
+8A	.	.	8A	.	.
+=9	=9	=9	=9	=9	=9
+8DL	IVM65/III	-r6 5	8DL	4.b-X	8aaL]
+8D	.	.	8D	.	(16ggL
+.	.	.	.	.	16ffJJ)
+8E	V65/III	6 -r5	8E	.	4.gg
+8CJ	.	.	8CJ	(16ccLL	.
+.	.	.	.	16b-JJ)	.
+8FL	I(9)/III	9	8FL	4a	.
+8G	.	.	8G	.	(16ffLL
+.	.	.	.	.	16eeJJ)
+8A	I6/III	6	8A	4aa	[4ff
+8AAJ	.	.	8AAJ	.	.
+=10	=10	=10	=10	=10	=10
+8BBL	IV65	6 5	8BBL	4.gg	8ffL]
+8BB	.	.	8BB	.	(16eeL
+.	.	.	.	.	16ddJJ)
+8C#X	V65	6 5	8C#X	.	4.ee
+8AAJ	.	.	8AAJ	(16aaLL	.
+.	.	.	.	16ggJJ)	.
+4.D	i(9)	9	8DL	4.ff	.
+.	.	8	8E	.	8a
+.	i	.	8F	.	[4dd
+8D	.	.	8DJ	8ff	.
+=11	=11	=11	=11	=11	=11
+8EL	v.V7	7 #	8EL	8g#XL	4dd]
+8E	.	.	8E	8eJ	.
+8F	VI	5	8F	2a	4cc
+8CniJ	i6	.	8CniJ	.	.
+8DL	ii%65	6 5	8DL	.	2b
+8BB	ii%7	.	8BB	.	.
+8E	V(4)	4	8E	8.aL	.
+8EEJ	V	#	8EEJ	.	.
+.	.	.	.	16g#Jk	.
+=12	=12	=12	=12	=12	=12
+4.AA	i|PAC}	.	4.AA	4a	4a
+.	.	.	.	4aa	2r
+8AA	.	.	8AA	.	.
+8BB-XL	III.IV(9)	9	8BB-XL	8ddL	.
+8C	.	.	8C	8eeJ	.
+8D	IV6	6	8D	[4ff	4ddd
+8BB-J	.	.	8BB-J	.	.
+=13	=13	=13	=13	=13	=13
+4C	V(4)	4	4C	4ff]	8ggL
+.	.	.	.	.	8aa
+4c	V	3	4c	4ee	8bb-X
+.	.	.	.	.	8cccJ
+8FL	I	.	8FL	4.ff	8aaL
+8G	.	.	8G	.	8bb-J
+8A	I6	6	8A	.	[4ccc
+8FJ	.	.	8FJ	8ee	.
+=14	=14	=14	=14	=14	=14
+4.B-X	IV(9)	9	8B-XL	4.dd	8cccL]
+.	.	.	8c	.	8ffJ
+.	IV	8	8d	.	4.bb-X
+8BB-X	ii6	6	8B-J	8gg	.
+4C	V7	-r7	8cL	8eeL	.
+.	.	.	8C	8ccJ	8ee
+8r	.	.	8F	8r	4aa
+8AA	.	6	8AAJ	8ccc	.
+=15	=15	=15	=15	=15	=15
+8BB-XL	IV(9)	9	8BB-XL	8dddL	8ddL
+8C	.	.	8C	8ccc	8eeJ
+8D	IV6	-r6	8D	8bb-X	2ff
+8AAJ	I6	6	8AAJ	8aaJ	.
+8BB-L	IVM7	7 5	8BB-L	4aa	.
+8GG	.	.	8GG	.	.
+8C	V(4)	3	8C	4gg	8.ffL
+8CJ	V	.	8CJ	.	.
+.	.	.	.	.	16eeJk
+=16	=16	=16	=16	=16	=16
+8FL	I|PAC}{	.	8FL	4ff	4.ff
+8G	.	.	8G	.	.
+8A	I6	6	8A	2ff	.
+8FJ	.	.	8FJ	.	8aa
+8CL	V(4)	4	8CL	.	4.gg
+8D	.	.	8D	.	.
+8E	V6	6	8E	[4ee	.
+8C#XJ	i.V65	6	8C#XJ	.	16aaLL
+.	.	.	.	.	16ggJJ
+=17	=17	=17	=17	=17	=17
+8DL	i(2)	9	8DL	4ee]	4.ff
+8E	.	.	8E	.	.
+8F	i6	6	8F	2dd	.
+8GJ	.	.	8GJ	.	8ff
+4.A	V(4)	5 4	4.A	.	8eeL
+.	.	.	.	.	8aJ
+.	V	#	.	4cc#X	[4aa
+8A	.	.	8A	.	.
+=18	=18	=18	=18	=18	=18
+4.B-X	iv6(2)	7	4.B-X	4.dd	8aaL]
+.	.	.	.	.	8ddJ
+.	iv6	6	.	.	2gg
+8G	iio6	6 -	8G	8ee	.
+4.A	V7	7 #	4A	8cc#X	.
+.	.	.	.	4a	.
+.	.	.	8r	.	4ff
+8F	i6	6	8F	8aa	.
+=19	=19	=19	=19	=19	=19
+8GL	bII6	-r6	8GL	4gg	8ee-XL
+8A	V7	7 #	8A	.	8cc#XJ
+8B-X	VI	5	8B-X	(8ffL	2dd
+8GJ	ii%65	6 5	8GJ	8eeJ)	.
+8AL	V(64)	6 4	8AL	4ff	.
+8G	.	.	8G	.	.
+8A	V	5 #	8A	4ee	4cc#
+8AAJ	.	.	8AAJ	.	.
+=20	=20	=20	=20	=20	=20
+4D	i|PAC}	.	4D	4dd	4dd
+2GG	iv{	-3	2GG	4d	4b-X
+.	V2	#4| 2	.	4e	4c#X
+4GG#X	viio7/V	-r7 5	4GG#X	4f	[4d
+=21	=21	=21	=21	=21	=21
+2AA	V(4)	5 4	2AA	2e	4d]
+.	V	3	.	.	4c#X
+2DD	i|PAC}	.	2DD	2d	2d
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

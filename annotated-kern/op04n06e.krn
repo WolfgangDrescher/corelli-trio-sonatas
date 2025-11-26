@@ -1,0 +1,61 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da camera
+!!!OPS: 4
+!!!ONM: 6
+!!!OMV: 5
+!!!OMD: Adagio
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[f#c#g#]	*	*	*k[f#c#g#]	*k[f#c#g#]
+*b:	*	*	*b:	*b:
+*M3/2	*	*	*M3/2	*M3/2
+*MM104	*	*	*MM104	*MM104
+=1	=1	=1	=1	=1
+1B	ii6	n	1.r	2r
+.	.	.	.	[1ff#
+2A	.	6	.	.
+=2	=2	=2	=2	=2
+1Gn	i6(2)	76	2r	2ff#]
+.	.	.	[1b	2ee
+2G	i6	.	.	2ggn
+=3	=3	=3	=3	=3
+*a:	*	*	*a:	*a:
+1A	iv(9)	98 n	2b]	[1.ccn
+.	.	.	2a	.
+2A	iv	.	2ccn	.
+=4	=4	=4	=4	=4
+*e:	*	*	*e:	*e:
+1B	#viio	n98 #4	2d#X	2cc]
+.	.	.	2e	2b
+2D#X	V(64)	-r5	[2f#	2a
+=5	=5	=5	=5	=5
+1E	viio/IV	98 -4	2f#]	2gn
+.	.	.	2e	2a
+*A:	*	*	*A:	*A:
+2GG#Xi	i(4)	-r5	2d	[2b
+=6	=6	=6	=6	=6
+2AA	VI	9 #	2c#	2b]
+*e:	*	*	*e:	*e:
+2BB	.	7 #	2d#X	2a
+2Cn	V7	5	[2e	(4gn
+.	.	.	.	4f#)
+=7	=7	=7	=7	=7
+2AA	iv7	7 5	2e]	2gni
+1BB	.	5 #r4	2.e	1f#
+.	.	.	4d#X	.
+=8	=8	=8	=8	=8
+1E	v6{	-	1e	1e
+[2D	.	6	[2f#	[2b
+=9	=9	=9	=9	=9
+2D]	iv6	.	2f#]	2b]
+1Cn	.	6	1e	1a
+=10	=10	=10	=10	=10
+1.BB;	V|HC}	#	1.d#X;	1.b;
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

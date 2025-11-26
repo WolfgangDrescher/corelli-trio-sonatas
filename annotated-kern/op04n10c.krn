@@ -1,0 +1,34 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da camera
+!!!OPS: 4
+!!!ONM: 10
+!!!OMV: 3
+!!!OMD: Adagio
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[]	*	*	*k[]	*k[]
+*M3/2	*	*	*M3/2	*M3/2
+*MM104	*	*	*MM104	*MM104
+=1	=1	=1	=1	=1
+2r	.	.	2r	2r
+2r	.	.	2r	2r
+*G:	*	*	*G:	*G:
+2BB	.	6	2d	2dd
+=2	=2	=2	=2	=2
+2C	vi	.	2e	1cc
+2D	.	7 #	2f#X	.
+2E	V7	5	[2g	(4b
+.	.	.	.	4a)
+=3	=3	=3	=3	=3
+2C	ii65(2)	7 5	2g]	2b
+1D	.	5 #r4	2.g	1a
+.	.	.	4f#X	.
+=4	=4	=4	=4	=4
+1.GG	I|PAC}	.	1.g	1.g
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

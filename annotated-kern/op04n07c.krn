@@ -1,0 +1,47 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da camera
+!!!OPS: 4
+!!!ONM: 7
+!!!OMV: 3
+!!!OMD: Grave
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[b-]	*	*	*k[b-]	*k[b-]
+*d:	*	*	*d:	*d:
+*M4/4	*	*	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)
+*MM34	*	*	*MM34	*MM34
+=1	=1	=1	=1	=1
+2D	d.i{	.	2f	2a
+4r	.	.	4r	4r
+4D	iv64	6 4	4g	4b-
+=2	=2	=2	=2	=2
+2C#X	V65}	6 5	2e	2a
+4r	.	.	4r	4r
+4d	i{	.	4f	4a
+=3	=3	=3	=3	=3
+*g:	*	*	*g:	*g:
+2c	V2/iv	#4| 2	2f#X	2d
+4r	.	.	4r	4r
+4B-	iv6	6	4g	4dd
+=4	=4	=4	=4	=4
+2F#X	V65/iv}	6 5	2a	2cc
+4r	.	.	4r	4r
+4G	iv{	.	4d	4b-
+=5	=5	=5	=5	=5
+*d:	*	*	*d:	*d:
+4C#X	V65	6 5	4e	4a
+4r	.	.	4r	4r
+4D	i	.	4f	4a
+4r	.	.	4r	4r
+=6	=6	=6	=6	=6
+4BB-	iv6	6	4d	4g
+4r	.	.	4r	4r
+2AA	V|HC}	#	2c#X	2a
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

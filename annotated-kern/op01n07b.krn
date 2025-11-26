@@ -1,0 +1,94 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 7
+!!!OMV: 2
+!!!OMD: Grave
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[]	*	*	*k[]	*k[]
+*M4/4	*	*	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)
+*MM34	*	*	*MM34	*MM34
+=1	=1	=1	=1	=1
+4A	C.vi.i{	.	4cc	4ee
+4G#X	V6	6	4b	4ee
+4.A	i	.	4.cc	4.ee
+8A	VI6	6	8cc	8ff
+=2	=2	=2	=2	=2
+4Gni	v6	6	4b	4ee
+4F	iv6	6	4a	4dd
+2E	V|HC}	#	2g#X	2ee
+=3	=3	=3	=3	=3
+4c	I.I{	5	4ee	4gg
+4B	V6	6	4dd	4gg
+4A	IV6	6	4cc	4ff
+4G	iii6	6	4b	4ee
+=4	=4	=4	=4	=4
+4F	ii6	6	8aL	4dd
+.	viio64	.	8bJ	.
+4E	I6	6	2cc	4gg
+4D	ii7	7	.	2ff
+4GG	V7	7	4b	.
+=5	=5	=5	=5	=5
+2C	I|IAC}	.	4cc	4ee
+.	.	.	4ee	2ccc
+4G	V(4)	5 4	2dd	.
+4G#X	#viio7/vi	3	.	[4bb
+=6	=6	=6	=6	=6
+4A	vi(9)	9	2cc	4bb]
+4AA	vi	8	.	2aa
+2E	iii(4)	5 4	2b	.
+.	iii	3	.	[4gg
+=7	=7	=7	=7	=7
+2F	IV(9)	9 3	4a	4gg]
+.	ii6	8 6	4dd	2ff
+4G	V7	7	8bL	.
+.	.	.	8gJ	.
+4A	vi	5	[4cc	4ee
+=8	=8	=8	=8	=8
+4F	ii65	6 5	4cc]	2dd
+4G	V	.	[4b	.
+4E	vi.i64(2)	6 5	8bL]	2cc
+.	.	.	8eJ	.
+4C	i6	6	[4a	.
+=9	=9	=9	=9	=9
+4D	ii%65	6 5	4a]	2b
+4E	V	#	4g#X	.
+4AA	i|PAC}	.	4a	4a
+[4A	.	5	4a	4cc
+=10	=10	=10	=10	=10
+4A]	ii%2	4 2	2b	4dd
+4G	v6	6	.	2ee
+2F	iv6(2)	7	2a	.
+.	iv6	6	.	[4dd
+=11	=11	=11	=11	=11
+2E	I.I6(2)	7	4g	4dd]
+.	I6	6	4gg	2cc
+4D	ii7	7	2ff	.
+4GG	V7	7	.	4b
+=12	=12	=12	=12	=12
+4c	I|IAC}	.	4ee	4cc
+4B	V6{	6	4dd	4r
+4A	IV6	6	4cc	4ff
+4G	iii6	6	4b	4ee
+=13	=13	=13	=13	=13
+4F	ii6	6	4aa	4.dd
+4E	I6(2)	7	4gg	.
+.	I6	6	.	8g
+4D	ii	5	4ff	8aL
+.	viio6	6	.	8bJ
+8EL	I6	6	4ee	[4cc
+8FJ	.	.	.	.
+=14	=14	=14	=14	=14
+4G	V(4)	5 4	2dd	4cc]
+4GG	V	.	.	4b
+2C	I|PAC}	.	2cc	2cc
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

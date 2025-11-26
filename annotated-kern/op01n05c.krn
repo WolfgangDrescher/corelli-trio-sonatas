@@ -1,0 +1,233 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 5
+!!!OMV: 3
+!!!OMD: Adagio - Allegro
+**kern	**harm	**fb	**kern	**kern	**kern
+*part4	*above	*part4	*part3	*part2	*part1
+*staff4	*	*	*staff3	*staff2	*staff1
+*I"Organo	*	*	*I"Violone	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefF4	*clefG2	*clefG2
+*k[b-]	*	*	*k[b-]	*k[b-]	*k[b-]
+*M3/2	*	*	*M3/2	*M3/2	*M3/2
+=1	=1	=1	=1	=1	=1
+!!!OMD: Adagio
+*MM104	*	*	*MM104	*MM104	*MM104
+2r	.	.	2r	2r	2r
+2r	.	.	2r	2r	2r
+2G	.	.	2G	2b-	2dd
+=2	=2	=2	=2	=2	=2
+1F#X	v6	6	1F#X	1a	1dd
+2Fn	.	6	2Fn	2a	2dd
+=3	=3	=3	=3	=3	=3
+1.E-X	iv6(2)	7	1.E-X	2g	2dd
+.	.	6	.	2.g	1cc
+.	.	.	.	4a	.
+=4	=4	=4	=4	=4	=4
+1.D	V|HC}	#	1.D	1.f#X	1.dd
+=5||	=5||	=5||	=5||	=5||	=5||
+!!!OMD: Allegro
+*M4/4	*	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)	*met(c)
+*MM104	*	*	*MM104	*MM104	*MM104
+2B-	I.I{	.	1r	1r	8r
+.	.	.	.	.	16b-LL
+.	.	.	.	.	16ccJJ
+.	.	.	.	.	8dd
+.	.	.	.	.	16ccLL
+.	.	.	.	.	16b-JJ
+2A	V6	6	.	.	8ff
+.	.	.	.	.	16ffLL
+.	.	.	.	.	16ggJJ
+.	.	.	.	.	8aa
+.	.	.	.	.	16ggLL
+.	.	.	.	.	16ffJJ
+=6	=6	=6	=6	=6	=6
+2G	vi	.	1r	8r	2bb-
+.	.	.	.	16b-LL	.
+.	.	.	.	16ccJJ	.
+.	.	.	.	8dd	.
+.	.	.	.	16ccLL	.
+.	.	.	.	16b-JJ	.
+2F	V	.	.	8ff	4aa
+.	.	.	.	16ffLL	.
+.	.	.	.	16ggJJ	.
+.	.	.	.	8aa	4ff
+.	.	.	.	16ggLL	.
+.	.	.	.	16ffJJ	.
+=7	=7	=7	=7	=7	=7
+8r	.	.	8r	2bb-	2dd
+16BB-LL	.	.	16BB-LL	.	.
+16CJJ	.	.	16CJJ	.	.
+8D	.	6	8D	.	.
+16CLL	.	.	16CLL	.	.
+16BB-JJ	.	.	16BB-JJ	.	.
+8F	V	.	8F	2aa	2cc
+16FLL	.	.	16FLL	.	.
+16GJJ	.	.	16GJJ	.	.
+8A	.	6	8A	.	.
+16GLL	.	.	16GLL	.	.
+16FJJ	.	.	16FJJ	.	.
+=8	=8	=8	=8	=8	=8
+!!!OMD: Adagio
+*MM36	*	*	*MM36	*MM36	*MM36
+4B-	I	.	4B-	4bb-	4dd
+4A	V6	6	4A	2ff	4cc
+4G	vi7	7	4G	.	2b-
+4C	V7/V	7	4C	4ee	.
+=9	=9	=9	=9	=9	=9
+2F	V|HC}	.	2F	2ff	2a
+2r;	.	.	2r;	2r;	2r;
+=10||	=10||	=10||	=10||	=10||	=10||
+!!!OMD: Allegro
+*M4/4	*	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)	*met(c)
+*MM104	*	*	*MM104	*MM104	*MM104
+2F	V.I{	.	1r	1r	8r
+.	.	.	.	.	16fLL
+.	.	.	.	.	16gJJ
+.	.	.	.	.	8a
+.	.	.	.	.	16gLL
+.	.	.	.	.	16fJJ
+2E	V6	6	.	.	8cc
+.	.	.	.	.	16ccLL
+.	.	.	.	.	16ddJJ
+.	.	.	.	.	8ee
+.	.	.	.	.	16ddLL
+.	.	.	.	.	16ccJJ
+=11	=11	=11	=11	=11	=11
+2D	vi	.	1r	8r	2ff
+.	.	.	.	16fLL	.
+.	.	.	.	16gJJ	.
+.	.	.	.	8a	.
+.	.	.	.	16gLL	.
+.	.	.	.	16fJJ	.
+2C	V	.	.	8cc	4ee
+.	.	.	.	16ccLL	.
+.	.	.	.	16ddJJ	.
+.	.	.	.	8ee	4cc
+.	.	.	.	16ddLL	.
+.	.	.	.	16ccJJ	.
+=12	=12	=12	=12	=12	=12
+8r	.	.	8r	2ff	2aa
+16FLL	.	.	16FLL	.	.
+16GJJ	.	.	16GJJ	.	.
+8A	.	6	8A	.	.
+16GLL	.	.	16GLL	.	.
+16FJJ	.	.	16FJJ	.	.
+8c	V	.	8c	2ee	2gg
+16cLL	.	.	16cLL	.	.
+16dJJ	.	.	16dJJ	.	.
+8e	.	6	8e	.	.
+16dLL	.	.	16dLL	.	.
+16cJJ	.	.	16cJJ	.	.
+=13	=13	=13	=13	=13	=13
+!!!OMD: Adagio
+*MM36	*	*	*MM36	*MM36	*MM36
+4f	I	.	4f	4ff	4aa
+4e	V6	6	4e	2ccc	4gg
+4d	vi7	7	4d	.	2ff
+4G	V7/V	n7	4G	4bbn	.
+=14	=14	=14	=14	=14	=14
+2c	V|HC}	.	2c	2ccc	2ee
+2r	.	.	2r	2r	2r
+=15||	=15||	=15||	=15||	=15||	=15||
+!!!OMD: Adagio
+*M3/2	*	*	*M3/2	*M3/2	*M3/2
+*MM104	*	*	*MM104	*MM104	*MM104
+2C	I.ii{	-	2C	2gg	2ee-X
+1AA	.	6 -5	1AA	2.ff	2.ee-
+.	.	.	.	4ff	4dd
+=16	=16	=16	=16	=16	=16
+1.BB-	I|IAC}{	.	1.BB-	1.ff	1.dd
+=17	=17	=17	=17	=17	=17
+2B-	.	.	2B-	2dd	2ff
+1A	.	#6\	1A	1cc	1ff#X
+=18	=18	=18	=18	=18	=18
+1.G	i|PAC}{	.	1.G	1.b-	1.gg
+=19	=19	=19	=19	=19	=19
+2G	.	.	2G	2dd	2b-
+1E-X	.	6	1E-X	1g	1cc
+=20	=20	=20	=20	=20	=20
+1.D	V|HC}	#	1.D	1.f#X	1.dd
+=21||	=21||	=21||	=21||	=21||	=21||
+!!!OMD: Allegro
+*M4/4	*	*	*M4/4	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)	*met(c)
+*MM104	*	*	*MM104	*MM104	*MM104
+2BB-	I.I{	.	8r	1r	1r
+.	.	.	16BB-LL	.	.
+.	.	.	16CJJ	.	.
+.	.	.	8D	.	.
+.	.	.	16CLL	.	.
+.	.	.	16BB-JJ	.	.
+2AA	V6	6	8F	.	.
+.	.	.	16FLL	.	.
+.	.	.	16GJJ	.	.
+.	.	.	8A	.	.
+.	.	.	16GLL	.	.
+.	.	.	16FJJ	.	.
+=22	=22	=22	=22	=22	=22
+2BB-	I	.	2B-	8r	1r
+.	.	.	.	16b-LL	.
+.	.	.	.	16ccJJ	.
+.	.	.	.	8dd	.
+.	.	.	.	16ccLL	.
+.	.	.	.	16b-JJ	.
+2AA	V6	6	2A	8ff	.
+.	.	.	.	16ffLL	.
+.	.	.	.	16ggJJ	.
+.	.	.	.	8aa	.
+.	.	.	.	16ggLL	.
+.	.	.	.	16ffJJ	.
+=23	=23	=23	=23	=23	=23
+2GG	vi	.	2G	2bb-	8r
+.	.	.	.	.	16b-LL
+.	.	.	.	.	16ccJJ
+.	.	.	.	.	8dd
+.	.	.	.	.	16ccLL
+.	.	.	.	.	16b-JJ
+4FF	V	.	2F	2aa	8ff
+.	.	.	.	.	16ffLL
+.	.	.	.	.	16ggJJ
+4F	.	.	.	.	8aa
+.	.	.	.	.	16ggLL
+.	.	.	.	.	16ffJJ
+=24	=24	=24	=24	=24	=24
+4E-X	IV	.	4E-X	2gg	4bb-
+4C	vii%65	6 5 -	4C	.	2aa
+4D	iii	.	4D	2ff	.
+4BB-	vi65	6 5	4BB-	.	[4gg
+=25	=25	=25	=25	=25	=25
+4G	vi	.	4G	2bb-	4gg]
+4E-X	ii65	6 5	4E-X	.	2ccc
+4F	V	.	4F	2aa	.
+4D	IM65	6 5	4D	.	[4bb-
+=26	=26	=26	=26	=26	=26
+4E-X	IV	.	4E-X	2gg	4bb-]
+2C	vii%65	6 5 -	2C	.	4aa
+.	V.viio7(2)/V	6 4	.	[2ff	2aa-X
+4BBn	viio7/V	7 5	4BBn	.	.
+=27	=27	=27	=27	=27	=27
+!!!OMD: Adagio
+*MM36	*	*	*MM36	*MM36	*MM36
+2C	V(4)	5 4	2C	4ff]	2gg
+.	V	3	.	4ee	.
+2FF	I|PAC}	.	2FF	2ff	2ff
+=28||	=28||	=28||	=28||	=28||	=28||
+!!!OMD: Adagio e piano
+*M3/2	*	*	*M3/2	*M3/2	*M3/2
+*MM104	*	*	*MM104	*MM104	*MM104
+2r	.	.	2r	2r	2r
+2r	.	.	2r	2r	2r
+[2D	.	6	[2D	[2f	[2b-
+=29	=29	=29	=29	=29	=29
+2D]	viio6	.	2D]	2f]	2b-]
+1C	.	6 -	1C	1e-X	1a
+=30	=30	=30	=30	=30	=30
+1.BB-	I|PAC}	.	1.BB-	1.d	1.b-
+=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

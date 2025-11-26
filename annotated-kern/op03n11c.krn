@@ -1,0 +1,128 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 3
+!!!ONM: 11
+!!!OMV: 3
+!!!OMD: Adagio
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[b-]	*	*	*k[b-]	*k[b-]
+*F:	*	*	*F:	*F:
+*M3/2	*	*	*M3/2	*M3/2
+*MM104	*	*	*MM104	*MM104
+=1	=1	=1	=1	=1
+1E-X	g.VI{	.	1g	1b-
+2E-	.	.	2g	2b-
+=2	=2	=2	=2	=2
+1BBn	V65/iv	5	1f	1dd
+2BB	.	.	2f	2dd
+=3	=3	=3	=3	=3
+1C	iv	-	1e-X	1g
+2c	.	.	2g	2ee-X
+=4	=4	=4	=4	=4
+1F#X	V65	6	1a	1dd
+2F#	.	5	2a	2cc
+=5	=5	=5	=5	=5
+1G	v6	.	1d	1b-
+[2Fni	.	6	[2a	[2dd
+=6	=6	=6	=6	=6
+2F]	iv6	.	2a]	2dd]
+1E-X	.	6	1g	1cc
+=7	=7	=7	=7	=7
+1D	V|HC}	#	2f#X	1dd
+.	.	.	[1dd	.
+2D	.	.	.	2ff#X
+=8	=8	=8	=8	=8
+2E	IV6(2)	7	2dd]	2gg
+1F#X	.	5	[1cc	2aa
+.	V65	.	.	2aa
+=9	=9	=9	=9	=9
+1G	V/iv	5 4	2cc]	2dd
+.	.	3	2b-	[1gg
+2GG	i	n	2bn	.
+=10	=10	=10	=10	=10
+2AA	IV6(2)/iv	7	2cc	2gg]
+1BBn	.	5	2dd	[1ff
+.	V65/iv	.	2dd	.
+=11	=11	=11	=11	=11
+1C	i(4)/iv	5 4	2g	2ff]
+.	.	-3	[1cc	1ee-X
+2c	i/iv	.	.	.
+=12	=12	=12	=12	=12
+2F#X	V	6 5	2cc]	[1.dd
+2G	.	.	2b-	.
+2D	i	#	2f#X	.
+=13	=13	=13	=13	=13
+1E-X	III.V65/V	7	1g	2dd]
+.	.	6	.	2cc
+2En	iv6	5	2gg	2b-
+=14	=14	=14	=14	=14
+1F	I6	.	1cc	1a
+2D	.	6	[2b-	2ff
+=15	=15	=15	=15	=15
+2E-X	V	6 5	2b-]	2gg
+2F	.	5 4	2.b-	2.cc
+2FF	V(4)	3	.	.
+.	.	.	4a	4cc
+=16	=16	=16	=16	=16
+1BB-	I|PAC}	5	2b-	1b-
+.	.	6	[1gg	.
+2B-	i.i6{	6	.	2gg
+=17	=17	=17	=17	=17
+2c	i	6 5	2gg]	1aa
+2d	.	#	2ff#X	.
+[2G	V	.	2gg	2bb-
+=18	=18	=18	=18	=18
+2G]	ii%2	4 2	1aa	2ccc
+1F#X	.	5	.	[1cc
+.	V65	.	2aa	.
+=19	=19	=19	=19	=19
+1G	i6	5 4	2dd	2cc]
+.	.	n	[1gg	2bn
+2E-X	V	6	.	2cc
+=20	=20	=20	=20	=20
+1BBn	V6	6	2gg]	1dd
+.	.	5	[1ff	.
+2BB	V65	.	.	2dd
+=21	=21	=21	=21	=21
+1C	i(4)	5 4	2ff]	2g
+.	.	-	1ee-X	[1cc
+2c	i	.	.	.
+=22	=22	=22	=22	=22
+2F#X	i.V65	6 5	1.dd	2cc]
+2G	.	.	.	[1b-
+2GG	i	.	.	.
+=23	=23	=23	=23	=23
+1C	vii%7/VI	7	1.cc	2b-]
+.	.	-6	.	[1a-X
+2D	IV6/VI	5	.	.
+=24	=24	=24	=24	=24
+1E-X	i6	5 -4	1b-	2a-]
+.	.	3	.	[1g
+2BB-	I/VI	6	2dd	.
+=25	=25	=25	=25	=25
+2C	V	6 5 -	(4cc	2g]
+.	.	.	4b-)	.
+1D	.	5 4	1a	2.g
+.	.	#3	.	4f#X
+=26	=26	=26	=26	=26
+1G	iv{	.	1g	1g
+2C	.	-	2g	2ee-X
+=27	=27	=27	=27	=27
+1C	i6	#4| 2	1f#X	1dd
+2BB-	.	6	[2g	2dd
+=28	=28	=28	=28	=28
+2C	V	6 5 -	2g]	(4cc
+.	.	.	.	4b-)
+1D	.	5 4	2.g	1a
+.	.	#3	4f#X	.
+=29	=29	=29	=29	=29
+1.GG	i|PAC}	.	1.g	1.g
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

@@ -1,0 +1,201 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 6
+!!!OMV: 3
+!!!OMD: Adagio
+**kern	**harm	**fb	**kern	**kern	**kern
+*part4	*above	*part4	*part3	*part2	*part1
+*staff4	*	*	*staff3	*staff2	*staff1
+*I"Organo	*	*	*I"Violone	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefF4	*clefG2	*clefG2
+*k[f#c#]	*	*	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*M3/4	*	*	*M3/4	*M3/4	*M3/4
+*MM72	*	*	*MM72	*MM72	*MM72
+=1	=1	=1	=1	=1	=1
+4r	.	.	4r	4r	4r
+4B	b.i{	.	4B	4dd	4ff#
+4A#X	V6	6	4A#X	4cc#	4ff#
+=2	=2	=2	=2	=2	=2
+2B	i	.	2B	2dd	2ff#
+4B	VI6	6	4B	4dd	4gg
+=3	=3	=3	=3	=3	=3
+2A	v6	6	2A	2cc#	2ff#
+4G	iv6	6	4G	4b	4ee
+=4	=4	=4	=4	=4	=4
+2F#	V|HC}	#	2F#	2a#X	4ff#
+.	.	.	.	.	4cc#
+4F#	.	.	4F#	4a#	[4ff#
+=5	=5	=5	=5	=5	=5
+2G#X	IV6(2)	7	2G#X	2b	4ff#]
+.	IV6	6	.	.	4.ee
+4A#X	#viio	5	4A#X	4cc#	.
+.	.	.	.	.	8cc#
+=6	=6	=6	=6	=6	=6
+2B	i	.	2B	4f#	4dd
+.	.	.	.	4ff#	(8ddL
+.	.	.	.	.	8cc#J)
+4BB	.	.	4r	[4bb	(8ddL
+.	.	.	.	.	8bJ)
+=7	=7	=7	=7	=7	=7
+2F#	III.iii(4)	4	2.r	4bb]	4cc#
+.	iii	3	.	4.aa	(8ff#L
+.	.	.	.	.	8eeJ)
+4D	I	.	.	.	[4ff#
+.	.	.	.	8ff#	.
+=8	=8	=8	=8	=8	=8
+4BB	IVM65	6 5	2.r	2gg	4ff#]
+2C#	viio	5	.	.	(8eeL
+.	.	.	.	.	8ddJ)
+.	V65	6	.	8aaL	[4ee
+.	.	.	.	8ggJ	.
+=9	=9	=9	=9	=9	=9
+4D	I(9)	9	4r	2ff#	4ee]
+4F#	I6	6	4F#	.	4a
+[4B	vi	5	[4B	4ff#	4dd
+=10	=10	=10	=10	=10	=10
+4B]	vii%2	4 2	4B]	4ee	2cc#
+4A	iii6	6	4A	(8ff#L	.
+.	.	.	.	8eeJ)	.
+4F#	I6	6	4F#	[4ff#	(8ddL
+.	.	.	.	.	8cc#J)
+=11	=11	=11	=11	=11	=11
+2G	ii6(2)	7	2G	4ff#]	2b
+.	ii6	6	.	(8eeL	.
+.	.	.	.	8ddJ)	.
+4E	viio6	6	4E	[4ee	(8cc#L
+.	.	.	.	.	8bJ)
+=12	=12	=12	=12	=12	=12
+2F#	I6(2)	7	2F#	4ee]	2a
+.	I6	6	.	(8ddL	.
+.	.	.	.	8cc#J)	.
+4D	vi6	6	4D	[4dd	(8bL
+.	.	.	.	.	8aJ)
+=13	=13	=13	=13	=13	=13
+2E	viio6(2)	7	2E	4dd]	2g
+.	viio6	6	.	(8cc#L	.
+.	.	.	.	8bJ)	.
+4AA	V	.	4AA	4cc#	(8aL
+.	.	.	.	.	8gJ)
+=14	=14	=14	=14	=14	=14
+2D	I|PAC}	.	2D	2dd	2f#
+4FF#	I6{	6	4FF#	[4d	4a
+=15	=15	=15	=15	=15	=15
+4GG	ii65	6 5	4GG	4d]	(8gL
+.	.	.	.	.	8f#J)
+2AA	V(4)	5 4	2AA	4.d	2e
+.	V(4)	3	.	.	.
+.	V	.	.	8c#	.
+=16	=16	=16	=16	=16	=16
+4D	I|PAC}	.	4DD	4d	2d
+2D	.	5	2D	4f#	.
+.	i.i6	6	.	4b	4r
+=17	=17	=17	=17	=17	=17
+4C#	#viio6	#6\	4C#	2a#X	4r
+2AA#X	V6	6	2AA#X	.	4cc#
+.	.	.	.	4r	4ff#
+=18	=18	=18	=18	=18	=18
+4BB	i	.	4BB	4r	4dd
+2BB	.	5	2BB	4ff#	4dd
+.	v.iio6	#6\	.	[4bb	4gg#X
+=19	=19	=19	=19	=19	=19
+2C#	V7	7 #	2C#	4bb]	4ee#X
+.	.	6	.	(8aaL	4cc#
+.	.	.	.	8gg#XJ)	.
+4AA	i6	6	4AA	(8ff#L	[4ff#
+.	.	.	.	8gg#J)	.
+=20	=20	=20	=20	=20	=20
+4BB	iv7	7 5	4BB	8aaL	4ff#]
+.	.	.	.	8bbJ	.
+2C#	V(4)	#5\ 4	2C#	4.gg#X	4.ff#
+.	V(4)	#	.	.	.
+.	V	.	.	8gg#	8ee#X
+=21	=21	=21	=21	=21	=21
+4FF#	i|PAC}	.	4FF#	4ff#	2ff#
+4F#	.	.	4F#	4a	.
+4A	.	.	4A	4cc#	4r
+=22	=22	=22	=22	=22	=22
+4D	III.I	.	4D	2f#	4r
+4d	.	.	4d	.	4ff#
+4c#	V6	6	4c#	4r	4aa
+=23	=23	=23	=23	=23	=23
+2B	vi	.	2B	4r	4dd
+.	.	.	.	4ff#	[2dd
+4G	IV	5	4G	4bb	.
+=24	=24	=24	=24	=24	=24
+2.A	V(4)	4	2.A	[2.ee	4dd]
+.	V	3	.	.	4cc#
+.	.	.	.	.	4b
+=25	=25	=25	=25	=25	=25
+2.A#X	i.V65	5	2.A#X	4ee]	[2.cc#
+.	.	6	.	4ff#	.
+.	.	5	.	4ee	.
+=26	=26	=26	=26	=26	=26
+2B	i(9)	9	2B	2.dd	4cc#]
+.	.	.	.	.	4f#
+4BB	i	8	4BB	.	[4b
+=27	=27	=27	=27	=27	=27
+2F#	v(4)	4	2F#	4cc#	4b]
+.	v	3	.	4cc#	4.a
+4D	III	5	4D	[4ff#	.
+.	.	.	.	.	8f#
+=28	=28	=28	=28	=28	=28
+2E	IV(9)	9 #	2E	4ff#]	2g#X
+.	IV	8	.	4.ee	.
+4E	iio6	6	4E	.	4cc#
+.	.	.	.	8ee	.
+=29	=29	=29	=29	=29	=29
+2F#	V7	7 #	2F#	4.ee	4a#X
+.	.	.	.	.	4f#
+.	.	.	.	8ff#	.
+4D	i6	6	4D	(8ggL	[4b
+.	.	.	.	8ff#J)	.
+=30	=30	=30	=30	=30	=30
+4E	ii%65	6 5	4E	(8eeL	4b]
+.	.	.	.	8ddJ)	.
+2F#	V(4)	5 4	2F#	4.cc#	4.b
+.	V(4)	#	.	.	.
+.	V	.	.	8cc#	8a#X
+=31	=31	=31	=31	=31	=31
+2BB	i|PAC}	5	2BB	2b	4b
+.	VI6{	6	.	.	(8ggL
+.	.	.	.	.	8ff#J)
+4G	iv6	6	4G	(8eeL	[4gg
+.	.	.	.	8ddJ)	.
+=32	=32	=32	=32	=32	=32
+2A	v6(2)	7	2A	2cc#	4gg]
+.	v6	6	.	.	(8ff#L
+.	.	.	.	.	8eeJ)
+4F#	III6	6	4F#	(8ddL	[4ff#
+.	.	.	.	8cc#J)	.
+=33	=33	=33	=33	=33	=33
+2G	iv6(2)	7	2G	2b	4ff#]
+.	iv6	6	.	.	(8eeL
+.	.	.	.	.	8ddJ)
+4E	iio6	6	4E	(8cc#L	[4ee
+.	.	.	.	8bJ)	.
+=34	=34	=34	=34	=34	=34
+2F#	V7	7 #	2F#	4a#X	4.ee]
+.	.	.	.	4f#	.
+.	.	.	.	.	8ff#
+4D	i6	6	4D	[4b	(8ggL
+.	.	.	.	.	8ff#J)
+=35	=35	=35	=35	=35	=35
+4E	ii%65	6 5	4E	4b]	(8eeL
+.	.	.	.	.	8ddJ)
+2F#	V(4)	5 4	2F#	4.b	4.cc#
+.	V(4)	#	.	.	.
+.	.	.	.	8a#X	8b
+=36	=36	=36	=36	=36	=36
+2BB	i|PAC}{	.	2BB	2b	2b
+[4B	.	5	[4B	[4dd	[4ff#
+=37	=37	=37	=37	=37	=37
+4B]	.	.	4B]	4dd]	4ff#]
+2G	iv6	6	2G	2b	4.ee
+.	.	.	.	.	8ff#
+=38	=38	=38	=38	=38	=38
+2.F#	V|HC}	#	2.F#	2.a#X	2.ff#
+=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3,s4]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

@@ -1,0 +1,106 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 10
+!!!OMV: 4
+!!!OMD: Adagio
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[b-]	*	*	*k[b-]	*k[b-]
+*d:	*	*	*d:	*d:
+*M3/2	*	*	*M3/2	*M3/2
+*MM104	*	*	*MM104	*MM104
+=1	=1	=1	=1	=1
+2r	.	.	2r	2r
+2r	.	.	2r	2r
+2GG	.	.	2g	2g
+=2	=2	=2	=2	=2
+1D	III	#	1f#X	1a
+2BB-	.	5	2b-	2dd
+=3	=3	=3	=3	=3
+1F	V6	.	1a	1cc
+2F#X	.	6	2a	2dd
+=4	=4	=4	=4	=4
+1G	v6	.	1d	1b-
+2Fni	.	6	2a	2dd
+=5	=5	=5	=5	=5
+1E-X	iio6	7	1g	(2dd
+.	.	6	.	2cc)
+2C	iv6	6 -	2a	2cc
+=6	=6	=6	=6	=6
+1D	VI	7 #	1f#X	1cc
+2E-X	.	5	[2g	[2b-
+=7	=7	=7	=7	=7
+2C	V	7 -	2g]	2b-]
+1D	.	5 4	2.g	1a
+.	.	#	4f#X	.
+=8	=8	=8	=8	=8
+1GG	i|PAC}	.	1g	1g
+2GG	.	.	2b-	2gg
+=9	=9	=9	=9	=9
+1AA	V65	6	1cc	2.ff
+.	.	.	.	4gg
+2AA	.	-r5	2cc	4ff
+.	.	.	.	4ee-X
+=10	=10	=10	=10	=10
+1BB-	vi6	.	1f	1dd
+2B-	.	6	2dd	2gg
+=11	=11	=11	=11	=11
+1A	iii6	7	1cc	(2gg
+.	.	6	.	2ff)
+2F	V6	6	2dd	2ff
+=12	=12	=12	=12	=12
+1G	ii6	7	1b-	(2ff
+.	.	-r6	.	2ee-X)
+2E-X	IV6	6	2cc	2ee-
+=13	=13	=13	=13	=13
+1F	vi	-7	1a	1ee-X
+2G	.	5	[2b-	[2dd
+=14	=14	=14	=14	=14
+2E-X	V	7 5	2b-]	2dd]
+1F	.	5 4	2.b-	1cc
+.	.	3	4a	.
+=15	=15	=15	=15	=15
+1BB-	i.i{	.	1b-	1b-
+2G	.	.	2dd	2bb-
+=16	=16	=16	=16	=16
+1F#X	i	6	1dd	1aa
+2G	.	.	2dd	2bb-
+=17	=17	=17	=17	=17
+1E-X	iio6	7	(2dd	1gg
+.	.	6	2cc)	.
+2C	iv6	6 -	2cc	2aa
+=18	=18	=18	=18	=18
+1D	III	#	1a	1ff#X
+2BB-	.	.	2dd	2bb-
+=19	=19	=19	=19	=19
+1F	#viio	5 4	1cc	(2bb-
+.	.	3	.	2aa)
+2F#X	VII	5	2cc	2aa
+=20	=20	=20	=20	=20
+1G	i6	9	1b-	(2aa
+.	.	8	.	2gg)
+2BB-	i	6	2dd	[2gg
+=21	=21	=21	=21	=21
+2C	V	6 5 -	(4cc	2gg]
+.	.	.	4b-)	.
+1D	.	5 4	1a	2.gg
+.	.	#	.	4ff#X
+=22	=22	=22	=22	=22
+1G	i6{	.	1g	1gg
+2BB-	.	6	[2g	2dd
+=23	=23	=23	=23	=23
+2C	V	6 5 -	2g]	(4cc
+.	.	.	.	4b-)
+1D	.	5 4	2.g	1a
+.	.	#	4f#X	.
+=24	=24	=24	=24	=24
+1.GG	i|PAC}	.	1.g	1.g
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental

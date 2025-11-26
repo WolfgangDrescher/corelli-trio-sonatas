@@ -1,0 +1,106 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da chiesa
+!!!OPS: 1
+!!!ONM: 6
+!!!OMV: 1
+!!!OMD: Grave
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[f#c#]	*	*	*k[f#c#]	*k[f#c#]
+*M4/4	*	*	*M4/4	*M4/4
+*MM34	*	*	*MM34	*MM34
+=1	=1	=1	=1	=1
+4B	b.i{	.	4dd	4ff#
+4A#X	V6	6	4cc#	4ff#
+4.B	i	.	4.dd	4ff#
+.	.	.	.	[4bb
+8BB	.	.	8dd	.
+=2	=2	=2	=2	=2
+2C#	V6(2)/III	7	4.ee	4bb]
+.	V6/III	6	.	8aaL
+.	.	.	8ee	8ggJ
+4.D	III	.	4.a	8ff#L
+.	.	.	.	8ggJ
+.	.	.	.	[4aa
+8C#	VII6	6	8ee	.
+=3	=3	=3	=3	=3
+4.BB	VI6(2)	7	4.dd	8aa]
+.	.	6	.	(16ggLL
+.	.	.	.	16ff#JJ)
+.	VI6	.	.	[4gg
+8BB	.	6	8dd	.
+4.AA	v6(2)	7	4.cc#	8gg]
+.	.	6	.	16ff#LL
+.	.	.	.	16eeJJ
+.	v6	.	.	[4ff#
+8AA	.	.	8cc#	.
+=4	=4	=4	=4	=4
+4.GG	iv6(2)	7	4.b	8ff#]
+.	.	6	.	16eeLL
+.	.	.	.	16ddJJ
+.	iv6	.	.	8.eeL
+8GG	.	.	8b	.
+.	.	.	.	16ff#Jk
+4.FF#	V|HC}{	#	4.a#X	4.ff#
+8F#	.	.	8a#	8ff#
+=5	=5	=5	=5	=5
+4G#X	IV6(2)	7	4b	8ff#L
+.	IV6	6	.	8ee
+4A#X	#viio	5	4cc#	8ee
+.	.	.	.	8eeJ
+4.B	i(4)	5 4	4.f#	8eeL
+.	i	.	.	8ddJ
+.	.	.	.	8r
+8B	.	3	8f#	8dd
+=6	=6	=6	=6	=6
+4.E#X	v.V6	6 #	4.g#X	8.cc#L
+.	.	.	.	16ddJk
+.	.	.	.	8.cc#L
+8E#	.	.	8g#	.
+.	.	.	.	16bJk
+4.F#	i(9)	9	8g#	4a
+.	.	8	(16f#LL	.
+.	.	.	16e#XJJ)	.
+.	i	.	8f#L	8r
+8F#	.	.	8cc#J	8aa
+=7	=7	=7	=7	=7
+4BB	IV6(2)/VI	7	4dd	(8aaL
+.	IV6/VI	6	.	8gg)
+4C#	viio/VI	5	4ee	8gg
+.	.	.	.	8ggJ
+4D	VI(4)	4	4a	(8ggL
+.	VI	3	.	8ff#J)
+8r	.	.	8r	[4ff#
+8AA	i6	6	8cc#	.
+=8	=8	=8	=8	=8
+4BB	ii65	6 5	(16ddLL	4ff#]
+.	.	.	16cc#)	.
+.	.	.	(16b	.
+.	.	.	16aJJ)	.
+4C#	V(4)	5 4	8.g#XL	8.ff#L
+.	V	#	16g#Jk	16ee#XJk
+4F#	i|PAC}	.	4f#	4ff#
+4F#	i{	.	[4ff#	4aa
+=9	=9	=9	=9	=9
+4BB	i.IVM65/III	6 5 n	4ff#]	2gg
+4C#	viio/III	5	2ee	.
+4D	III(9)	9	.	2ff#
+4F#	III6	6	[4dd	.
+=10	=10	=10	=10	=10
+4G#X	IV65	6 5	4dd]	2ee
+4A#X	#viio	5	[4cc#	.
+4.B	i(9)	9	8cc#L]	2dd
+.	.	.	8f#J	.
+.	i	8	[4b	.
+8BB	.	.	.	.
+=11	=11	=11	=11	=11
+4F#	V(4)	5 4	4b]	2cc#
+4FF#	V	#	4a#X	.
+2BB	i|PAC}	.	2b	2b
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML

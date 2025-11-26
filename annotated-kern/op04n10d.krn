@@ -1,0 +1,110 @@
+!!!COM: Corelli, Arcangelo
+!!!OPR: Sonata da camera
+!!!OPS: 4
+!!!ONM: 10
+!!!OMV: 4
+!!!OMD: Grave
+**kern	**harm	**fb	**kern	**kern
+*part3	*above	*part3	*part2	*part1
+*staff3	*	*	*staff2	*staff1
+*I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
+*clefF4	*	*	*clefG2	*clefG2
+*k[]	*	*	*k[]	*k[]
+*e:	*	*	*e:	*e:
+*M4/4	*	*	*M4/4	*M4/4
+*met(c)	*	*	*met(c)	*met(c)
+*MM34	*	*	*MM34	*MM34
+=1	=1	=1	=1	=1
+2.E	e.i{	5	1r	2.r
+.	e.i{	4 #2\	.	.
+4D	v6	6	.	[4b
+=2	=2	=2	=2	=2
+2C	iv6(2)	7	4r	4b]
+.	iv6	6	2ee	4a
+2BB	V(64)	6 4	.	4g
+.	III.viio	#5\ 3	4dd	[4bb
+=3	=3	=3	=3	=3
+*G:	*	*	*G:	*G:
+4E	IV6(5)	6 5	2cc	4bb]
+4F#X	viio	5	.	2aa
+4G	I(9)	9	4b	.
+4GG	I	.	4bb	[4gg
+=4	=4	=4	=4	=4
+*e:	*	*	*e:	*e:
+4D	V(4)	5 4	2aa	4gg]
+4D#X	#viio/vi	5	.	2ff#X
+4E	vi(9)	9	2gg	.
+[4e	v.iv	8	.	4ee
+=5	=5	=5	=5	=5
+*b:	*	*	*b:	*b:
+4e]	V2	#4\ #2\	4ff#X	4a#X
+8dniL	i	6	8ff#L	2b
+8eJ	.	.	8ggJ	.
+4f#X	V(64)	6 4	4dd	.
+4F#X	V	#5\ #	4cc#X	4a#
+=6	=6	=6	=6	=6
+4.G	VI|DC}	5	4b	4b
+.	.	6	4r	2ee
+8A	.	.	.	.
+4.B	i(4)	#5\ 4	2ff#X	.
+.	i	-r3	.	[4dd
+8A	.	.	.	.
+=7	=7	=7	=7	=7
+*a:	*	*	*a:	*a:
+8G#XL	iv.V65	6 5	2ee	4dd]
+8EJ	.	.	.	.
+2A	i	3	.	4cc
+.	ii%2	4 2	2dd	[2b
+4G#	#viio	5	.	.
+=8	=8	=8	=8	=8
+8AL	i(9)	9	2cc	8bL]
+8AA	.	.	.	8eJ
+8C	i6	6	.	2a
+8DJ	.	.	.	.
+4.E	v(4)	5 4	4b	.
+.	.	-r3	[4ee	4g
+8E	VI.iii	.	.	.
+=9	=9	=9	=9	=9
+*C:	*	*	*C:	*C:
+4A	IV6(5)	6 5	4ee]	2f
+4B	viio	5	2dd	.
+4c	I(9)	9	.	4e
+4E	I6	6	4cc	4gg
+=10	=10	=10	=10	=10
+4F	IV	.	8aL	4aa
+.	.	.	8bJ	.
+8EL	I6	6	2cc	8ggL
+8FJ	.	.	.	8aaJ
+4G	V(64)	6 4	.	4ee
+*a:	*	*	*a:	*a:
+4G#X	#viio/vi	-r5	[4b	4dd
+=11	=11	=11	=11	=11
+4.A	vi(9)	9	8bL]	4.cc
+.	.	.	8eJ	.
+.	vi	8	2a	.
+8A	.	.	.	8cc
+*e:	*	*	*e:	*e:
+4D#X	i.V65	6 5	.	4.b
+4E	i	.	4g	.
+.	.	.	.	8b
+=12	=12	=12	=12	=12
+4AA	#viio43	#6\	8f#XL	4a
+.	.	.	8d#XJ	.
+4AA#X	viio7/V	-7 5	2e	8gL
+.	.	.	.	8f#XJ
+2BB	V(64)	6 4	.	4g
+.	V	5 #	4d#	4f#
+=13	=13	=13	=13	=13
+4E	i|PAC}{	.	4e	4e
+4r	.	.	4r	4r
+4D	v6	6 #	4f#X	4b
+4r	.	.	4r	4r
+=14	=14	=14	=14	=14
+4C	iv6	6	4e	4a
+4r	.	.	4r	4r
+2BB	V|HC}	#	2d#X	2b
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [{s1,s2},s3]
+!!!YEM: CC BY-NC-SA 4.0; CCARH; DCML
+!!!RDF**kern: i = editorial accidental
