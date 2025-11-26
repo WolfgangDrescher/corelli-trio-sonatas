@@ -197,3 +197,9 @@ npm i
 node fix-tempo.mjs
 node add-modulations.mjs
 node add-tempo.mjs
+
+if [[ "$FORCE_DOWNLOAD" = true ]]; then
+    node add-dcml-annotations.mjs --force-download
+else
+    node add-dcml-annotations.mjs
+fi

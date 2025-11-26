@@ -1,7 +1,30 @@
 import fs from 'node:fs';
+import path from 'node:path';
 import { execSync } from 'node:child_process';
 
+const FORCE_DOWNLOAD = process.argv.includes('--force-download');
+const CACHE_DIR = path.resolve('./dcml-annotations');
+const SCORES_DIR = path.resolve('./annotated-kern');
+
 const notesList = 'https://api.github.com/repos/DCMLab/corelli/contents/reviewed';
+
+if (FORCE_DOWNLOAD) {
+	if (fs.existsSync(CACHE_DIR)) {
+        fs.rmSync(CACHE_DIR, { recursive: true, force: true });
+    }
+}
+
+if (fs.existsSync(SCORES_DIR)) {
+	fs.rmSync(SCORES_DIR, { recursive: true, force: true });
+}
+
+if (!fs.existsSync(CACHE_DIR)) {
+    fs.mkdirSync(CACHE_DIR, { recursive: true });
+}
+if (!fs.existsSync(SCORES_DIR)) {
+    fs.mkdirSync(SCORES_DIR, { recursive: true });
+}
+
 
 function readTSV(tsv) {
     const lines = tsv.trim().split("\n");
@@ -30,9 +53,25 @@ try {
 	for (const filename of files) {
 		const id = filename.replace('.krn', '');
 
-		const notesResponse = await fetch(downloadUrlMap[id]);
-		if (!notesListResponse.ok) throw new Error(`GitHub API error: ${notesListResponse.status}`);
-		const notesBody = await notesResponse.text();
+		
+		const cacheFile = path.join(CACHE_DIR, `${id}_reviewed.tsv`);
+
+		let notesBody;
+
+		// If cached and not forcing: use the cached file
+		if (fs.existsSync(cacheFile) && !FORCE_DOWNLOAD) {
+			console.log(`Using cached ${id}_reviewed.tsv`);
+			notesBody = fs.readFileSync(cacheFile, 'utf-8');
+		} else {
+			console.log(`Downloading ${id}_reviewed.tsv…`);
+			const notesResponse = await fetch(downloadUrlMap[id]);
+			if (!notesResponse.ok) {
+				throw new Error(`GitHub API error: ${notesResponse.status}`);
+			}
+			notesBody = await notesResponse.text();
+			fs.writeFileSync(cacheFile, notesBody);
+		}
+
 		const notes = readTSV(notesBody);
 		const dcmlLabelMap = Object.fromEntries(notes.map(row => {
 			const [nominator, denominator] =  row.mn_onset.split('/').map(v => parseInt(v, 10));
@@ -132,7 +171,7 @@ try {
 			input: output.join('\n'),
 		}).toString().trim();
 
-		fs.writeFileSync(`./annotated-kern/${filename}`, newScore);
+		fs.writeFileSync(path.join(SCORES_DIR, filename), newScore);
 
 		console.log(`✔ Added DCML annotation kern for ${id}`);
 	}
