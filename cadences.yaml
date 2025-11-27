@@ -116,11 +116,14 @@ op04n03d:
     - [40/2, 41/2, doppia]
 
 op04n04a:
-    - [1/4, 2/3, null]
-    - [4/4, 5/3, null]
-    - [9/3.5, 10/3, doppia]
-    - [12/4, 13/3, composta]
-    - [18/4, 18/1, doppia]
+    - [1/4, 2/3, cantizans]
+    - [4/4, 5/3, cantizans]
+    - [9/3, 10/3, doppia]
+    - [11/1, 11/3, doppia]
+    - [13/1, 13/3, composta]
+    - [15/1, 15/3, half]
+    - [17/1, 18/3, doppia]
+    - [19/1, 20/1, doppia]
 op04n04b:
     - [2/1, 3/1, simplice]
     - [7/3, 9/1, composta]
