@@ -4,13 +4,13 @@
 !!!ONM: 8
 !!!OMV: 1
 !!!OMD: Grave
-**kern	**harm	**fb	**kern	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern	**kern
 *part4	*above	*part4	*part3	*part2	*part1
 *staff4	*	*	*staff3	*staff2	*staff1
 *I"Organo	*	*	*I"Violone	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefF4	*clefG2	*clefG2
 *k[b-e-]	*	*	*k[b-e-]	*k[b-e-]	*k[b-e-]
-*g:	*	*	*g:	*g:	*g:
+*g:	*g:	*	*g:	*g:	*g:
 *M4/4	*	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)	*met(c)
 *MM34	*	*	*MM34	*MM34	*MM34

@@ -4,13 +4,13 @@
 !!!ONM: 10
 !!!OMV: 2
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[]	*	*	*k[]	*k[]
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 *M4/4	*	*	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)
 *MM104	*	*	*MM104	*MM104
@@ -62,7 +62,7 @@
 8F#X	V	6	[4ff#X	4r
 8DJ	.	.	.	.
 =4	=4	=4	=4	=4
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 8EL	vi(9)	9	4ff#]	16ggLL
 .	.	.	.	16bb
 8F#X	.	.	.	16gg
@@ -76,7 +76,7 @@
 8D	iii	6	[4dd	4r
 8BBJ	.	.	.	.
 =5	=5	=5	=5	=5
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 8CL	IV(9)	9	4dd]	16eeLL
 .	.	.	.	16gg
 8D	.	.	.	16ff#X
@@ -103,7 +103,7 @@
 8B	I6	6	[4g	.
 8GJ	vi6	.	.	8ee
 =7	=7	=7	=7	=7
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 8AL	V7/V	7 #	4g]	8cc#XL
 8A	.	.	.	8aJ
 8B	vi/V	#5|	4f#X	2dd
@@ -121,7 +121,7 @@
 .	.	.	.	16ee
 .	.	.	.	16ff#
 .	.	.	.	16ddJJ
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 8BBL	I6	6	16ddLL	4gg
 .	.	.	16cc	.
 8BB	.	.	16b	.
@@ -139,7 +139,7 @@
 .	.	.	.	16ff#
 .	.	.	.	16gg
 .	.	.	.	16eeJJ
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 8C#XL	V6/V	6	16eeLL	4aa
 .	.	.	16dd	.
 8C#	.	.	16cc#X	.
@@ -157,7 +157,7 @@
 .	.	.	.	16gg
 .	.	.	.	16aa
 .	.	.	.	16ff#JJ
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 8D#XL	V6/vi	6	16ff#XLL	4bb
 .	.	.	16ee	.
 8D#	.	.	16dd#X	.
@@ -232,7 +232,7 @@
 .	.	.	.	16ee
 .	.	.	8eeJ	16gg
 .	.	.	.	16eeJJ
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 8AL	V.V	#	4cc#X	16aaLL
 .	.	.	.	16ee
 8AA	.	.	.	16aa
@@ -267,7 +267,7 @@
 .	.	.	.	16aa
 .	.	.	8ff#XJ	16ff#
 .	.	.	.	16aaJJ
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 8F#XL	iii.V	#	4a#X	16cc#XLL
 .	.	.	.	16ff#
 8G#X	.	.	.	16cc#
@@ -328,7 +328,7 @@
 4BB	i|PAC}	.	4b	4b
 4r	.	.	4r	4r
 =22	=22	=22	=22	=22
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 4G	I.I{	.	2r	16ggLL
 .	.	.	.	16bb
 .	.	.	.	16gg
@@ -376,7 +376,7 @@
 8F#X	.	6	[4ff#X	4r
 8DJ	.	.	.	.
 =25	=25	=25	=25	=25
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 8EL	vi(9)	9	4ff#]	16ggLL
 .	.	.	.	16bb
 8F#X	.	.	.	16gg
@@ -390,7 +390,7 @@
 8D	iii	6	[4dd	4r
 8BBJ	.	.	.	.
 =26	=26	=26	=26	=26
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 8CL	IV(9)	9	4dd]	16eeLL
 .	.	.	.	16gg
 8D	.	.	.	16ff#X

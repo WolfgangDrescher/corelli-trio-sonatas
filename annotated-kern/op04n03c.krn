@@ -5,13 +5,13 @@
 !!!OMV: 3
 !!!OTL: Sarabanda
 !!!OMD: Largo
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[f#c#]	*	*	*k[f#c#]	*k[f#c#]
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 *M3/2	*	*	*M3/2	*M3/2
 *MM108	*	*	*MM108	*MM108
 =	=	=	=	=
@@ -31,7 +31,7 @@
 4G#X	.	6	2ee	(4b
 4E	.	.	.	4cc#)
 =3	=3	=3	=3	=3
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 4F#	V6/V	7	2cc#	2.a
 4G#X	.	.	.	.
 4F#	.	#6\	(4dd#X	.
@@ -68,7 +68,7 @@
 =8	=8	=8	=8	=8
 1E	{	.	1ee	1ee
 =:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 2E	.	#	2g#X	(4b
 .	.	.	.	4cc#)
 =9	=9	=9	=9	=9
@@ -86,7 +86,7 @@
 4d	.	6	2a	[2ff#
 4A	.	.	.	.
 =11	=11	=11	=11	=11
-*f#:	*	*	*f#:	*f#:
+*f#:	*f#:	*	*f#:	*f#:
 4B	V/vi	#6\ 5	2ff#	4ff#]
 4G#X	.	.	.	4gg#X
 4c#	.	4	2.ff#	2.gg#
@@ -101,7 +101,7 @@
 4A	.	.	(4eeni	(4cc#
 4F#	.	.	4a)	4dd)
 =13	=13	=13	=13	=13
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 4G#X	I	6	2.b	2.ee
 4F#	.	.	.	.
 4G#	.	.	.	.

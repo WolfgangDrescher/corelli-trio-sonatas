@@ -4,13 +4,13 @@
 !!!ONM: 4
 !!!OMV: 3
 !!!OMD: Adagio
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[f#c#]	*	*	*k[f#c#]	*k[f#c#]
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 *M4/4	*	*	*M4/4	*M4/4
 *MM36	*	*	*MM36	*MM36
 =1	=1	=1	=1	=1
@@ -25,7 +25,7 @@
 8F#J	.	.	(16ff#LL	.
 .	.	.	16cc#JJ)	.
 =2	=2	=2	=2	=2
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 8BBL	i	.	8ddL	8r
 8d	.	6	8bJ	8dd
 8c#	V6/III	6	8r	4aa
@@ -40,7 +40,7 @@
 8dL	I/III	.	8ff#L	8r
 8DJ	.	.	8ddJ	8ff#L
 8r	.	.	8r	8bb
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 8D#X	#viio/iv	5	8ff#	8aaJ
 8EL	iv	.	8bL	8gg
 8F#J	V	#	8a#XJ	4ff#
@@ -52,7 +52,7 @@
 8A#X	V6	6	8cc#	.
 8F#J	.	.	8f#J	(16ff#LL
 .	.	.	.	16cc#JJ)
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 8BBL	i	.	8r	8ddL
 8B	.	.	8ff#L	8bJ
 8c#	III.V6	6	8ee	8r
@@ -71,7 +71,7 @@
 8BL	vi	.	8r	4dd
 8F#	I6	6	4aa	.
 8G	IV	9	.	8r
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 8GGJ	.	6	4gg	8b
 8AAL	V7	7	.	8cc#
 8D	I	.	8ff#	4dd
@@ -91,7 +91,7 @@
 8Bni	.	.	.	8cc#J
 8Ani	i6	6	8r	4.ff#
 8F#J	.	.	8cc#	.
-*f#:	*	*	*f#:	*f#:
+*f#:	*f#:	*	*f#:	*f#:
 4BB	IV	5 #	4dd#X	.
 .	ii6	#6\	.	4gg#
 4C#	V	5	4ee#X	.
@@ -111,7 +111,7 @@
 8G#X	.	.	.	.
 8A	.	6	.	.
 8F#J	{	.	8ff#	8aa
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 8BL	i.V7/iv	7 #	8dd#X	8aaL
 8E	i/iv	.	4eeni	8ggniJ
 8B	V(4)/iv	4	.	4ff#
@@ -121,7 +121,7 @@
 8F#	.	.	.	.
 8Gni	.	6	.	.
 8EJ	{	.	8ee	[8gg
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 8AL	V7/III	7	8cc#	8ggL]
 8D	III	.	4ddni	8ff#J
 8GG#X	IV65	6 5	.	4ee
@@ -150,7 +150,7 @@
 8BB	i	.	4b	8ddJ
 8F#	V(4)	4	.	4cc#
 8FF#J	V	#	8a#	.
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 4BB	I|PAC}	#	8bL	8bL
 .	{	.	8dd#X	8ff#
 8r	.	.	(8ee	(8gg

@@ -5,13 +5,13 @@
 !!!OMV: 1
 !!!OTL: Preludio
 !!!OMD: Largo
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[f#c#]	*	*	*k[f#c#]	*k[f#c#]
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 *M3/4	*	*	*M3/4	*M3/4
 *MM72	*	*	*MM72	*MM72
 =	=	=	=	=
@@ -42,7 +42,7 @@
 =6	=6	=6	=6	=6
 4B	i	.	2f#	4dd
 4BB	.	.	.	4b
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 [4d	III.I	.	4dd	4ff#
 =7	=7	=7	=7	=7
 4d]	ii2	4 2	2ee	4gg
@@ -63,14 +63,14 @@
 2D	I|IAC}	.	2dd	2ff#
 [4d	{	.	4a	4ff#
 =12	=12	=12	=12	=12
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 4d]	i.#vio64	6 #4\	4b	4gg#X
 2c#	#viio6	#6\	4.cc#	4.aa#X
 .	.	.	8cc#	8aa#
 =13	=13	=13	=13	=13
 2B	i	.	2dd	4bb
 .	.	.	.	4ff#
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 4BB	V/iv	#	4dd#X	[4bb
 =14	=14	=14	=14	=14
 4C#	vi7/iv	7	4ee	4bb]
@@ -78,7 +78,7 @@
 .	.	.	8ff#	8bb
 =15	=15	=15	=15	=15
 2E	iv	.	2b	2gg
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 [4F#	V	#	[4a#X	[4ff#
 =16	=16	=16	=16	=16
 4F#]	.	.	4a#]	4ff#]
@@ -96,7 +96,7 @@
 4F#	.	.	4cc#	4cc#
 4B	.	.	4dd	4b
 =20	=20	=20	=20	=20
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 4G	VI	.	4b	4bb
 4F#	v	.	2cc#	4aa
 4E	viio6/III	6	.	4gg
@@ -139,7 +139,7 @@
 =30	=30	=30	=30	=30
 2G#X	i.IV6(2)	7	2b	4r
 .	IV6	6	.	4ee
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 4A#X	#viio	-r5	4cc#	4ee
 =31	=31	=31	=31	=31
 4B	i(4)	5 4	2f#	(4ee

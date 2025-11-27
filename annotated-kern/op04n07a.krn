@@ -5,13 +5,13 @@
 !!!OMV: 1
 !!!OTL: Preludio
 !!!OMD: Largo
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[b-]	*	*	*k[b-]	*k[b-]
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 *M4/4	*	*	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)
 *MM56	*	*	*MM56	*MM56
@@ -35,7 +35,7 @@
 .	.	.	.	16bb-JJ
 4F	I|IAC}	.	4ff	8aaL
 .	.	.	.	8ff
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 4E	V.I6{	6	8r	8ccc
 .	.	.	8gg	8ccJ
 =3	=3	=3	=3	=3
@@ -69,7 +69,7 @@
 .	{	.	16cc	.
 .	.	.	16dd	.
 .	.	.	16eeJJ	.
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 4A	I.I6	6	4ff	16r
 .	.	.	.	16ffLL
 .	.	.	.	16gg
@@ -100,7 +100,7 @@
 .	.	.	16ddL	16ff
 .	ii6	6	16ee	16gg
 .	.	.	16ffJJ	16aaJJ
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 4G	vi.iv	.	16ggLL	16bb-LL
 .	.	.	16ff	16aa
 .	iio6	.	16ee	16gg
@@ -120,7 +120,7 @@
 8dL	i}	.	4dd	4dd
 8c	.	.	.	.
 8B-	I.IV	5	8r	8r
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 8AJ	I6{	6	8ccni	8ff
 8B-L	ii6	6	(8ddL	(8ggL
 8A	I6	6	8ccJ)	8ffJ)

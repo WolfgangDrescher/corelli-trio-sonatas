@@ -5,13 +5,13 @@
 !!!OMV: 2
 !!!OTL: Corrente
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[]	*	*	*k[]	*k[]
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 *M3/4	*	*	*M3/4	*M3/4
 *MM176	*	*	*MM176	*MM176
 =	=	=	=	=
@@ -39,7 +39,7 @@
 4B	.	.	4dd	8gL
 .	.	.	.	8bJ
 =5	=5	=5	=5	=5
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 4A	ii7/V	7	4ee	8ccL
 .	.	.	.	8eeJ
 4d	V7/V	#r7	2ff#X	8ccL
@@ -54,7 +54,7 @@
 8GL	.	.	4r	4r
 8FnJ	.	.	.	.
 =7	=7	=7	=7	=7
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 2E	I6{	6	4ccc	8ggL
 .	.	.	.	8eeJ
 .	.	.	4gg	8ccL
@@ -93,7 +93,7 @@
 8cJ	.	.	.	.
 8AL	.	.	.	.
 8GJ	.	.	.	.
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 8F#XL	V7	6 5	4r	4r
 8DJ	.	.	.	.
 =13	=13	=13	=13	=13
@@ -140,7 +140,7 @@
 4r	.	.	8aL	8ccL
 .	.	.	8bJ	8ddJ
 =20	=20	=20	=20	=20
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 8EL	I.I6	6	2cc	2g
 8FJ	.	.	.	.
 8GL	.	.	.	.
@@ -155,7 +155,7 @@
 4r	.	.	8ddL	8ffL
 .	.	.	8eeJ	8ggJ
 =22	=22	=22	=22	=22
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 8AL	IV6	6	2ff	2cc
 8B-XJ	.	.	.	.
 8cL	.	.	.	.
@@ -170,7 +170,7 @@
 4r	.	.	4cc	8ggL
 .	.	.	.	8aaJ
 =24	=24	=24	=24	=24
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 8F#XL	V6/V	6	2a	2dd
 8EJ	.	.	.	.
 8F#L	.	.	.	.
@@ -185,7 +185,7 @@
 4r	.	.	4dd	8ccL
 .	.	.	.	8ddJ
 =26	=26	=26	=26	=26
-*a:	*	*	*a:	*a:
+*a:	*a:	*	*a:	*a:
 8G#XL	vi.V6	6	2b	2ee
 8F#XJ	.	.	.	.
 8G#XiL	.	.	.	.
@@ -224,7 +224,7 @@
 8AL	.	.	4r	4r
 8GnJ	.	.	.	.
 =32	=32	=32	=32	=32
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 2F#X	I.V6/V	6	2aa	8ddL
 .	.	.	.	8aJ
 .	.	.	.	8bL
@@ -243,7 +243,7 @@
 .	.	.	8ddJ	8ffJ
 .	.	.	8eeL	8ggL
 .	.	.	8ccJ	8eeJ
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 4E	.	.	8ddL	8ffL
 .	.	.	8eeJ	8ggJ
 =35	=35	=35	=35	=35

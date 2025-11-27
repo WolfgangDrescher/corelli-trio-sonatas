@@ -5,13 +5,13 @@
 !!!OMV: 3
 !!!OTL: Allemanda
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[b-e-]	*	*	*k[b-e-]	*k[b-e-]
-*c:	*	*	*c:	*c:
+*c:	*c:	*	*c:	*c:
 *M4/4	*	*	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)
 *MM104	*	*	*MM104	*MM104
@@ -29,7 +29,7 @@
 8E-	.	.	.	.
 8G	I6/III	6	2ee-	.
 8E-J	.	.	.	.
-*E-:	*	*	*E-:	*E-:
+*E-:	*E-:	*	*E-:	*E-:
 8A-XL	ii65/III	6 5	.	2ff
 8F	.	.	.	.
 8B-	V/III	.	4dd	.
@@ -44,7 +44,7 @@
 8d	ii	-	[4ff	.
 8DJ	.	.	.	.
 =4	=4	=4	=4	=4
-*c:	*	*	*c:	*c:
+*c:	*c:	*	*c:	*c:
 8GL	V7	7 n	4ff]	4bbn
 8G	.	.	.	.
 8A-X	VI	5	4ee-	2ccc
@@ -58,7 +58,7 @@
 8E-	.	.	.	.
 8G	III.I6	6	4r	2ee-
 8E-J	.	.	.	.
-*E-:	*	*	*E-:	*E-:
+*E-:	*E-:	*	*E-:	*E-:
 8A-XL	ii65	6 5	[2ff	.
 8F	.	.	.	.
 8B-	V	.	.	4dd
@@ -102,7 +102,7 @@
 =10	=10	=10	=10	=10
 8E-L	I|IAC}{	.	4ee-	4ee-
 8G	.	.	.	.
-*c:	*	*	*c:	*c:
+*c:	*c:	*	*c:	*c:
 8E-	i.i6	6	4r	2cc
 8CJ	.	.	.	.
 8FL	ii%65	6 5 -	[2dd	.
@@ -114,7 +114,7 @@
 8D	.	.	.	.
 8E-	i6	6	4cc	.
 8CJ	.	.	.	.
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 8DL	v.V(9)	9 #	4f#X	.
 8En	.	.	.	.
 8F#X	V6	6	[4aa	8ddL
@@ -171,7 +171,7 @@
 8DDJ	.	.	.	.
 2GG	i|PAC}	.	2g	2g
 =18:|!|:	=18:|!|:	=18:|!|:	=18:|!|:	=18:|!|:
-*c:	*	*	*c:	*c:
+*c:	*c:	*	*c:	*c:
 8GL	i.V{	n	2r	4dd
 8A	.	.	.	.
 8Bn	V6	6	.	4gg
@@ -190,7 +190,7 @@
 8E-	i6	6	4cc	.
 8CJ	.	.	.	.
 =20	=20	=20	=20	=20
-*B-:	*	*	*B-:	*B-:
+*B-:	*B-:	*	*B-:	*B-:
 8FL	VII.V	.	2a	4cc
 8G	.	.	.	.
 8A	V6	6	.	4ff
@@ -209,7 +209,7 @@
 8D	I6	6	4b-	.
 8BB-J	.	.	.	.
 =22	=22	=22	=22	=22
-*E-:	*	*	*E-:	*E-:
+*E-:	*E-:	*	*E-:	*E-:
 8E-L	III.I	.	4g	4b-
 8F	.	.	.	.
 8G	I6	6	2b-	4ee-
@@ -239,7 +239,7 @@
 =25	=25	=25	=25	=25
 4E-	I	.	4g	8r
 .	.	.	.	8ccL
-*f:	*	*	*f:	*f:
+*f:	*f:	*	*f:	*f:
 4En	iv.V6	6	4.r	8g
 .	.	.	.	8ccJ
 4F	i	-	.	4a-X
@@ -249,7 +249,7 @@
 =26	=26	=26	=26	=26
 4F	i	-	4a-X	8r
 .	.	.	.	8ddL
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 4F#X	v.V	6	4.r	8ani
 .	.	.	.	8ddJ
 4G	i	.	.	4b-
@@ -277,7 +277,7 @@
 =29	=29	=29	=29	=29
 8GL	i	.	4gg	4g
 8F	.	.	.	.
-*c:	*	*	*c:	*c:
+*c:	*c:	*	*c:	*c:
 8E-	i.i6	6	4r	2cc
 8CJ	.	.	.	.
 8FL	ii%65	6 5 -	[2dd	.

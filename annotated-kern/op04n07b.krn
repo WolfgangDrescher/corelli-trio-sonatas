@@ -5,13 +5,13 @@
 !!!OMV: 2
 !!!OTL: Corrente
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[b-]	*	*	*k[b-]	*k[b-]
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 *M3/4	*	*	*M3/4	*M3/4
 *MM176	*	*	*MM176	*MM176
 =1	=1	=1	=1	=1
@@ -66,7 +66,7 @@
 =12	=12	=12	=12	=12
 4B-]	V2	5	2cc	4ee
 4A	I6	6	.	4cc
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 4d	vi	.	4dd	[4ff
 =13	=13	=13	=13	=13
 4Bn	V.V65	6 5	2g	4ff]
@@ -110,7 +110,7 @@
 .	ii	.	4gg	.
 =23	=23	=23	=23	=23
 4r	.	.	4cc	4bb-]
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 8AL	I6	6	[2ff	[2aa
 8B-J	.	.	.	.
 4c	I64	6 4	.	.
@@ -121,7 +121,7 @@
 =25	=25	=25	=25	=25
 2F	I(9)	98	2.aa	4gg]
 .	I	.	.	4cc
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 4A	I6	6	.	[4ff
 =26	=26	=26	=26	=26
 4Bn	vi.IV65	6 5	2.gg	4ff]
@@ -144,7 +144,7 @@
 4AA	V7	7 #	.	.
 4A	.	.	.	.
 =31	=31	=31	=31	=31
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 4D	i|PAC}	.	4r	4r
 [2F	I.I{	5	8ffL	8aaL
 .	.	.	8ggJ	8bb-J
@@ -181,7 +181,7 @@
 .	{	.	.	4cc
 .	.	.	.	4dd
 =39	=39	=39	=39	=39
-*B-:	*	*	*B-:	*B-:
+*B-:	*B-:	*	*B-:	*B-:
 4c	ii/IV	-	4g	2.ee-X
 4G	IV6/IV	-6	4b-	.
 4A	viio/IV	-5	4cc	.
@@ -206,7 +206,7 @@
 8cL	.	.	4ee	4gg
 8B-J	.	.	.	.
 =43	=43	=43	=43	=43
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 4.A	I6	6	4ff	4ccc
 .	.	.	4.cc	4ccc
 8B-	.	.	.	.

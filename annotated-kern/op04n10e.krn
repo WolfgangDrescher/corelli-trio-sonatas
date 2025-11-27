@@ -5,13 +5,13 @@
 !!!OMV: 5
 !!!OTL: Tempo di Gavotta
 !!!OMD: Presto
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[]	*	*	*k[]	*k[]
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 *M2/2	*	*	*M2/2	*M2/2
 *met(c|)	*	*	*met(c|)	*met(c|)
 *MM168	*	*	*MM168	*MM168
@@ -21,7 +21,7 @@
 4G	V	.	4gg	4bb
 4D	.	#	4ff#	4aa
 =2	=2	=2	=2	=2
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 4E	vi	.	4ee	4gg
 4B	.	#	4dd#X	4ff#X
 4E	V/vi	.	4ee	4gg
@@ -29,7 +29,7 @@
 =3	=3	=3	=3	=3
 4E	vi	.	4ee	4gg
 4G	.	.	4b	4dd
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 4C	I	.	4cc	4ee
 4GG	.	.	4b	4dd
 =4	=4	=4	=4	=4
@@ -68,7 +68,7 @@
 2D	V65/V	4	2dd	4gg
 .	.	#	.	4ff#X
 =11	=11	=11	=11	=11
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 2G	I	5	4dd	4b
 .	.	6	2gg	4ee
 4A	vi6	7 #	.	4cc#X
@@ -78,7 +78,7 @@
 4AA	.	#	.	4cc#X
 2D	V	#	2dd	2dd
 =13	=13	=13	=13	=13
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 4r	.	.	4r	4gg
 4B	.	6	4dd	4dd
 4c	I.I6	.	2g	4ee
@@ -137,7 +137,7 @@
 4DD	.	#	.	4f#X
 2GG	V	.	2g	2g
 =25:|!|:	=25:|!|:	=25:|!|:	=25:|!|:	=25:|!|:
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 4G	vi.i6{	6	2r	4bb
 4A	.	.	.	4ee
 4B	iv	#	4ff#X	4dd#X
@@ -148,7 +148,7 @@
 4B	iv	#	4ff#X	4dd#X
 4E	.	.	4gg	4ee
 =27	=27	=27	=27	=27
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 4F#X	V.I6	6	2r	4aa
 4G	.	.	.	4ddni
 4A	IV	#	4ee	4cc#X
@@ -159,7 +159,7 @@
 4A	IV	#	4ee	4cc#X
 4D	.	#	4ff#X	4dd
 =29	=29	=29	=29	=29
-*b:	*	*	*b:	*b:
+*b:	*b:	*	*b:	*b:
 4d	iii.i6	#	4r	4ff#X
 4D	.	6	4ff#X	4b
 2E	.	.	4b	4gg
@@ -180,7 +180,7 @@
 .	.	#	4a#X	.
 2BB	V	.	2b	2b
 =33	=33	=33	=33	=33
-*a:	*	*	*a:	*a:
+*a:	*a:	*	*a:	*a:
 4B	ii.ii{	.	4f#X	2.dd
 4A	.	4 2	4b	.
 4G#X	ii2	6 5	4e	.
@@ -191,7 +191,7 @@
 2AA	V	.	2a	4cc
 .	.	.	.	4a
 =35	=35	=35	=35	=35
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 4A	I.ii{	.	4e	2.cc
 4G	.	4 2	4a	.
 4F#X	ii2	6 5	4d	.

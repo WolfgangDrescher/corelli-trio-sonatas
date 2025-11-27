@@ -4,13 +4,13 @@
 !!!ONM: 7
 !!!OMV: 3
 !!!OMD: Adagio
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[f#]	*	*	*k[f#]	*k[f#]
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 *M3/2	*	*	*M3/2	*M3/2
 *MM104	*	*	*MM104	*MM104
 =1	=1	=1	=1	=1

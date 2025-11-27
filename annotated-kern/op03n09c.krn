@@ -4,13 +4,13 @@
 !!!ONM: 9
 !!!OMV: 3
 !!!OMD: Largo
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[b-e-]	*	*	*k[b-e-]	*k[b-e-]
-*B-:	*	*	*B-:	*B-:
+*B-:	*B-:	*	*B-:	*B-:
 *M3/4	*	*	*M3/4	*M3/4
 *MM72	*	*	*MM72	*MM72
 =1	=1	=1	=1	=1

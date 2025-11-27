@@ -5,13 +5,13 @@
 !!!OMV: 4
 !!!OTL: Sarabanda
 !!!OMD: Vivace
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[b-]	*	*	*k[b-]	*k[b-]
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 *M3/4	*	*	*M3/4	*M3/4
 *MM192	*	*	*MM192	*MM192
 =1	=1	=1	=1	=1
@@ -47,7 +47,7 @@
 8EJ	.	.	.	.
 8DL	vi	8	4a	.
 8CJ	.	.	.	.
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 8BBnL	V7/V	5	[4dd	.
 8GGJ	.	.	.	.
 =6	=6	=6	=6	=6
@@ -67,7 +67,7 @@
 =8	=8	=8	=8	=8
 2.C	I/V|PAC}	.	2.cc	2.cc
 =9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:
-*B-:	*	*	*B-:	*B-:
+*B-:	*B-:	*	*B-:	*B-:
 8r	.	.	4cc	2.ff
 8F	.	.	.	.
 8AL	.	6	4ff	.
@@ -82,7 +82,7 @@
 8DL	.	.	.	.
 8BB-J	.	.	.	.
 =11	=11	=11	=11	=11
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 8GGL	V/V	n	4dd	2.gg
 8GJ	.	.	.	.
 8BnL	.	6	4gg	.
@@ -97,7 +97,7 @@
 8EL	.	.	.	.
 8CJ	.	.	.	.
 =13	=13	=13	=13	=13
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 8AAL	V/vi	#	4ee	2.aa
 8AJ	.	.	.	.
 8c#XL	.	6	4aa	.
@@ -121,7 +121,7 @@
 =16	=16	=16	=16	=16
 2.D	i|PAC}	.	2.dd	2.dd
 =17	=17	=17	=17	=17
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 8r	.	.	2.ff	2.aa
 8F	.	.	.	.
 8AL	.	6	.	.

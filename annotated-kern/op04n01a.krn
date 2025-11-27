@@ -5,13 +5,13 @@
 !!!OMV: 1
 !!!OTL: Preludio
 !!!OMD: Largo
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[]	*	*	*k[]	*k[]
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 *M4/4	*	*	*M4/4	*M4/4
 *MM56	*	*	*MM56	*MM56
 =1	=1	=1	=1	=1
@@ -49,7 +49,7 @@
 .	.	.	16r	16r
 .	.	.	16ee	16gg
 =5	=5	=5	=5	=5
-*a:	*	*	*a:	*a:
+*a:	*a:	*	*a:	*a:
 4B	vi.#viio6	#6\	8.ddL	8.gg#XL
 .	.	.	16eeJk	16gg#Jk
 4A	i	.	8.ccL	8.aaL
@@ -68,7 +68,7 @@
 .	.	.	4r	4b
 8D	V2	6 #4|	.	.
 =7	=7	=7	=7	=7
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 4.C	i6(2)	7	4.e	8bL
 .	.	.	.	8eJ
 .	i6	6	.	4.a
@@ -84,12 +84,12 @@
 8eL	{	.	4r	[4gg
 8dJ	.	.	.	.
 =9	=9	=9	=9	=9
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 8c#XL	I.V65/ii	6 5	2aa	4gg]
 8A	.	.	.	.
 8d	ii	.	.	2ffni
 8cnJ	.	.	.	.
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 4B	V65	6 5	2gg	.
 8cL	I	.	.	[4ee
 8BJ	.	.	.	.
@@ -98,13 +98,13 @@
 8c	.	.	.	.
 8B	viio	.	.	2dd
 8AJ	.	.	.	.
-*a:	*	*	*a:	*a:
+*a:	*a:	*	*a:	*a:
 8G#XL	V65/vi	6 5	[2ee	.
 8E	.	.	.	.
 8A	vi	.	.	8ccL
 8GnJ	iii6	.	.	8bJ
 =11	=11	=11	=11	=11
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 4F	ii6(2)	7	4ee]	4a
 4F#X	V65/V	6	(8ddL	4aa
 .	.	.	8ccJ)	.

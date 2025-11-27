@@ -4,7 +4,7 @@
 !!!ONM: 7
 !!!OMV: 1
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern	**kern
 *part4	*above	*part4	*part3	*part2	*part1
 *staff4	*	*	*staff3	*staff2	*staff1
 *I"Organo	*	*	*I"Violone	*I"Violino II	*I"Violino I

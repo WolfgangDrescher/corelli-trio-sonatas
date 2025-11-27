@@ -5,13 +5,13 @@
 !!!OMV: 2
 !!!OTL: Corrente
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[f#c#]	*	*	*k[f#c#]	*k[f#c#]
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 *M3/4	*	*	*M3/4	*M3/4
 *MM176	*	*	*MM176	*MM176
 =	=	=	=	=
@@ -66,7 +66,7 @@
 .	.	.	.	4dd
 [4c#	V6	6	[4a	4ee
 =12	=12	=12	=12	=12
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 4c#]	.	.	4a]	4a
 2B	V.viio6	#6\	2g#X	4.dd
 .	.	.	.	8ee
@@ -133,7 +133,7 @@
 4F#	.	.	.	.
 4B	.	.	.	.
 =27	=27	=27	=27	=27
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 2.G#X	I.V6/V	6	4b	4ee
 .	.	.	4ee	4b
 .	.	.	4b	4ee
@@ -164,7 +164,7 @@
 =34	=34	=34	=34	=34
 2A	V	5	2cc#	4ee]
 .	.	6	.	4cc#
-*D:	*	*	*D:	*D:
+*D:	*D:	*	*D:	*D:
 4F#	iii	.	4a	[4ff#
 =35	=35	=35	=35	=35
 2B	vi	5	2dd	4ff#]

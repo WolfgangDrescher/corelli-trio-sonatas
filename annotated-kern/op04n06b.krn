@@ -4,13 +4,13 @@
 !!!ONM: 6
 !!!OMV: 2
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[f#c#g#]	*	*	*k[f#c#g#]	*k[f#c#g#]
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 *M3/4	*	*	*M3/4	*M3/4
 *MM176	*	*	*MM176	*MM176
 =1	=1	=1	=1	=1
@@ -63,7 +63,7 @@
 4D#	.	.	8cc#L	4r
 .	.	.	8bJ	.
 =8	=8	=8	=8	=8
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 2C#	V.ii7	7	2ee	8eeL
 .	.	.	.	8gg#J
 .	.	.	.	8cc#L
@@ -117,7 +117,7 @@
 .	.	.	4r	8bbL
 .	.	.	.	8ff#J
 =16	=16	=16	=16	=16
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 2.BB	.	#	8ff#L	2dd#X
 .	.	.	8bJ	.
 .	.	.	8dd#XL	.
@@ -132,7 +132,7 @@
 .	.	.	4r	8eeL
 .	.	.	.	8bJ
 =18	=18	=18	=18	=18
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 2.E	.	.	8eeL	2g#
 .	.	.	8eJ	.
 .	.	.	8g#L	.
@@ -144,7 +144,7 @@
 .	.	.	.	8aJ
 .	.	.	.	8cc#L
 .	.	.	8cc#	8eeJ
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 4AA	ii6	6	8aL	[4ff#
 .	.	.	8cc#J	.
 =20	=20	=20	=20	=20
@@ -169,7 +169,7 @@
 .	ii6/V	.	.	8eeL
 .	.	.	8gg#	8gg#J
 =23	=23	=23	=23	=23
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 2F#	V/V|HC}	#	2a#X	2cc#
 4r	.	.	4r	4r
 =||	=||	=||	=||	=||

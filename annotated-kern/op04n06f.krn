@@ -5,13 +5,13 @@
 !!!OMV: 6
 !!!OTL: Allemanda
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[f#c#g#]	*	*	*k[f#c#g#]	*k[f#c#g#]
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 *M4/4	*	*	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)
 *MM104	*	*	*MM104	*MM104
@@ -59,7 +59,7 @@
 .	.	.	16bJk	.
 .	V.ii6	8 6	8.eeL	8.cc#L
 .	.	.	16eeJk	16bJk
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 4.F#	V7	7 #	4.ee	4.a#X
 16r	.	.	16r	16r
 16D#X	I6	6	16dd#X	16ff#
@@ -84,13 +84,13 @@
 .	.	.	.	16ee
 4.B	.	#	.	8.dd#XL
 .	.	.	.	16bJk
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 .	.	.	.	8.cc#L
 16r	.	.	.	.
 16A	I.V2	.	.	16dd#Jk
 =10	=10	=10	=10	=10
 8.G#L	I6	6	4.b	4.ee
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 16EJk	.	.	.	.
 8.F#L	.	.	.	.
 .	.	.	16r	16r
@@ -100,7 +100,7 @@
 .	.	.	.	8.dd#L
 .	.	.	.	16eeJk
 =11	=11	=11	=11	=11
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 2A#X	V6/V	6	4.cc#	4.ff#
 .	.	.	16r	16r
 .	.	.	16cc#	16ee
@@ -109,7 +109,7 @@
 .	.	.	.	8.eeL
 .	.	.	.	16ff#Jk
 =12	=12	=12	=12	=12
-*c#:	*	*	*c#:	*c#:
+*c#:	*c#:	*	*c#:	*c#:
 2B#X	V6/vi	6	4.dd#X	4.gg#
 .	.	.	16r	16r
 .	.	.	16dd#	16ff#
@@ -122,7 +122,7 @@
 .	V/vi	#5\ #	4dd#X	4b#X
 2A	VI/vi|DC}{	.	2cc#	2cc#
 =14	=14	=14	=14	=14
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 2D#X	V6	6	2ff#	4.bni
 .	.	.	.	16r
 .	.	.	.	16a
@@ -132,15 +132,15 @@
 .	.	.	16r	.
 .	.	.	16ff#	16bJk
 =15	=15	=15	=15	=15
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 4C#	vi7	7	2ee	4.b
 4F#	V7(4)/V	7 #	.	.
 .	V7/V	.	.	8a#X
 4BB	V}	#	2dd#X	[2b
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 4AA	V2	4 2	.	.
 =16	=16	=16	=16	=16
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 2GG#	viio/IV{	6	2b	8.bL]
 .	.	.	.	16cc#Jk
 .	.	-r5	.	8.ddL
@@ -148,7 +148,7 @@
 2AA	IV(4)	5 4	2e	(4dd
 .	IV	3	.	4cc#
 =17	=17	=17	=17	=17
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 2AA#X	viio/V	6 5	2cc#	8.cc#L)
 .	.	.	.	16dd#XJk
 .	.	.	.	8.eeL
@@ -156,7 +156,7 @@
 2BB	V(4)	5 4	2f#	(4ee
 .	V	#	.	4dd#
 =18	=18	=18	=18	=18
-*c#:	*	*	*c#:	*c#:
+*c#:	*c#:	*	*c#:	*c#:
 2BB#X	#viio/vi	6 5	2dd#X	8.dd#XL)
 .	.	.	.	16eeJk
 .	.	.	.	8.ff#L
@@ -164,7 +164,7 @@
 2C#	vi(4)	5 4	2g#	(4ff#
 .	vi	3	.	4ee)
 =19	=19	=19	=19	=19
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 4.AA	IV	.	8.cc#L	8.aaL
 .	.	.	16bJk	16gg#Jk
 .	ii6	.	8.aL	8.ff#L
@@ -183,7 +183,7 @@
 2E	I|PAC}	.	2g#	4ee
 .	.	.	.	[4b
 =21	=21	=21	=21	=21
-*A:	*	*	*A:	*A:
+*A:	*A:	*	*A:	*A:
 2GG#	viio/IV{	6 -r5	2b	8.bL]
 .	.	.	.	16cc#Jk
 .	.	.	.	8.ddniL
@@ -191,7 +191,7 @@
 2AA	IV(4)	5 4	2e	(4dd
 .	IV	3	.	4cc#
 =22	=22	=22	=22	=22
-*B:	*	*	*B:	*B:
+*B:	*B:	*	*B:	*B:
 2AA#X	viio/V	6 5	2cc#	8.cc#L)
 .	.	.	.	16dd#XJk
 .	.	.	.	8.eeL
@@ -199,7 +199,7 @@
 2BB	V(4)	5 4	2f#	(4ee
 .	V	#	.	4dd#
 =23	=23	=23	=23	=23
-*c#:	*	*	*c#:	*c#:
+*c#:	*c#:	*	*c#:	*c#:
 2BB#X	#viio/vi	6 5	2dd#X	8.dd#XL)
 .	.	.	.	16eeJk
 .	.	.	.	8.ff#L
@@ -207,7 +207,7 @@
 2C#	vi(4)	5 4	2g#	(4ff#
 .	vi	3	.	4ee)
 =24	=24	=24	=24	=24
-*E:	*	*	*E:	*E:
+*E:	*E:	*	*E:	*E:
 4.AA	IV	.	8.cc#L	8.aaL
 .	.	.	16bJk	16gg#Jk
 .	ii6	.	8.aL	8.ff#L

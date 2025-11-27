@@ -4,13 +4,13 @@
 !!!ONM: 7
 !!!OMV: 3
 !!!OMD: Grave
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[b-]	*	*	*k[b-]	*k[b-]
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 *M4/4	*	*	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)
 *MM34	*	*	*MM34	*MM34
@@ -23,7 +23,7 @@
 4r	.	.	4r	4r
 4d	i{	.	4f	4a
 =3	=3	=3	=3	=3
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 2c	V2/iv	#4| 2	2f#X	2d
 4r	.	.	4r	4r
 4B-	iv6	6	4g	4dd
@@ -32,7 +32,7 @@
 4r	.	.	4r	4r
 4G	iv{	.	4d	4b-
 =5	=5	=5	=5	=5
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 4C#X	V65	6 5	4e	4a
 4r	.	.	4r	4r
 4D	i	.	4f	4a

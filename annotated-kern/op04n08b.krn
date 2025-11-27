@@ -5,13 +5,13 @@
 !!!OMV: 2
 !!!OTL: Allemanda
 !!!OMD: Allegro
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[]	*	*	*k[]	*k[]
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 *M4/4	*	*	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)
 *MM104	*	*	*MM104	*MM104
@@ -84,7 +84,7 @@
 16c#X	.	.	.	.
 16AJJ	.	.	.	.
 =5	=5	=5	=5	=5
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 16dLL	III.V/ii{	#	4.ff#X	4.aa
 16cni	.	.	.	.
 16d	.	.	.	.
@@ -102,7 +102,7 @@
 16A	.	.	.	.
 16B-JJ	.	.	.	.
 =6	=6	=6	=6	=6
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 16cLL	V	.	4.ee	4.gg
 16B-X	.	.	.	.
 16c	.	.	.	.
@@ -171,7 +171,7 @@
 16B	.	.	.	.
 16AJJ	.	.	.	.
 =10	=10	=10	=10	=10
-*a:	*	*	*a:	*a:
+*a:	*a:	*	*a:	*a:
 16G#XLL	V	6 5	4r	4r
 16E	.	.	.	.
 16F#X	.	.	.	.
@@ -212,7 +212,7 @@
 8EEJ	.	.	.	.
 2AA	i|PAC}	.	2a	2a
 =13:|!|:	=13:|!|:	=13:|!|:	=13:|!|:	=13:|!|:
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 16ALL	III.V/vi{	#	4.cc#X	4.ee
 16G	.	.	.	.
 16A	.	.	.	.
@@ -230,7 +230,7 @@
 16F	.	.	.	.
 16DJJ	.	.	.	.
 =14	=14	=14	=14	=14
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 16cLL	V	.	4.ee	4.gg
 16B-X	.	.	.	.
 16c	.	.	.	.
@@ -299,7 +299,7 @@
 16E	.	.	.	.
 16FJJ	.	.	.	.
 =18	=18	=18	=18	=18
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 16GLL	ii	-	4.gg	4.bb-X
 16F	.	.	.	.
 16G	.	.	.	.
@@ -329,7 +329,7 @@
 16BBn	.	.	.	.
 16C#X	.	.	.	.
 16AAJJ	.	.	.	.
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 16FLL	I{	.	8r	8r
 16G	.	.	.	.
 16A	.	.	8ff	8aa
@@ -339,7 +339,7 @@
 16C	.	.	.	.
 16E	.	.	.	.
 16CJJ	.	.	.	.
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 16GLL	ii	-	8r	8r
 16A	.	.	.	.
 16B-X	.	.	8gg	8bb-X
@@ -362,7 +362,7 @@
 16C#X	.	.	.	.
 16D	.	.	.	.
 16EJJ	.	.	.	.
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 16FLL	III	.	8r	8r
 16G	.	.	.	.
 16A	.	.	8ff	8aa
@@ -372,7 +372,7 @@
 16C	.	.	.	.
 16E	.	.	.	.
 16CJJ	.	.	.	.
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 16GLL	iv	-	8r	8r
 16A	.	.	.	.
 16B-X	.	.	8gg	8bb-X

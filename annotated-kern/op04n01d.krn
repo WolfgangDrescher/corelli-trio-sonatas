@@ -5,13 +5,13 @@
 !!!OMV: 4
 !!!OTL: Allemanda
 !!!OMD: Presto
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[]	*	*	*k[]	*k[]
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 *M4/4	*	*	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)
 *MM160	*	*	*MM160	*MM160
@@ -61,7 +61,7 @@
 8F#X	V7	5	.	[4a
 8DJ	.	.	.	.
 =6	=6	=6	=6	=6
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 8GL	I(9)	9	2.b	4a]
 8A	.	.	.	.
 8B	I6	6	.	8gL
@@ -84,7 +84,7 @@
 8F	.	.	.	.
 8E	I.I6	6_	4r	2cc
 8CJ	.	.	.	.
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 8FL	ii65	6_ 5_	[2dd	.
 8D	.	.	.	.
 8G	V	.	.	4b
@@ -165,7 +165,7 @@
 2C	I|PAC}	.	2cc	2cc
 2r	.	.	2r	2r
 =18:|!|:	=18:|!|:	=18:|!|:	=18:|!|:	=18:|!|:
-*a:	*	*	*a:	*a:
+*a:	*a:	*	*a:	*a:
 8AL	iii.iv{	.	4r	2ee
 8c	.	.	.	.
 8B	.	.	2ee	.
@@ -184,7 +184,7 @@
 8c	.	6	[4aa	.
 8AJ	.	.	.	.
 =20	=20	=20	=20	=20
-*e:	*	*	*e:	*e:
+*e:	*e:	*	*e:	*e:
 8BL	V7	7 #	4aa]	4dd#X
 8B	.	.	.	.
 8c	VI	5	4gg	8r
@@ -203,7 +203,7 @@
 8e	.	.	.	[4gg
 8dJ	.	4 2	8ee	.
 =22	=22	=22	=22	=22
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 8c#XL	I.V65/ii	6 5	4.a	4gg]
 8A	.	.	.	.
 8d	ii	n	.	4ffni
@@ -217,7 +217,7 @@
 8d	.	.	.	.
 8d	{	.	4r	2ff
 8cniJ	.	.	.	.
-*C:	*	*	*C:	*C:
+*C:	*C:	*	*C:	*C:
 8BL	V65	6 5	2gg	.
 8G	.	.	.	.
 8c	I	.	.	[4ee

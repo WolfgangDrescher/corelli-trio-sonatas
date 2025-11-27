@@ -4,13 +4,13 @@
 !!!ONM: 3
 !!!OMV: 2
 !!!OMD: Vivace
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Organo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[b-]	*	*	*k[b-]	*k[b-]
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 *M3/4	*	*	*M3/4	*M3/4
 *MM192	*	*	*MM192	*MM192
 =1	=1	=1	=1	=1

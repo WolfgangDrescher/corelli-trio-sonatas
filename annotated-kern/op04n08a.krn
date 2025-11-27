@@ -5,13 +5,13 @@
 !!!OMV: 1
 !!!OTL: Preludio
 !!!OMD: Grave
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
 *clefF4	*	*	*clefG2	*clefG2
 *k[]	*	*	*k[]	*k[]
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 *M3/2	*	*	*M3/2	*M3/2
 *MM132	*	*	*MM132	*MM132
 =1	=1	=1	=1	=1
@@ -29,12 +29,12 @@
 =4	=4	=4	=4	=4
 1d	#viio/iv	9	1ff	2ee]
 .	.	8	.	2dd
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 2F#X	i	#5\	[2a	2cc
 =5	=5	=5	=5	=5
 1G	V6	9 -	2a]	1b-X
 .	.	8	2d	.
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 2C#X	iv	6	2e	[2a
 =6	=6	=6	=6	=6
 2D	i	.	2f	2a]
@@ -49,7 +49,7 @@
 .	.	.	.	4ee)
 2D	i6	.	[2aa	2ff
 =9	=9	=9	=9	=9
-*a:	*	*	*a:	*a:
+*a:	*a:	*	*a:	*a:
 1E	iio6	5 4	2aa]	[1.b
 .	.	#	(4gg#X	.
 .	.	.	4aa)	.
@@ -82,17 +82,17 @@
 .	.	.	4ee	4aa
 =16	=16	=16	=16	=16
 2r	.	.	2aa	2ff
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 2.A	.	7 #	2.gg	1ee
 4A	.	.	4aa	.
 =17	=17	=17	=17	=17
 2d	i	.	2ff	2r
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 2.c	.	6 #4|	2.ff#X	2.aa
 4d	.	.	4ff#	4aa
 =18	=18	=18	=18	=18
 2B-X	ii6	6	2gg	1.dd
-*F:	*	*	*F:	*F:
+*F:	*F:	*	*F:	*F:
 2.Bn	.	-r5	2.ffni	.
 4B	.	.	4gg	.
 =19	=19	=19	=19	=19
@@ -114,7 +114,7 @@
 =23	=23	=23	=23	=23
 1FF	I|PAC}{	5	1.ff	2f
 .	.	6	.	[1dd
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 2F	i.i6	.	.	.
 =24	=24	=24	=24	=24
 2G	iv	-	2r	2dd]
@@ -138,14 +138,14 @@
 =28	=28	=28	=28	=28
 1D	#viio/iv	9 3	2f#X	2ee]
 .	.	8 4	2g	2dd
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 2FF#X	V(4)/iv	-r5	[2a	2ccni
 =29	=29	=29	=29	=29
 1GG	iv(9)	9 -	2a]	1b-X
 .	.	8	2d	.
 2GG	iv	.	[2g	2b-
 =30	=30	=30	=30	=30
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 2AA	ii%65	7 #	2g]	2c#X
 2BB-X	.	5	2f	[1d
 2GG	VI	6 5	2e	.
@@ -155,7 +155,7 @@
 .	.	#	.	4c#X
 =32	=32	=32	=32	=32
 2D	V7/iv	#	1.d	2d
-*g:	*	*	*g:	*g:
+*g:	*g:	*	*g:	*g:
 2F#X	.	6	.	2.dd
 2D	V6/iv	.	.	.
 .	.	.	.	4ccni
@@ -174,7 +174,7 @@
 .	.	.	4cc	.
 =36	=36	=36	=36	=36
 1GG	V	-	1b-X	1d
-*d:	*	*	*d:	*d:
+*d:	*d:	*	*d:	*d:
 [2AA	.	#	[2a	[2c#X
 =37	=37	=37	=37	=37
 2AA]	iv6	.	2a]	2c#]

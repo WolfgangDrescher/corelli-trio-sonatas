@@ -4,7 +4,7 @@
 !!!ONM: 10
 !!!OMV: 3
 !!!OMD: Adagio
-**kern	**harm	**fb	**kern	**kern
+**kern	**cdata-harm	**fb	**kern	**kern
 *part3	*above	*part3	*part2	*part1
 *staff3	*	*	*staff2	*staff1
 *I"Violone & Cembalo	*	*	*I"Violino II	*I"Violino I
@@ -15,7 +15,7 @@
 =1	=1	=1	=1	=1
 2r	.	.	2r	2r
 2r	.	.	2r	2r
-*G:	*	*	*G:	*G:
+*G:	*G:	*	*G:	*G:
 2BB	.	6	2d	2dd
 =2	=2	=2	=2	=2
 2C	vi	.	2e	1cc
