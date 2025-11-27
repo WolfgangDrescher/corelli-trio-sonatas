@@ -6,7 +6,7 @@ const FORCE_DOWNLOAD = process.argv.includes('--force-download');
 const CACHE_DIR = path.resolve('./dcml-annotations');
 const SCORES_DIR = path.resolve('./annotated-kern');
 
-const notesList = 'https://api.github.com/repos/DCMLab/corelli/contents/reviewed';
+const notesList = 'https://api.github.com/repos/DCMLab/corelli/contents/harmonies';
 
 if (FORCE_DOWNLOAD) {
 	if (fs.existsSync(CACHE_DIR)) {
@@ -46,7 +46,7 @@ try {
 	const notesListResponse = await fetch(notesList);
 	if (!notesListResponse.ok) throw new Error(`GitHub API error: ${notesListResponse.status}`);
 	const notesListJson = await notesListResponse.json();
-	const downloadUrlMap = Object.fromEntries(notesListJson.map(item => [item.name.replace('_reviewed.tsv', ''), item.download_url]));
+	const downloadUrlMap = Object.fromEntries(notesListJson.map(item => [item.name.replace('.harmonies.tsv', ''), item.download_url]));
 
 	const files = fs.readdirSync('./kern').filter(f => f.endsWith('.krn'));
 
@@ -54,16 +54,16 @@ try {
 		const id = filename.replace('.krn', '');
 
 		
-		const cacheFile = path.join(CACHE_DIR, `${id}_reviewed.tsv`);
+		const cacheFile = path.join(CACHE_DIR, `${id}.harmonies.tsv`);
 
 		let notesBody;
 
 		// If cached and not forcing: use the cached file
 		if (fs.existsSync(cacheFile) && !FORCE_DOWNLOAD) {
-			console.log(`Using cached ${id}_reviewed.tsv`);
+			console.log(`Using cached ${id}.harmonies.tsv`);
 			notesBody = fs.readFileSync(cacheFile, 'utf-8');
 		} else {
-			console.log(`Downloading ${id}_reviewed.tsv…`);
+			console.log(`Downloading ${id}.harmonies.tsv…`);
 			const notesResponse = await fetch(downloadUrlMap[id]);
 			if (!notesResponse.ok) {
 				throw new Error(`GitHub API error: ${notesResponse.status}`);
