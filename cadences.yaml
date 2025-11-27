@@ -1,3 +1,14 @@
+op03n01a:
+    - [3/3, 4/3, doppia]
+    - [6/1, 6/3, semplice]
+    - [8/1, 8/3, [doppia, fast]]
+    - [12/1, 12/3, [quasi-doppia, fast]]
+    - [13/3, 14/1, half]
+    - [16/1, 17/1, doppia]
+    - [18/1, 19/1, doppia]
+
+
+
 op04n01a:
     - [3/3, 4/3, doppia]
     - [6/1, 6/3, [phrygian, half]]

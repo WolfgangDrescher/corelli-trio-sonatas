@@ -1,3 +1,13 @@
+op03n01a:
+    -  [5/1, 6/4, [Synkopenkette]]
+    -  [5/1, 6/1, [Romanesca, Synkopenkette]]
+    -  [8/3, 10/2, [Synkopenkette aufwärts]]
+    -  [9/4, 11/4, [Synkopenkette]]
+    -  [10/1, 11/3, [Karussell]]
+    -  [14/2, 15/4, [Synkopen, Stimmtausch]]
+
+
+
 op04n01a:
     - [1/1, 3/4, [Synkopenkette]]
     # - [4/1, 4/3, [Quintfall]]
@@ -70,6 +80,8 @@ op04n03d:
     - [15/1, 20/2.5, Quintfall]
     - [23/1, 26/2, Monte]
 
+op04n04a:
+    - []
 
 op04n05b:
     - [5/3, 7/2.5, [Karussell, Synkopenkette]]
