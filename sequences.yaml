@@ -61,6 +61,8 @@ op04n03a:
 op04n03b:
     - [6/1, 8/3.5, Synkopenkette]
     - [16/1, 20/3, [Fauxbourdon, Quintfall, Synkopenkette]]
+    - [31/1, 38/1, [Quintfall]]
+    - [39/1, 45/1, [5-6-Konsekutive]]
 
 op04n03d:
     - [5/1.5, 6/1.5, Synkopenkette]
@@ -75,8 +77,6 @@ op04n05b:
     - [19/3, 21/1, [Fonte]]
     - [21/4, 22/4, [Synkopenkette]]
     - [23/1, 24/3, [Quintfall]]
-    - [31/1, 38/1, [Quintfall]]
-    - [39/1, 45/1, [5-6-Konsekutive]]
 
 op04n05d:
     - [1/1, 2/2, Parallelismus]
