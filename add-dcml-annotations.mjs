@@ -136,7 +136,7 @@ try {
 			let valueToInsert;
 
 			if (line.startsWith('**')) {
-				valueToInsert = '**harm';
+				valueToInsert = '**cdata-harm';
 			} else if (line.startsWith('*-')) {
 				valueToInsert = '*-';
 			} else if (line.startsWith('*')) {
