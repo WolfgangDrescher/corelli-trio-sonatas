@@ -56,16 +56,17 @@ op04n03a:
     - [3/1, 4/2.5, [Fauxbourdon, Synkopenkette, fast]]
     - [6/1, 7/2.5, [Fauxbourdon, Synkopenkette, fast]]
     - [9/1, 11/1, Romanesca]
-    - [12/1, 14/1, [Romanesca, unregelmässig]]
+    - [12/1, 14/1, [Romanesca, unregelmässig, Vorhalte]]
     - [15/2, 16/1, Monte]
 op04n03b:
     - [6/1, 8/3.5, Synkopenkette]
     - [16/1, 20/3, [Fauxbourdon, Quintfall, Synkopenkette]]
     - [31/1, 38/1, [Quintfall]]
-    - [39/1, 45/1, [5-6-Konsekutive]]
+    - [39/1, 45/3.5, [5-6-Konsekutive]]
 op04n03c:
 op04n03d:
     - [5/1.5, 6/1.5, Synkopenkette]
+    - [8/2.5, 9/2.5, Synkopenkette]
     - [15/1, 20/2.5, Quintfall]
     - [23/1, 26/2, Monte]
 
