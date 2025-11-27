@@ -7,6 +7,17 @@ op03n01a:
     - [16/1, 17/1, doppia]
     - [18/1, 19/1, doppia]
 
+op03n02a:
+    - [2/1, 2/3, composta]
+    - [3/3, 4/1, [cantizans, quasi-half]]
+    - [6/1, 6/3, composta]
+    - [7/3, 8/1, [cantizans, quasi-half]]
+    - [10/1, 10/3, half]
+    - [10/3, 11/3, [quasi-doppia, special]]
+    - [12/1, 12/3, [composta]]
+    - [13/1, 13/3, [composta]]
+    - [16/1, 17/1, [doppia]]
+    - [18/1, 19/1, [doppia]]
 
 
 op04n01a:
