@@ -141,7 +141,8 @@ try {
 				valueToInsert = '*-';
 			} else if (line.startsWith('*')) {
 				if (aboveAdded) {
-					valueToInsert = '*';
+					const keyMatch = line.match(/\*([A-Ha-h\#\-]+):/);
+					valueToInsert = keyMatch && keyMatch[0] ? keyMatch[0] : '*';
 				} else {
 					valueToInsert = '*above';
 					aboveAdded = true;
