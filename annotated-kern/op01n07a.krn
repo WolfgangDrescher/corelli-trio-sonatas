@@ -47,7 +47,7 @@
 .	.	.	.	.	16ggJJ
 =4	=4	=4	=4	=4	=4
 2C	I|IAC	.	1r	2r	8eeL
-.	.	.	.	.	8ccJ
+.	}	.	.	.	8ccJ
 .	.	.	.	.	16eeLL
 .	.	.	.	.	16dd
 .	.	.	.	.	16ee
@@ -87,7 +87,7 @@
 .	.	.	.	16cc	16a
 .	.	.	.	16ddJJ	16bJJ
 4GG	I}	.	.	8bL	8gL
-.	.	.	.	8gJ	8bJ
+.	|IAC	.	.	8gJ	8bJ
 4r	.	.	.	16aLL	16ccLL
 .	.	.	.	16g	16b
 .	.	.	.	16a	16cc
@@ -156,7 +156,7 @@
 .	V7(4)	5 #	.	.	8ccc
 .	V7	.	.	8ff#X	8aaJ
 4G	I}	.	4G	4gg	8bbL
-.	.	.	.	.	8ggJ
+.	|IAC	.	.	.	8ggJ
 4Fni	I.V2	4 2	4Fni	4r	16aaLL
 .	.	.	.	.	16gg
 .	.	.	.	.	16aa
@@ -174,7 +174,7 @@
 .	V7	.	.	8ddJ	8bb
 =14	=14	=14	=14	=14	=14
 4C	I}	.	4C	8eeL	4.ccc
-.	.	.	.	8ccJ	.
+.	|PAC	.	.	8ccJ	.
 4r	.	.	4r	16eeLL	.
 .	.	.	.	16dd	.
 .	.	.	.	16ee	8ccc
@@ -280,7 +280,7 @@
 .	V7	.	.	8b	8ddJ
 =21	=21	=21	=21	=21	=21
 4C	I}	.	4C	4cc	8eeL
-.	.	.	.	.	8cc
+.	|IAC	.	.	.	8cc
 4r	.	.	4r	4r	8ccc
 .	.	.	.	.	8cccJ
 4C	.	.	2r	2r	8cccL
@@ -299,7 +299,7 @@
 16AAJJ	.	.	.	.	16ccJJ)
 =23	=23	=23	=23	=23	=23
 4GG	V}	.	4r	8ggL	8bL
-.	.	.	.	8bJ	8gJ
+.	|HC	.	.	8bJ	8gJ
 4r	.	.	8cL	8r	8r
 .	.	.	8cJ	8cc	8ee
 4C	.	.	8cL	8eeL	8ggL
@@ -344,7 +344,7 @@
 .	V	.	.	8g#X	.
 .	.	.	.	.	16aJk
 2AA	i|PAC}	.	2AA	4a	16aLL
-.	.	.	.	.	16ee
+.	{	.	.	.	16ee
 .	.	.	.	.	16ff#X
 .	.	.	.	.	16ggJJ
 .	.	.	.	4r	16aaLL
@@ -395,7 +395,7 @@
 .	.	.	16F	.	.
 .	.	.	16GJJ	.	.
 4C	I}	.	8EL	2cc	4ee
-.	.	.	8CJ	.	.
+.	|IAC	.	8CJ	.	.
 4AA	IV.I6{	6	16AALL	.	[4ff
 .	.	.	16BB	.	.
 .	.	.	16C	.	.
@@ -420,7 +420,7 @@
 4C	V	.	8cL	4ee	.
 .	.	.	8CJ	.	.
 4F	I|PAC}	.	4F	8ffL	4ff
-.	.	.	.	8ccJ	.
+.	{	.	.	8ccJ	.
 4D	IV6	-r6	4D	[4ff	16r
 .	.	.	.	.	16ggLL
 .	.	.	.	.	16aa
@@ -431,7 +431,7 @@
 .	.	3	8r	.	8bb-X
 .	.	.	8r	8ee	8ggJ
 2F	I}	.	4F	4ff	8aaL
-.	.	.	.	.	8ffJ
+.	|IAC	.	.	.	8ffJ
 .	.	.	4r	4r	16aaLL
 .	.	.	.	.	16gg
 .	.	.	.	.	16aa
@@ -449,7 +449,7 @@
 .	V7	.	.	8ddJ	8bb
 =35	=35	=35	=35	=35	=35
 2C	I}	.	2C	8eeL	4ccc
-.	.	.	.	8ccJ	.
+.	|PAC	.	.	8ccJ	.
 .	.	.	.	16eeLL	4r
 .	.	.	.	16dd	.
 .	.	.	.	16ee	.
@@ -466,7 +466,7 @@
 .	V7(4)/V	.	.	.	8cc
 .	V7/V	#	.	8ff#X	8aJ
 4GG	I/V}	.	4GG	8ggL	8bL
-.	.	.	.	8bJ	8gJ
+.	|PAC	.	.	8bJ	8gJ
 4r	.	.	4r	16ccLL	16aLL
 .	.	.	.	16b	16g
 .	.	.	.	16cc	16a

@@ -94,7 +94,7 @@
 !!!OMD: Allegro
 *M3/4	*	*	*M3/4	*M3/4	*M3/4
 *MM176	*	*	*MM176	*MM176	*MM176
-2G	.	.	2.r	2.r	8gL
+2G	{	.	2.r	2.r	8gL
 .	.	.	.	.	8g
 .	.	.	.	.	8b
 .	.	.	.	.	8b
@@ -217,7 +217,7 @@
 !!!OMD: Adagio e piano
 *MM72	*	*	*MM72	*MM72	*MM72
 !	!	!	!	!	!LO:TX:a:B:t=Adagio e piano
-4G	.	.	4G	4dd	4b
+4G	{	.	4G	4dd	4b
 =29	=29	=29	=29	=29	=29
 4r	.	.	4r	4r	4r
 2E	viio6/V	#6\	2E	4.g	4.cc#X
@@ -229,7 +229,7 @@
 *M4/4	*	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)	*met(c)
 *MM104	*	*	*MM104	*MM104	*MM104
-[1D	.	#	4r	4r	1r
+[1D	{	#	4r	4r	1r
 .	.	.	8r	8r	.
 .	.	.	8D	8d	.
 .	.	.	2D	2d	.

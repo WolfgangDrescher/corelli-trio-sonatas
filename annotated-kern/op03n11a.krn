@@ -37,7 +37,7 @@
 =4	=4	=4	=4	=4
 4D	V|HC}	#	4f#X	4.dd
 8r	.	.	8r	.
-8D	.	.	8dd	8ff#X
+8D	{	.	8dd	8ff#X
 4Eni	IV6(2)	7	(8ddL	4gg
 .	IV6	6	8cc)	.
 4F#X	V65	5	8cc	4aa
@@ -68,7 +68,7 @@
 .	.	.	.	(16dddLL
 .	.	.	.	16aaJJ)
 4G	i|IAC}	.	8ggL	4.bb-
-.	.	.	8ddJ	.
+.	{	.	8ddJ	.
 8r	.	.	[4ee-X	.
 8G	.	-6	.	8bb-
 =8	=8	=8	=8	=8
@@ -87,7 +87,7 @@
 4FF	V	3	.	.
 .	.	.	.	8a
 4BB-	I|PAC}	.	4b-	4b-
-4B-	.	.	4r	8ddL
+4B-	{	.	4r	8ddL
 .	.	.	.	8eeJ
 =10	=10	=10	=10	=10
 4A	V6	6	4r	8ffL
@@ -120,7 +120,7 @@
 .	.	.	16ffJJ)	.
 4C	i|IAC}	-	8ee-XL	4cc
 .	.	.	8ccJ	.
-4c	.	.	4r	[4ee-X
+4c	{	.	4r	[4ee-X
 =13	=13	=13	=13	=13
 4.F#X	i.V6(2)	-7	4r	8ee-L]
 .	.	.	.	8a

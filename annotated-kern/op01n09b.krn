@@ -42,7 +42,7 @@
 *M4/4	*	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*	*met(c)	*met(c)	*met(c)
 *MM104	*	*	*MM104	*MM104	*MM104
-4GG	.	.	1r	1r	4g
+4GG	{	.	1r	1r	4g
 2G	.	5	.	.	16r
 .	.	.	.	.	16gLL
 .	.	.	.	.	16a

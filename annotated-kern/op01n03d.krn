@@ -42,7 +42,7 @@
 .	.	.	.	.	8ddd
 .	.	.	.	.	8ccc#
 .	.	.	.	.	8bbJ
-4A	.	.	.	.	4aa
+4A	}	.	.	.	4aa
 =8	=8	=8	=8	=8	=8
 4.G#X	V.I6{	6	2.r	2e	2eee
 8F#	.	.	.	.	.
@@ -100,7 +100,7 @@
 2BB	viio6	#6\	2BB	2dd	2gg#X
 4AA	I|PAC}	.	4AA	4cc#	4aa
 =19	=19	=19	=19	=19	=19
-2A	.	.	2A	8cc#L	8eeL
+2A	{	.	2A	8cc#L	8eeL
 .	.	.	.	8dd	8ff#
 .	.	.	.	8cc#	8ee
 .	.	.	.	8bJ	8ddJ
@@ -176,7 +176,7 @@
 2E	V	#	2E	2b	2g#X
 4AA	I|PAC}	.	4AA	4a	4a
 =33	=33	=33	=33	=33	=33
-[2.AA	.	5	2.r	2.cc#	2.ee
+[2.AA	{	5	2.r	2.cc#	2.ee
 =34	=34	=34	=34	=34	=34
 2.AA]	.	6 4	2.r	2.ddT	2.ff#t
 =35	=35	=35	=35	=35	=35
@@ -273,7 +273,7 @@
 2BB	viio6	#6\	2BB	2gg#Xt	2ddT
 4AA	I|PAC}	.	4AA	4aa	4cc#
 =54	=54	=54	=54	=54	=54
-2A	.	.	2A	8cc#L	2ee
+2A	{	.	2A	8cc#L	2ee
 .	.	.	.	8a	.
 .	.	.	.	8b	.
 .	.	.	.	8cc#	.
@@ -464,7 +464,7 @@
 2E	V	#	2E	2g#X	2b
 4AA	I|PAC}	.	4AA	4a	4a
 =89	=89	=89	=89	=89	=89
-2.A	.	.	2.A	2ee	8cc#L
+2.A	{	.	2.A	2ee	8cc#L
 .	.	.	.	.	8dd
 .	.	.	.	.	8cc#
 .	.	.	.	.	8bJ

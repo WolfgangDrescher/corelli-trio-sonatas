@@ -56,7 +56,7 @@
 4.C	V7	.	4E	4.cc	4.cc
 .	.	.	8C	.	.
 =7	=7	=7	=7	=7	=7
-4c	.	.	4c	4ee	4gg
+4c	{	.	4c	4ee	4gg
 8c	.	.	8c	8ee	8gg
 4c	.	.	4c	4ee	4gg
 8B	.	#6\	8B	8dd	8gg#X
@@ -373,7 +373,7 @@
 8GG	.	3	8GG	8b	8dd
 4.C	V	.	4.C	4.cc	4.cc
 =50	=50	=50	=50	=50	=50
-4C	.	.	4C	8eeL	8ggL
+4C	{	.	4C	8eeL	8ggL
 .	.	.	.	(16ffL	(16aaL
 .	.	.	.	16eeJ)	16ggJ)
 8D	.	.	8D	8ddJ	8ffJ
