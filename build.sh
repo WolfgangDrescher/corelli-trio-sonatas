@@ -194,12 +194,12 @@ done
 echo "Done! Humdrum files: $KERN_DIR/"
 
 npm i
-node fix-tempo.mjs
-node add-modulations.mjs
-node add-tempo.mjs
+node scripts/fix-tempo.mjs
+node scripts/add-modulations.mjs
+node scripts/add-tempo.mjs
 
 if [[ "$FORCE_DOWNLOAD" = true ]]; then
-    node add-dcml-annotations.mjs --force-download
+    node scripts/add-dcml-annotations.mjs --force-download
 else
-    node add-dcml-annotations.mjs
+    node scripts/add-dcml-annotations.mjs
 fi
