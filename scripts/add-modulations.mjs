@@ -1,13 +1,24 @@
 import yaml from 'js-yaml';
 import fs from 'node:fs';
 import { execSync } from 'node:child_process';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname  = path.dirname(__filename);
+
+const modulationYamlPath = path.resolve(__dirname, '..', 'modulations.yaml');
+const kernScoresPath = path.resolve(__dirname, '..', 'kern');
 
 try {
-	const files = yaml.load(fs.readFileSync('./modulations.yaml', 'utf8'));
+	const files = yaml.load(fs.readFileSync(modulationYamlPath, 'utf8'));
 	
 	Object.entries(files).forEach(([filename, modulations]) => {
 		// Run Humdrum "meter -f" to annotate beats in each line
-		const result = execSync(`cat ./kern/${filename}.krn | meter -f`).toString().trim();
+		const kernScore = fs.readFileSync(path.resolve(kernScoresPath, `${filename}.krn`));
+		const result = execSync('meter -f', {
+			input: kernScore,
+		}).toString().trim();
 		const lines = result.split('\n');
 		
 		// Find the exclusive interpretation line (column headers: **kern, **cdata-beat, etc.)
@@ -114,7 +125,7 @@ try {
 		}).trim();
 
 		// Write the cleaned result back to the file
-		fs.writeFileSync(`./kern/${filename}.krn`, finalResult, 'utf8');
+		fs.writeFileSync(path.resolve(kernScoresPath, `${filename}.krn`), finalResult, 'utf8');
 		console.log(`✔ Added modulations for ${filename}`);
 	});
 } catch (e) {

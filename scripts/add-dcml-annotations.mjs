@@ -1,10 +1,15 @@
 import fs from 'node:fs';
-import path from 'node:path';
 import { execSync } from 'node:child_process';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname  = path.dirname(__filename);
 
 const FORCE_DOWNLOAD = process.argv.includes('--force-download');
-const CACHE_DIR = path.resolve('./dcml-annotations');
-const SCORES_DIR = path.resolve('./annotated-kern');
+const CACHE_DIR = path.resolve(__dirname, '..', 'dcml-annotations');
+const SCORES_DIR = path.resolve(__dirname, '..','annotated-kern');
+const kernScoresPath = path.resolve(__dirname, '..', 'kern');
 
 const notesList = 'https://api.github.com/repos/DCMLab/corelli/contents/harmonies';
 
@@ -48,7 +53,7 @@ try {
 	const notesListJson = await notesListResponse.json();
 	const downloadUrlMap = Object.fromEntries(notesListJson.map(item => [item.name.replace('.harmonies.tsv', ''), item.download_url]));
 
-	const files = fs.readdirSync('./kern').filter(f => f.endsWith('.krn'));
+	const files = fs.readdirSync(kernScoresPath).filter(f => f.endsWith('.krn'));
 
 	for (const filename of files) {
 		const id = filename.replace('.krn', '');
@@ -85,7 +90,7 @@ try {
 		]
 		}));
 
-		const kernScore = fs.readFileSync(`./kern/${filename}`, 'utf-8');
+		const kernScore = fs.readFileSync(path.resolve(kernScoresPath, filename), 'utf-8');
 		
 		const meterKernScore = execSync(`meter -zfr`, {
 			input: kernScore,
@@ -172,7 +177,7 @@ try {
 			input: output.join('\n'),
 		}).toString().trim();
 
-		fs.writeFileSync(path.join(SCORES_DIR, filename), newScore);
+		fs.writeFileSync(path.resolve(SCORES_DIR, filename), newScore);
 
 		console.log(`✔ Added DCML annotation kern for ${id}`);
 	}

@@ -1,5 +1,12 @@
 import fs from 'node:fs';
 import { execSync } from 'node:child_process';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname  = path.dirname(__filename);
+
+const kernScoresPath = path.resolve(__dirname, '..', 'kern');
 
 const fixes = {
 	op01n05c: [
@@ -55,15 +62,15 @@ function parseTimepoint(tp) {
 }
 
 try {
-	const files = fs.readdirSync('./kern').filter(f => f.endsWith('.krn'));
+	const files = fs.readdirSync(kernScoresPath).filter(f => f.endsWith('.krn'));
 
 	for (const filename of files) {
 
 		const id = filename.replace('.krn', '');
 		const fileFixes = fixes[id] || [];
 		if(fileFixes.length) {
-			const path = `./kern/${filename}`;
-			const result = fs.readFileSync(path, 'utf8').trim();
+			const filePath = path.resolve(kernScoresPath, filename);;
+			const result = fs.readFileSync(filePath, 'utf8').trim();
 
 			const kernScore = execSync(`meter -f`, {
 				input: result,
@@ -150,7 +157,7 @@ try {
 			}).toString().trim();
 	
 			// Write back to the same file
-			fs.writeFileSync(path, fileContent, 'utf8');
+			fs.writeFileSync(filePath, fileContent, 'utf8');
 			console.log(`✔ Fixed movement designations (OMD) for ${filename}`);
 		}
 	}

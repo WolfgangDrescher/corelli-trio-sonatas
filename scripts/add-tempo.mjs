@@ -1,5 +1,12 @@
 import fs from 'node:fs';
 import { execSync } from 'node:child_process';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname  = path.dirname(__filename);
+
+const kernScoresPath = path.resolve(__dirname, '..', 'kern');
 
 // Tempo table: [OMD, meter, MM value]
 const tempi = [
@@ -40,11 +47,11 @@ function findTempo(omd, meter) {
 }
 
 try {
-	const files = fs.readdirSync('./kern').filter(f => f.endsWith('.krn'));
+	const files = fs.readdirSync(kernScoresPath).filter(f => f.endsWith('.krn'));
 
 	for (const filename of files) {
-		const path = `./kern/${filename}`;
-		const result = execSync(`cat ${path}`).toString().trim();
+		const filePath = path.resolve(kernScoresPath, filename);;
+		const result = fs.readFileSync(filePath, 'utf-8').trim();
 		const lines = result.split('\n');
 
 		// Find the exclusive interpretation line (**kern)
@@ -152,7 +159,7 @@ try {
 			encoding: 'utf8'
 		}).trim();
 
-		fs.writeFileSync(path, cleaned, 'utf8');
+		fs.writeFileSync(filePath, cleaned, 'utf8');
 		console.log(`✔ Inserted MM lines for ${filename} (${omd})`);
 	}
 } catch (err) {
