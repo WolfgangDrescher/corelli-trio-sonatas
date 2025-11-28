@@ -128,6 +128,6 @@ try {
 		fs.writeFileSync(path.resolve(kernScoresPath, `${filename}.krn`), finalResult, 'utf8');
 		console.log(`✔ Added modulations for ${filename}`);
 	});
-} catch (e) {
-	console.error(e);
+} catch (err) {
+	console.error(err);
 }
