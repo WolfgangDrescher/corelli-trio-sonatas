@@ -207,8 +207,8 @@ op04n05c:
     - [2/2, 3/1, [phrygian, half]]
     - [8/1, 10/1, [doppia]]
     - [15/3, 17/1, [doppia]]
-    - [18/1, 21/2, [doppia, slow, special]]
-    - [22/2, 23/1, [phrygian, half]]
+    - [18/1, 21/1, [doppia, slow, special]]
+    - [23/2, 24/1, [phrygian, half]]
     - [31/1, 33/1, [doppia]]
     - [37/1, 39/1, [doppia]]
 op04n05d:
