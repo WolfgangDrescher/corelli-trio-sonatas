@@ -203,7 +203,14 @@ op04n05b:
     - [20/3, 21/1, [composta, sfuggita]]
     - [25/3, 26/3, doppia]
     - [27/3, 28/3, doppia]
-
+op04n05c:
+    - [2/2, 3/1, [phrygian, half]]
+    - [8/1, 10/1, [doppia]]
+    - [15/3, 17/1, [doppia]]
+    - [18/1, 21/2, [doppia, slow, special]]
+    - [22/2, 23/1, [phrygian, half]]
+    - [31/1, 33/1, [doppia]]
+    - [37/1, 39/1, [doppia]]
 op04n05d:
     - [4/1, 4/2, [phrygian, half]]
     - [7/2, 8/2, quasi-doppia]

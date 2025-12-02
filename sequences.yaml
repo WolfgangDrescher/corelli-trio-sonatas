@@ -122,7 +122,12 @@ op04n05b:
     - [19/3, 21/1, [Fonte]]
     - [21/4, 22/4, [Synkopenkette]]
     - [23/1, 24/3, [Quintfall]]
-
+op04n05c:
+    - [1/1, 3/1, Lamento]
+    - [6/3, 8/3, Fauxbourdon]
+    - [22/1, 24/1, Lamento]
+    - [27/3, 31/3, [Fauxbourdon, 6-5-Konsekutive abwärts]]
+    - [35/1, 37/1, [Fauxbourdon, 6-5-Konsekutive abwärts]]
 op04n05d:
     - [1/1, 2/2, Parallelismus]
     - [5/1, 6/2, Fonte]
