@@ -1,0 +1,158 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { execSync } from 'node:child_process';
+import yaml from 'js-yaml';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const kernScoresPath = path.resolve(__dirname, '..', 'kern');
+
+const inputPath = process.argv[2];
+
+if (!inputPath) {
+    console.error('Please provide a file or directory path as argument.');
+    process.exit(1);
+}
+
+const resolvedPath = path.resolve(__dirname, inputPath);
+const stat = fs.statSync(resolvedPath);
+
+const cadences = {}
+const sequences = {}
+const modulations = {}
+
+function createMeasureMeterMap(kernPath) {
+	const result = {};
+	const raw = fs.readFileSync(kernPath, 'utf8');
+	const stdout = execSync(`lnnr -p | composite | meter -r | extractxx -s 2,3 | ridxx -LGTIglid`, {
+		input: raw,
+	}).toString().trim();
+	
+	const lines = stdout.split('\n');
+
+	let currentMeasure = 0;
+
+	for (let i = 0; i < lines.length; i++) {
+		const line = lines[i];
+
+		if (line.startsWith('=')) {
+			const measureMatch = line.match(/^=(\d+)/);
+			if (measureMatch) {
+				currentMeasure = parseInt(measureMatch[1], 10);
+			}
+		} else {
+			const [meter, lnnr] = line.split('\t');
+			result[lnnr] = `${currentMeasure}/${meter.replace('r', '')}`;
+		}
+
+	}
+	
+	return result;
+}
+
+function processFile(filePath) {
+    const raw = fs.readFileSync(filePath, 'utf8');
+	const importData = JSON.parse(raw);
+	const kernFilePath = path.resolve(kernScoresPath, `${importData.pieceId}.krn`);
+
+	if (!fs.existsSync(kernFilePath)) {
+		console.error(`${kernFilePath} not found: rename .json file with the piece id as filename`);
+		return;
+	}
+
+	const measureMeterMap = createMeasureMeterMap(kernFilePath);
+
+    try {
+		const pieceAnnotations = {
+			modulations: [],
+			cadences: [],
+			sequences: [],
+		};
+		importData.modulations.forEach(item => {
+			const start = measureMeterMap[item.startLine];
+			pieceAnnotations.modulations.push([
+				start,
+				item.key.trim(),
+			]);
+		});
+		importData.cadences.forEach(item => {
+			const start = measureMeterMap[item.startLine];
+			const end = measureMeterMap[item.endLine];
+			pieceAnnotations.cadences.push([
+				start,
+				end,
+				item.tags.map(v => v.trim()),
+			]);
+		});
+		importData.sequences.forEach(item => {
+			const start = measureMeterMap[item.startLine];
+			const end = measureMeterMap[item.endLine];
+			pieceAnnotations.sequences.push([
+				start,
+				end,
+				item.tags.map(v => v.trim()),
+			]);
+		});
+		modulations[importData.pieceId] = pieceAnnotations.modulations;
+		cadences[importData.pieceId] = pieceAnnotations.cadences;
+		sequences[importData.pieceId] = pieceAnnotations.sequences;
+    } catch (err) {
+        console.error(err.message);
+    }
+}
+
+if (stat.isFile()) {
+    processFile(resolvedPath);
+} else if (stat.isDirectory()) {
+    const files = fs.readdirSync(resolvedPath);
+    const dezFiles = files.filter((f) => f.endsWith('.json'));
+    if (dezFiles.length === 0) {
+        console.log('No .json files found in directory.');
+        process.exit(0);
+    }
+    for (const file of dezFiles) {
+        const fullPath = path.join(resolvedPath, file);
+        processFile(fullPath);
+    }
+} else {
+	console.error('Path is neither a file nor a directory.');
+}
+
+// process.exit(0)
+
+console.log('');
+console.log('Add to modulations.yaml:');
+console.log('========================');
+console.log('');
+console.log(yaml.dump(modulations, {
+	indent: 4,
+    lineWidth: -1,
+    sortKeys: true,
+    flowLevel: 2,
+}));
+console.log('');
+
+console.log('Add to cadences.yaml:');
+console.log('=====================');
+console.log('');
+console.log(yaml.dump(cadences, {
+	indent: 4,
+    lineWidth: -1,
+    sortKeys: true,
+    flowLevel: 2,
+}));
+console.log('');
+
+console.log('Add to sequences.yaml:');
+console.log('======================');
+console.log('');
+console.log(yaml.dump(sequences, {
+	indent: 4,
+    lineWidth: -1,
+    sortKeys: true,
+    flowLevel: 2,
+}));
+
+process.exit(1);
