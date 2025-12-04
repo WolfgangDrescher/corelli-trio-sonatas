@@ -1,3 +1,15 @@
+op01n01a:
+    - [2/1, 2/3, [doppia, fast]]
+    - [5/1, 6/1, [doppia]]
+    - [7/1, 8/1, [doppia, deceptive]]
+    - [8/1, 9/1, [composta, quasi-doppia]]
+    - [10/1, 10/3, [half]]
+    - [10/4+1/2, 11/3, [doppia, irregular]]
+    - [12/3, 13/1, [half]]
+    - [13/2+1/2, 14/1, [doppia, irregular]]
+
+
+
 op03n01a:
     - [3/3, 4/3, doppia]
     - [6/1, 6/3, semplice]
