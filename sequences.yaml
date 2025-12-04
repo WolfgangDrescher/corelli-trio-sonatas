@@ -5,6 +5,11 @@ op01n01a:
     - [9/1, 10/2, [Fauxbourdon, Synkopenkette]]
     - [11/4, 12/4, [Fauxbourdon, Synkopenkette]]
 
+op01n01c:
+    - [7/2, 11/2, [Synkopenkette, Karussell, special]]
+    - [15/2, 20/1, [Synkopenkette, Stimmtausch]]
+    - [22/2, 26/1, [Synkopenkette]]
+
 
 
 op03n01a:

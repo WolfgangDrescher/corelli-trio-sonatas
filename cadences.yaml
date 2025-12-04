@@ -8,6 +8,16 @@ op01n01a:
     - [12/3, 13/1, [half]]
     - [13/2+1/2, 14/1, [doppia, irregular]]
 
+op01n01c:
+    - [3/1, 4/1, [composta, deceptive]]
+    - [6/1, 7/1, [phrygian, half]]
+    - [12/1, 13/1, [composta]]
+    - [18/1, 20/1, [doppia]]
+    - [25/1, 26/1, [composta]]
+    - [28/1, 29/1, [half]]
+    - [31/1, 33/1, [doppia]]
+    - [35/1, 37/1, [doppia]]
+
 
 
 op03n01a:
