@@ -61,8 +61,8 @@ op04n01b:
     - [31/1, 35/1, [Fonte]]
 op04n01c:
     - [1/1, 2/4, [Lamento, Chromatik]]
-    - [3/1, 3/4.5, [Synkopenkette, Orgelpunkt]]
-    - [5/1, 5/4.5, [Synkopenkette, Orgelpunkt]]
+    - [2/4, 3/4+1/2, [Synkopenkette, Orgelpunkt]]
+    - [4/4, 5/4+1/2, [Synkopenkette, Orgelpunkt]]
     - [9/1, 10/1, [Monte, Chromatik, Bass schrittweise aufwärts]]
     - [11/3, 13/1, [Lamento]]
 op04n01d:
