@@ -40,6 +40,7 @@ const tempoNames = [...new Set(tempi.map(([name]) => name.toLowerCase()))];
 
 // Helper: find MM value for a given OMD + meter
 function findTempo(omd, meter) {
+	if (!omd || !meter) return undefined;
 	return tempi.find(([tOmd, tMeter]) =>
 		tOmd.trim().toLowerCase() === omd.trim().toLowerCase() &&
 		tMeter === meter
