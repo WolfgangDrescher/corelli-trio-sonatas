@@ -20,7 +20,6 @@ const fixes = {
 		[8, 'Adagio'],
 		[10, 'Allegro'],
 		[13, 'Adagio'],
-		[13, 'Adagio'],
 		[15, 'Adagio'],
 		[21, 'Allegro'],
 		[27, 'Adagio'],
