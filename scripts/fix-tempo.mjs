@@ -43,6 +43,7 @@ const fixes = {
 		[51, 'Adagio'],
 	],
 	op03n04d: [
+		[1, 'Presto'],
 		['48/2.5', 'Adagio'],
 	],
 };
