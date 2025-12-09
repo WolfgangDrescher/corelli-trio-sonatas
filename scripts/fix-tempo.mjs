@@ -98,6 +98,10 @@ try {
 			for (let i = 0; i < lines.length; i++) {
 				const line = lines[i];
 
+				if (line.startsWith('!!!OMD:')) {
+					continue;
+				}
+
 				// Track meter
 				const tokens = line.split('\t');
 				for (let j = 0; j < meterSpines.length; j++) {
@@ -138,11 +142,6 @@ try {
 						usedFixes.add(fixIndex);
 					}
 				});
-
-				// if (line.startsWith('!!!OMD:')) {
-				// 	const [, tempo] = fileFixes.find(([measure]) => measure === 0);
-				// 	newOmdRecord = `!!!OMD: ${tempo}`;
-				// }
 
 				if (newOmdRecord) {
 					output.push(newOmdRecord);
