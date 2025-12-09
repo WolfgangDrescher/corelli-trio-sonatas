@@ -9,6 +9,11 @@ const __dirname  = path.dirname(__filename);
 const kernScoresPath = path.resolve(__dirname, '..', 'kern');
 
 const fixes = {
+	op01n01d: [
+		[1, 'Allegro'],
+		[73, 'Adagio'],
+		[87, 'Allegro'],
+	],
 	op01n05c: [
 		[1, 'Adagio'],
 		[5, 'Allegro'],
@@ -20,11 +25,6 @@ const fixes = {
 		[21, 'Allegro'],
 		[27, 'Adagio'],
 		[28, 'Adagio e piano'],
-	],
-	op01n01d: [
-		[1, 'Allegro'],
-		[73, 'Adagio'],
-		[87, 'Allegro'],
 	],
 	op01n09a: [
 		[1, 'Allegro'],
