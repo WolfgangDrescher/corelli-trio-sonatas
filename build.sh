@@ -184,6 +184,12 @@ function join(a, sep,   s,i){
 		| ridxx -gild \
 		| tee "$KERN_DIR/$kern_file" > /dev/null
 
+	# Check if file is empty and exit if true
+	if [[ ! -s "$KERN_DIR/$kern_file" ]]; then
+		echo "❌ ERROR: $kern_file is empty. Aborting." >&2
+		exit 1
+	fi
+
 	# remove if last byte is a newline
 	last_byte=$(tail -c1 "$KERN_DIR/$kern_file" 2>/dev/null | od -An -t u1 | tr -d ' ')
 	if [ "$last_byte" = "10" ]; then
