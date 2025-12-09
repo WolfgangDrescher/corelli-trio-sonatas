@@ -3,7 +3,6 @@
 !!!OPS: 1
 !!!ONM: 1
 !!!OMV: 4
-!!!OMD: Allegro
 **kern	**fb	**kern	**kern	**kern
 *part4	*part4	*part3	*part2	*part1
 *staff4	*	*staff3	*staff2	*staff1
@@ -11,7 +10,6 @@
 *clefF4	*	*clefF4	*clefG2	*clefG2
 *k[b-]	*	*k[b-]	*k[b-]	*k[b-]
 *M3/4	*	*M3/4	*M3/4	*M3/4
-*MM176	*	*MM176	*MM176	*MM176
 =1	=1	=1	=1	=1
 !!!OMD: Allegro
 *MM176	*	*MM176	*MM176	*MM176

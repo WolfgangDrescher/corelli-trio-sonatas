@@ -3,7 +3,6 @@
 !!!OPS: 3
 !!!ONM: 4
 !!!OMV: 4
-!!!OMD: Presto
 **kern	**fb	**kern	**kern	**dynam
 *part3	*part3	*part2	*part1	*part1
 *staff3	*	*staff2	*staff1	*
@@ -13,8 +12,9 @@
 *b:	*	*b:	*b:	*
 *M2/2	*	*M2/2	*M2/2	*
 *met(c|)	*	*met(c|)	*met(c|)	*
-*MM168	*	*MM168	*MM168	*
 =1	=1	=1	=1	=1
+!!!OMD: Presto
+*MM168	*	*MM168	*MM168	*
 4B	.	1r	8r	.
 .	.	.	8ff#L	.
 4A#X	6	.	8cc#	.
