@@ -25,12 +25,12 @@ op01n07b:
 
 
 op03n01a:
-    -  [5/1, 6/4, [Synkopenkette]]
-    -  [5/1, 6/1, [Romanesca, Synkopenkette]]
-    -  [8/3, 10/2, [Synkopenkette aufwärts]]
-    -  [9/4, 11/4, [Synkopenkette]]
-    -  [10/1, 11/3, [Karussell]]
-    -  [14/2, 15/4, [Synkopen, Stimmtausch]]
+    - [5/1, 6/4, [Synkopenkette]]
+    - [5/1, 6/1, [Romanesca, Synkopenkette]]
+    - [8/3, 10/2, [Synkopenkette aufwärts]]
+    - [9/4, 11/4, [Synkopenkette]]
+    - [10/1, 11/3, [Karussell]]
+    - [14/2, 15/4, [Synkopen, Stimmtausch]]
 
 op03n02a:
     - [8/3, 10/2.5, Quintfall]
@@ -295,7 +295,7 @@ op04n11b:
 op04n11c:
     - [1/1, 3/4, [Terzstieg, quasi Synkopenkette aufwärts]] # nicht konstant mit Synkopen
     - [6/1, 7/3, [Ansteigende Sequenz, Synkopenkette aufwärts, Stimmtausch]]
-    - [7/4, 10/1, [Synkopenkette]] 
+    - [7/4, 10/1, [Synkopenkette]]
     - [7/3, 8/1, [Romanesca]]
     - [10/2, 11/1, [Synkopenkette aufwärts]]
     - [14/1, 16/2.5, [Quintfall, unregelmässig]]
