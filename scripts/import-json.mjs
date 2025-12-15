@@ -3,6 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
 import yaml from 'js-yaml';
+import { mergePieceData } from './utils.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -10,6 +11,7 @@ const __dirname = path.dirname(__filename);
 const kernScoresPath = path.resolve(__dirname, '..', 'kern');
 
 const inputPath = process.argv[2];
+const overwriteFlag = process.argv.includes('--overwrite') || process.argv.includes('-o');
 
 if (!inputPath) {
     console.error('Please provide a file or directory path as argument.');
@@ -29,7 +31,7 @@ function createMeasureMeterMap(kernPath) {
 	const stdout = execSync(`lnnr -p | composite | meter -r | extractxx -s 2,3 | ridxx -LGTIglid`, {
 		input: raw,
 	}).toString().trim();
-	
+
 	const lines = stdout.split('\n');
 
 	let currentMeasure = 0;
@@ -126,6 +128,15 @@ if (stat.isFile()) {
     }
 } else {
 	console.error('Path is neither a file nor a directory.');
+}
+
+if (overwriteFlag) {
+	console.log('Overwriting existing YAML files...');
+	mergePieceData('modulations.yaml', modulations);
+	mergePieceData('cadences.yaml', cadences);
+	mergePieceData('sequences.yaml', sequences);
+} else {
+	console.log('Data not saved into YAML files (use --overwrite or -o to apply changes to YAML files).');
 }
 
 // process.exit(0)
