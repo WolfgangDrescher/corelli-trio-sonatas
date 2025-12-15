@@ -339,7 +339,18 @@ op04n07b:
     - [28/1, 29/1, semplice]
     - [37/1, 38/1, composta]
     - [44/1, 46/1, doppia]
-op04n07e: []
+op04n07e:
+    - [2/1, 2/3, cantizans]
+    - [3/3, 4/1, composta]
+    - [4/3, 5/1, cantizans]
+    - [5/3, 6/1, cantizans]
+    - [6/3, 7/3, doppia]
+    - [10/3, 11/3, doppia]
+    - [18/3, 19/3, doppia]
+    - [21/1, 21/3, cantizans]
+    - [22/3, 23/1, composta]
+    - [24/4, 25/3, composta]
+    - [26/4, 27/3, composta]
 
 op04n08a:
     # - [3/3, 4/1, semplice]
