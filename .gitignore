@@ -3,3 +3,5 @@ musicxml
 node_modules
 dcml-annotations
 input.json
+.DS_Store
+.mscbackup
