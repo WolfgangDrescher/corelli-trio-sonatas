@@ -75,7 +75,7 @@ try {
 			}
 
 			// Detect measure changes (=N)
-			const measureMatch = line.match(/^=(\d+)/);
+			const measureMatch = line.match(/^=+(\d+)/);
 			if (measureMatch) {
 				currentMeasure = parseInt(measureMatch[1], 10);
 			}
