@@ -190,7 +190,13 @@ op04n06f:
     - [10/3, 12/3, [Monte, Chromatik, Bass schrittweise aufwärts]]
     - [16/1, 18/4, [Monte, Chromatik, Bass schrittweise aufwärts]]
     - [21/1, 23/4, [Monte, Chromatik, Bass schrittweise aufwärts]]
-
+op04n06g:
+    - [8/3, 9/3, Quintfall]
+    - [10/3, 11/3, Quintfall]
+    - [15/1, 19/1, Fonte]
+    - [23/1, 24/4+2/3, Fonte]
+    - [26/2, 27/1, Quintfall]
+    - [28/4, 29/3, Quintfall]
 
 op04n7a:
     - [7/1, 7/3.5, 7-6 consecutive]
