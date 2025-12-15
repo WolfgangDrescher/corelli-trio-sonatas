@@ -38,7 +38,7 @@ function createMeasureMeterMap(kernPath) {
 		const line = lines[i];
 
 		if (line.startsWith('=')) {
-			const measureMatch = line.match(/^=(\d+)/);
+			const measureMatch = line.match(/^=+(\d+)/);
 			if (measureMatch) {
 				currentMeasure = parseInt(measureMatch[1], 10);
 			}
