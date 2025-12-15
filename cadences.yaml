@@ -315,14 +315,15 @@ op04n06f:
     # - [24/1, 24/4, light]
     - [24/3, 25/3, composta]
 op04n06g:
-    - [5/2, 6/1, composta]
-    - [9/3, 10/1, semplice]
-    - [12/1, 13/1, doppia]
-    - [13/3, 14/3, doppia]
-    - [19/3, 20/3, doppia]
-    - [21/3, 22/3, doppia]
-    - [27/1, 28/1, doppia]
-    - [29/3, 30/3, doppia]
+    - [3/3, 4/1, [half]]
+    - [5/2, 6/1, [composta]]
+    - [9/3, 10/1, [semplice]]
+    - [12/1, 13/1, [doppia]]
+    - [13/3, 14/3, [doppia]]
+    - [19/3, 20/3, [doppia]]
+    - [21/3, 22/3, [doppia]]
+    - [27/1, 28/1, [doppia]]
+    - [29/3, 30/3, [doppia]]
 
 op04n07a:
     - [2/1, 2/3, semplice]
