@@ -185,10 +185,11 @@ op04n06b:
 op04n06c:
     - [3/3, 6/1, [Quintfall, cantizans]] #?
 op04n06d:
-    - [7/2, 9/3, Synkopenkette]
-    - [13/1, 16/1, Quintfall]
-    - [16/2, 21/3, 5-6-Konsekutive]
-    - [22/1, 24/1, Quintfall]
+    - [7/2, 10/1, [Synkopenkette, Lamento]]
+    - [13/1, 16/1, [Quintfall]]
+    - [16/2, 21/3, [5-6-Konsekutive]]
+    - [22/1, 24/1, [Quintfall, Fauxbourdon, Synkopenkette]]
+    - [26/1, 28/1, [Lamento in Dur (Oktavregel)]]
 op04n06e:
     - [3/3, 5/1, [Quintfall, Sopranklausel]] #?
     - [8/1, 10/1, Lamento]
