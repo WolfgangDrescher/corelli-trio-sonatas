@@ -273,10 +273,8 @@ op04n06b:
     - [21/1, 22/2, [cantizans]]
     - [22/2, 23/1, [half]]
 op04n06c:
-    - [3/1, 5/2, special]
-    - [5/3, 6/1, null]
-    - [6/1, 6/3, sfuggita]
-    - [7/1, 7/1, TODO] # TODO Kadenzen endet im neuen Stück
+    - [3/1, 5/2, [special, slow, cantizans]]
+    - [6/2, 7/3+1/2, [doppia, missing-ultima]] # Kadenz endet im neuen Stück
 op04n06d:
     - [1/1, 1/1, [composta, TODO]] # TODO Kadenzen fängt im alten Stück an
     - [3/1, 4/1, light]
