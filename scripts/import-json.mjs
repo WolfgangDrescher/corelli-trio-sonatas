@@ -57,6 +57,14 @@ function processFile(filePath) {
 	const importData = JSON.parse(raw);
 	const kernFilePath = path.resolve(kernScoresPath, `${importData.pieceId}.krn`);
 
+	const currentFileCommitSha = execSync(`cd ${kernScoresPath} && git log -1 --format="%H" -- ${importData.pieceId}.krn`).toString().trim();
+	const baseFileCommitSha = execSync(`cd ${kernScoresPath} && git log -1 --format="%H" ${importData.commitSha} -- ${importData.pieceId}.krn`).toString().trim();
+
+	if (currentFileCommitSha !== baseFileCommitSha) {
+		console.error(`❌ Import failed for ${importData.pieceId}: Score mismatch. Annotations reference outdated file commit ${baseFileCommitSha.slice(0, 7)} (Repo Ref: ${importData.commitSha.slice(0, 7)}). Current score is at ${currentFileCommitSha.slice(0, 7)}.`);
+		return;
+	}
+
 	if (!fs.existsSync(kernFilePath)) {
 		console.error(`${kernFilePath} not found: rename .json file with the piece id as filename`);
 		return;
