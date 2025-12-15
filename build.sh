@@ -10,6 +10,7 @@ MSCORE="/Applications/MuseScore 4.app/Contents/MacOS/mscore"
 MSCX_DIR="mscx"
 MUSICXML_DIR="musicxml"
 KERN_DIR="kern"
+FIXED_DIR="fixed-scores"
 
 FORCE_DOWNLOAD=false
 if [[ "${1-}" == "--force-download" ]]; then
@@ -38,6 +39,8 @@ for url in $FILE_URLS; do
 	filename=$(basename "$url")
 	xml_file="${filename%.mscx}.musicxml"
 	kern_file="${filename%.mscx}.krn"
+	fixed_file="${filename%.mscx}.mscz"
+
 
 	# Download MSCX if it doesn't exist or force-download is set
 	if [ ! -f "$MSCX_DIR/$filename" ] || [ "$FORCE_DOWNLOAD" = true ]; then
@@ -53,6 +56,12 @@ for url in $FILE_URLS; do
 		"$MSCORE" -o "$MUSICXML_DIR/$xml_file" "$MSCX_DIR/$filename"
 	else
 		echo "Using cached $xml_file"
+	fi
+
+	# Use fixed scores
+	if [ -f "$FIXED_DIR/$fixed_file" ]; then
+		echo "Using FIXED version: $fixed_file"
+		"$MSCORE" -o "$MUSICXML_DIR/$xml_file" "$FIXED_DIR/$fixed_file"
 	fi
 
 	# Convert to Humdrum/Kern if it doesn't exist or force-download is set
