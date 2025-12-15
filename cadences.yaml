@@ -263,8 +263,8 @@ op04n05d:
     - [11/2, 12/2, [quasi-doppia]]
 
 op04n06a:
-    - [3/3, 4/3, null]
-    - [5/3, 6/1, null]
+    - [3/3, 4/3, [doppia]]
+    - [5/3, 6/1, [composta]]
 op04n06b:
     - [4/2, 5/1, light]
     - [5/2, 6/1, null]
