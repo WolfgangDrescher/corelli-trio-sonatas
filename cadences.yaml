@@ -259,8 +259,8 @@ op04n05c:
     - [37/1, 39/1, [doppia]]
 op04n05d:
     - [4/1, 4/2, [phrygian, half]]
-    - [7/2, 8/2, quasi-doppia]
-    - [11/2, 12/2, quasi-doppia]
+    - [7/2, 8/2, [quasi-doppia]]
+    - [11/2, 12/2, [quasi-doppia]]
 
 op04n06a:
     - [3/3, 4/3, null]
