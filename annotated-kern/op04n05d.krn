@@ -21,14 +21,14 @@
 4A	V6	.	4a	4cc
 4E	.	#	4r	4r
 =2	=2	=2	=2	=2
-2AA	i	.	4a	4cc
 *C:	*C:	*	*C:	*C:
+2AA	i	.	4a	4cc
 .	.	.	4b	4dd
 4c	.	.	4cc	4ee
 4G	.	.	4r	4r
 =3	=3	=3	=3	=3
-2C	III	5	4gg	4ee
 *a:	*a:	*	*a:	*a:
+2C	III	5	4gg	4ee
 .	.	6	4ee	4aa
 4D	i6	.	4aa	4ff
 4E	.	#	4r	4r
@@ -45,8 +45,8 @@
 *G:	*G:	*	*G:	*G:
 2F#X	III.V6/V	6	4f#X	4a
 .	.	.	4a	4dd
-4G	.	.	4d	4b
 *C:	*C:	*	*C:	*C:
+4G	.	.	4d	4b
 4Fn	.	4 2	4r	4r
 =7	=7	=7	=7	=7
 2E	I6	6	4cc	4gg
@@ -71,8 +71,8 @@
 *E:	*E:	*	*E:	*E:
 2BB	V/V	#	2dd#X	4ff#X
 .	.	.	.	4bb
-4E	.	#	2ee	2gg#X
 *a:	*a:	*	*a:	*a:
+4E	.	#	2ee	2gg#X
 4D	.	#4| 2	.	.
 =11	=11	=11	=11	=11
 2C	i6	6	4ee	4aa

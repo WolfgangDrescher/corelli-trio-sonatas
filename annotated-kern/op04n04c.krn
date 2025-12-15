@@ -39,8 +39,8 @@
 =3	=3	=3	=3	=3
 8dL	I/III	.	8ff#L	8r
 8DJ	.	.	8ddJ	8ff#L
+*b:	*b:	*	*b:	*b:
 8r	.	.	8r	8bb
-*B:	*B:	*	*B:	*B:
 8D#X	#viio/iv	5	8ff#	8aaJ
 8EL	iv	.	8bL	8gg
 8F#J	V	#	8a#XJ	4ff#
@@ -52,9 +52,9 @@
 8A#X	V6	6	8cc#	.
 8F#J	.	.	8f#J	(16ff#LL
 .	.	.	.	16cc#JJ)
-*D:	*D:	*	*D:	*D:
 8BBL	i	.	8r	8ddL
 8B	.	.	8ff#L	8bJ
+*D:	*D:	*	*D:	*D:
 8c#	III.V6	6	8ee	8r
 8AnJ	.	.	8anJ	(16aaLL
 .	.	.	.	16eeJJ)
@@ -71,7 +71,6 @@
 8BL	vi	.	8r	4dd
 8F#	I6	6	4aa	.
 8G	IV	9	.	8r
-*b:	*b:	*	*b:	*b:
 8GGJ	.	6	4gg	8b
 8AAL	V7	7	.	8cc#
 8D	I	.	8ff#	4dd
@@ -80,8 +79,10 @@
 =7	=7	=7	=7	=7
 8DL	I|PAC}	.	4.dd	8ddL
 8d	{	.	.	8ff#J
+*b:	*b:	*	*b:	*b:
 8B	v.iv	5	.	4.ff#
 8A#XJ	V6/iv	6	8ff#	.
+*f#:	*f#:	*	*f#:	*f#:
 8BL	iv	.	4.ff#	.
 8G#X	ii%7	.	.	8gg#XL
 8c#	V(4)	#	.	8gg#J
@@ -91,7 +92,6 @@
 8Bni	.	.	.	8cc#J
 8Ani	i6	6	8r	4.ff#
 8F#J	.	.	8cc#	.
-*f#:	*f#:	*	*f#:	*f#:
 4BB	IV	5 #	4dd#X	.
 .	ii6	#6\	.	4gg#
 4C#	V	5	4ee#X	.
@@ -121,9 +121,10 @@
 8F#	.	.	.	.
 8Gni	.	6	.	.
 8EJ	{	.	8ee	[8gg
-*b:	*b:	*	*b:	*b:
+*D:	*D:	*	*D:	*D:
 8AL	V7/III	7	8cc#	8ggL]
 8D	III	.	4ddni	8ff#J
+*b:	*b:	*	*b:	*b:
 8GG#X	IV65	6 5	.	4ee
 8AA#XJ	#viio	5	[8cc#	.
 =12	=12	=12	=12	=12
@@ -150,7 +151,6 @@
 8BB	i	.	4b	8ddJ
 8F#	V(4)	4	.	4cc#
 8FF#J	V	#	8a#	.
-*B:	*B:	*	*B:	*B:
 4BB	I|PAC}	#	8bL	8bL
 .	{	.	8dd#X	8ff#
 8r	.	.	(8ee	(8gg
