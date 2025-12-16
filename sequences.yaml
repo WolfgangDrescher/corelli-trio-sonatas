@@ -10,6 +10,20 @@ op01n01c:
     - [15/2, 20/1, [Synkopenkette, Stimmtausch]]
     - [22/2, 26/1, [Synkopenkette]]
 
+op01n02a:
+    - [9/3, 11/3, [Quintfall]]
+op01n02b:
+    - [2/3, 4/3, [Quintfall]]
+    - [12/3, 14/2, [7 6 Sequenz]]
+    - [18/1, 18/4+1/2, [Romanesca]]
+    - [20/1, 21/2, [7 6 Sequenz]]
+    - [22/1, 24/3, [lamento bass]]
+    - [26/1, 28/3, [lamento bass]]
+op01n02c:
+    - [12/3, 16/1, [Karussell]]
+    - [18/3, 22/1, [Karussell]]
+    - [24/1, 27/1, [7 6 Sequenz]]
+
 op01n06a:
     - [2/3, 4/2, [Fauxbourdon, Synkopenkette]]
     - [8/4, 10/4, [Karussell, Synkopenkette]]
