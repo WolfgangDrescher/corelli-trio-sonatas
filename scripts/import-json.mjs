@@ -19,6 +19,12 @@ if (!inputPath) {
 }
 
 const resolvedPath = path.resolve(__dirname, inputPath);
+
+if (!fs.existsSync(resolvedPath)) {
+	console.error(`${resolvedPath} not found`);
+	process.exit(1);
+}
+
 const stat = fs.statSync(resolvedPath);
 
 const cadences = {}
