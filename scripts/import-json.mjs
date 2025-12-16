@@ -31,11 +31,10 @@ const cadences = {}
 const sequences = {}
 const modulations = {}
 
-function createMeasureMeterMap(kernPath) {
+function createMeasureMeterMap(kern) {
 	const result = {};
-	const raw = fs.readFileSync(kernPath, 'utf8');
 	const stdout = execSync(`lnnr -p | composite | meter -r | extractxx -s 2,3 | ridxx -LGTIglid`, {
-		input: raw,
+		input: kern,
 	}).toString().trim();
 
 	const lines = stdout.split('\n');
@@ -63,24 +62,11 @@ function createMeasureMeterMap(kernPath) {
 function processFile(filePath) {
     const raw = fs.readFileSync(filePath, 'utf8');
 	const importData = JSON.parse(raw);
-	const kernFilePath = path.resolve(kernScoresPath, `${importData.pieceId}.krn`);
-
-	const currentFileCommitSha = execSync(`cd ${kernScoresPath} && git log -1 --format="%H" -- ${importData.pieceId}.krn`).toString().trim();
-	const baseFileCommitSha = execSync(`cd ${kernScoresPath} && git log -1 --format="%H" ${importData.commitSha} -- ${importData.pieceId}.krn`).toString().trim();
-
-	if (currentFileCommitSha !== baseFileCommitSha) {
-		console.error(`❌ Import failed for ${importData.pieceId}: Score mismatch. Annotations reference outdated file commit ${baseFileCommitSha.slice(0, 7)} (Repo Ref: ${importData.commitSha.slice(0, 7)}). Current score is at ${currentFileCommitSha.slice(0, 7)}.`);
-		return;
-	}
-
-	if (!fs.existsSync(kernFilePath)) {
-		console.error(`${kernFilePath} not found: rename .json file with the piece id as filename`);
-		return;
-	}
-
-	const measureMeterMap = createMeasureMeterMap(kernFilePath);
-
+	
     try {
+		const kern = execSync(`git show ${importData.commitSha}:kern/${importData.pieceId}.krn`).toString().trim();
+		const measureMeterMap = createMeasureMeterMap(kern);
+
 		const pieceAnnotations = {
 			modulations: [],
 			cadences: [],
