@@ -10,6 +10,7 @@
 *I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
 *clefG2	*	*clefF4	*clefG2	*clefG2
 *k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*e:	*	*e:	*e:	*e:
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *MM152	*	*MM152	*MM152	*MM152
 =1	=1	=1	=1	=1
@@ -57,6 +58,7 @@
 .	.	.	8eeJ	.
 =7	=7	=7	=7	=7
 4C	6	1r	4aa	2r
+*b:	*	*b:	*b:	*b:
 4AA	6	.	4ccc	.
 2GG	.	.	2bb	8bL
 .	.	.	.	8dd
@@ -83,6 +85,7 @@
 .	.	.	8aa)	8ff#)
 .	.	.	(8gg	(8ee
 .	.	.	8ff#J)	8dd#XJ)
+*e:	*	*e:	*e:	*e:
 8EL	.	8EL	4.gg	4ee
 8G	.	8G	.	.
 8F#	.	8F#	.	4b
@@ -111,6 +114,7 @@
 .	6	8C	.	[4aa
 .	.	8AAJ	.	.
 =14	=14	=14	=14	=14
+*G:	*	*G:	*G:	*G:
 2BB	7	8BBL	2dd	4aa]
 .	.	8AA	.	.
 .	6	8BB	.	8.ggL
@@ -143,6 +147,7 @@
 .	.	8BB	.	[4gg
 .	.	8GGJ	8bb	.
 =18	=18	=18	=18	=18
+*b:	*	*b:	*b:	*b:
 4D	4	8DL	2aa	4gg]
 .	.	8E	.	.
 4D#X	3	8F#	.	2ff#
@@ -204,6 +209,7 @@
 4.f#	5 4	4.f#	2cc#X	4b
 .	#	.	.	4a#X
 8e	.	8e	.	.
+*e:	*	*e:	*e:	*e:
 4d	6	4d	4b	(8bbL
 .	.	.	.	8aani)
 4d#X	6	4d#X	4r	(8gg
