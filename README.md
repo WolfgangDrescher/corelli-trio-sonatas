@@ -32,6 +32,6 @@ corpus, too:
   (`*key:`) indicating the current key designation.
 * Measure numbers were added to all Humdrum files to support navigation and
   analysis.
-* Re-encordings of `op04n06g`, `op04n07e` and `op04n12c` in full `12/8` meter to
-  avoid polymeter and rendering issues in Verovio. See
+* Re-encordings of `op03n10d`, `op04n06g`, `op04n07e` and `op04n12c` in full
+  `12/8` meter to avoid polymeter and rendering issues in Verovio. See
   https://github.com/music-encoding/music-encoding/issues/1561
