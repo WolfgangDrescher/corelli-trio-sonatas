@@ -1,14 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
 import yaml from 'js-yaml';
 import { mergePieceData } from './utils.mjs';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const kernScoresPath = path.resolve(__dirname, '..', 'kern');
 
 const inputPath = process.argv[2];
 const overwriteFlag = process.argv.includes('--overwrite') || process.argv.includes('-o');
@@ -18,7 +12,7 @@ if (!inputPath) {
     process.exit(1);
 }
 
-const resolvedPath = path.resolve(__dirname, inputPath);
+const resolvedPath = path.resolve(inputPath);
 
 if (!fs.existsSync(resolvedPath)) {
 	console.error(`${resolvedPath} not found`);
