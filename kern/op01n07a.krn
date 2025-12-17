@@ -10,6 +10,7 @@
 *I"Organo	*	*I"Violone	*I"Violino II	*I"Violino I
 *clefF4	*	*clefF4	*clefG2	*clefG2
 *k[]	*	*k[]	*k[]	*k[]
+*C:	*	*C:	*C:	*C:
 *M4/4	*	*M4/4	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)	*met(c)
 *MM104	*	*MM104	*MM104	*MM104
@@ -52,6 +53,7 @@
 .	.	.	.	16dd
 .	.	.	.	16ee
 .	.	.	.	16ff#XJJ
+*G:	*	*G:	*G:	*G:
 2GG	.	.	4g	8ggL
 .	.	.	.	8ddJ
 .	.	.	16r	[4gg
@@ -93,6 +95,7 @@
 .	.	.	16a	16cc
 .	.	.	16bJJ	16ddJJ
 =8	=8	=8	=8	=8
+*C:	*	*C:	*C:	*C:
 4C	.	4C	8ccL	4.ee
 .	.	.	8gJ	.
 16r	.	16r	[4cc	.
@@ -140,6 +143,7 @@
 8EL	6	8EL	8ccL	4cc
 8C	.	8CJ	(16eeL	.
 .	.	.	16ddJJ)	.
+*G:	*	*G:	*G:	*G:
 8E	6	16ELL	8ccL	4r
 .	.	16D	.	.
 8F#XJ	.	16E	(16bL	.
@@ -157,6 +161,7 @@
 .	.	.	8ff#X	8aaJ
 4G	.	4G	4gg	8bbL
 .	.	.	.	8ggJ
+*C:	*	*C:	*C:	*C:
 4Fni	4 2	4Fni	4r	16aaLL
 .	.	.	.	16gg
 .	.	.	.	16aa
@@ -179,6 +184,7 @@
 .	.	.	16dd	.
 .	.	.	16ee	8ccc
 .	.	.	16ff#XJJ	.
+*G:	*	*G:	*G:	*G:
 4G	.	4G	8ggL	4.bb
 .	.	.	8ddJ	.
 16r	.	16r	[4gg	.
@@ -191,6 +197,7 @@
 8c	6 5	8c	.	8.aaL
 8AJ	#6\	8AJ	8ff#X	.
 .	.	.	.	16aaJk
+*C:	*	*C:	*C:	*C:
 4B	6	4B	4gg	16ggLL
 .	.	.	.	16dd
 .	.	.	.	16ee
@@ -217,6 +224,7 @@
 .	.	.	16cc	.
 .	.	.	16ddJJ	.
 =17	=17	=17	=17	=17
+*F:	*	*F:	*F:	*F:
 4D	-r6	4D	16b-XLL	4ff
 .	.	.	16a	.
 .	.	.	16b-	.
@@ -225,6 +233,7 @@
 .	.	.	16dd	.
 .	.	.	16cc	.
 .	.	.	16b-JJ	.
+*C:	*	*C:	*C:	*C:
 2F	5	2F	16aLL	16ccLL
 .	.	.	16a	16cc
 .	.	.	16bn	16dd
@@ -322,6 +331,7 @@
 .	6	8r	8cc	8ee
 4C	.	4C	8cc	8ee
 .	.	.	8ccJ	8eeJ
+*a:	*	*a:	*a:	*a:
 2F	7	2F	8ccL	8eeL
 .	.	.	(16bL	(16ddL
 .	.	.	16aJJ)	16ccJJ)
@@ -352,6 +362,7 @@
 .	.	.	.	16gg
 .	.	.	.	16aaJJ
 =28	=28	=28	=28	=28
+*G:	*	*G:	*G:	*G:
 2D	#	2D	16r	4ff#X
 .	.	.	16aLL	.
 .	.	.	16b	.
@@ -369,6 +380,7 @@
 .	.	.	.	16ffn
 .	.	.	.	16ggJJ
 =29	=29	=29	=29	=29
+*C:	*	*C:	*C:	*C:
 2C	.	2C	16r	4ee
 .	.	.	16gLL	.
 .	.	.	16a	.
@@ -396,6 +408,7 @@
 .	.	16GJJ	.	.
 4C	.	8EL	2cc	4ee
 .	.	8CJ	.	.
+*F:	*	*F:	*F:	*F:
 4AA	6	16AALL	.	[4ff
 .	.	16BB	.	.
 .	.	16C	.	.
@@ -437,6 +450,7 @@
 .	.	.	.	16aa
 .	.	.	.	16bbnJJ
 =34	=34	=34	=34	=34
+*C:	*	*C:	*C:	*C:
 4E	6	4E	4cc	8cccL
 .	.	.	.	8ggJ
 4A	.	4A	16r	[4ccc
@@ -461,6 +475,7 @@
 .	.	.	.	16b
 .	.	.	.	16ccJJ
 =36	=36	=36	=36	=36
+*G:	*	*G:	*G:	*G:
 2D	4	2D	4.gg	8ddL
 .	.	.	.	8b
 .	.	.	.	8cc
@@ -472,6 +487,7 @@
 .	.	.	16cc	16a
 .	.	.	16ddJJ	16bJJ
 =37	=37	=37	=37	=37
+*C:	*	*C:	*C:	*C:
 4C	.	4C	4.ee	8ccL
 .	.	.	.	8gJ
 16r	.	16r	.	[4cc
