@@ -102,6 +102,40 @@ op01n03d:
     - [95/1, 95/3, [semplice]]
     - [97/1, 97/3, [semplice]]
 
+op01n04a:
+    - [3/2, 3/3, [Cantizans]]
+    - [5/1, 5/3, [Phrygischer Halbschluss]]
+    - [10/1, 11/1, [Composta, quasi-doppia]]
+    - [13/1, 13/3, []]
+    - [15/1, 16/1, [Doppia]]
+    - [19/1, 19/3, [Halbschluss]]
+op01n04b:
+    - [8/1, 8/3, [Phrygische Halbschluss]]
+    - [11/1, 12/1, [Doppia]]
+op01n04c:
+    - [3/2+1/2, 3/3, []]
+    - [4/3, 5/1, [Composta]]
+    - [6/1, 6/3, [Phrygische Halbschluss]]
+    - [7/1, 7/3, [Doppia]]
+    - [8/3, 9/3, [Doppia]]
+    - [13/1, 13/3, [Doppia]]
+    - [15/3, 16/1, [Doppia im Bass?!]]
+    - [19/1, 20/1, [Doppia]]
+    - [21/3, 22/3, [Doppia]]
+    - [24/1, 25/1, [Doppia]]
+    - [27/1, 28/1, [Doppia]]
+op01n04d:
+    - [7/1, 7/3, [Phrygischer Halbschluss]]
+    - [11/1, 11/3, [Phrygischer Halbschluss]]
+    - [14/1, 14/3, [Composta]]
+    - [17/3, 18/3, [Doppia]]
+    - [19/1, 20/1, [Doppia]]
+    - [25/1, 25/3, [Composta]]
+    - [30/3, 31/1, [Cantizans]]
+    - [32/3, 33/3, [Doppia]]
+    - [35/3, 36/3, [Doppia]]
+    - [38/4, 39/1, [Phrygischer Halbschluss]]
+
 op01n06a:
     - [2/1, 2/3, [cantizans]]
     - [4/1, 4/3, [half]]

@@ -59,6 +59,26 @@ op01n03d:
     - [82/1, 84/3, [aufsteigende Sequenz]]
     - [89/1, 91/3, [aufsteigende Sequenz]]
 
+op01n04a:
+    - [11/1, 13/1, [Quintstieg]]
+    - [17/1, 17/4+3/4, [5-6 Kette]]
+op01n04b:
+    []
+op01n04c:
+    - [5/1, 6/3, [7-6 Kette, Lamento]]
+    - [9/3, 12/1, [Monte, 5-6 Konsekutive]]
+    - [16/1, 17/2+1/2, [5-6 Konsekutive]]
+    - [18/1, 19/1, [Quintfall]]
+    - [25/1, 27/1, [Quintfall, Synkopenkette]]
+op01n04d:
+    - [3/2, 6/2, [7-6 Sequenz]]
+    - [6/4, 7/3, [Lamento]]
+    - [10/1, 11/3, [Lamento]]
+    - [15/1, 17/3, [Quintfall]]
+    - [21/1, 23/1, [Terzfalltreppe]]
+    - [23/1, 25/1, [Romanesca]]
+    - [26/1, 29/1, [Terzfalltreppe]]
+
 op01n06a:
     - [2/3, 4/2, [Fauxbourdon, Synkopenkette]]
     - [8/4, 10/4, [Karussell, Synkopenkette]]
