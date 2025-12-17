@@ -24,6 +24,41 @@ op01n02c:
     - [18/3, 22/1, [Karussell]]
     - [24/1, 27/1, [7 6 Sequenz]]
 
+op01n03a:
+    - [7/2, 10/4+3/4, [Synkopenkette]]
+    - [9/1, 10/3, [Karussell-Variation]]
+    - [11/4, 15/3, [Synkopenkette]]
+op01n03b:
+    - [5/2+1/2, 6/3, [Fauxboudon, 7-6-Konsekutive, Terzfalltreppe]]
+    - [7/3, 8/3, [Fauxboudon, 7-6-Konsekutive, Terzfalltreppe]]
+    - [10/4, 11/3, [Synkopenkette]]
+    - [17/1, 18/4+1/2, [5-6-Konsekutive]]
+    - [23/1, 24/4+1/2, [5-6-Konsekutive]]
+    - [29/4+1/2, 30/3, [Fauxboudon, 7-6-Konsekutive, Terzfalltreppe]]
+    - [32/1, 33/1, [Fauxboudon, 7-6-Konsekutive, Terzfalltreppe]]
+    - [35/2, 36/4, [Synkopenkette mit Sekundakkorden]]
+    - [37/4, 40/2+1/2, [Synkopenkette, Terzfalltreppe]]
+    - [41/4+1/2, 42/3, [Fauxboudon, 7-6-Konsekutive, Terzfalltreppe]]
+    - [44/1, 45/2+1/2, [5-6-Konsekutive]]
+    - [50/4+1/2, 52/3, [Fauxboudon, 7-6-Konsekutive, Terzfalltreppe]]
+op01n03c:
+    - [2/3, 4/1, [Lamento]]
+    - [6/3, 8/1, [Lamento]]
+    - [14/3, 16/1, [Sekundakkord-Kette]]
+    - [20/1, 22/1, [Lamento]]
+    - [26/3, 33/1, [Synkopenkette]]
+op01n03d:
+    - [12/1, 14/1, [aufsteigende Sequenz, Monte]]
+    - [19/1, 21/3, [aufsteigende Sequenz]]
+    - [26/1, 29/3, [aufsteigende Sequenz]]
+    - [46/1, 50/1, [absteigende Sequenz]]
+    - [54/1, 57/1, [Lamento]]
+    - [61/1, 64/2, [5-6 Konsekutive]]
+    - [68/2, 71/2, [Synkopenkette, Terzfalltreppe]]
+    - [75/1, 78/1, [Lamento]]
+    - [82/1, 84/3, [aufsteigende Sequenz]]
+    - [89/1, 91/3, [aufsteigende Sequenz]]
+
 op01n06a:
     - [2/3, 4/2, [Fauxbourdon, Synkopenkette]]
     - [8/4, 10/4, [Karussell, Synkopenkette]]
