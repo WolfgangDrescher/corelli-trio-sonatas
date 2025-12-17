@@ -147,6 +147,23 @@ op01n06a:
     - [10/1, 10/3, [cantizans]]
     - [11/1, 11/3, [composta]]
 
+op01n07a:
+    - [3/3, 4/1, [semplice]]
+    - [5/1, 5/3, [tenorizans, semplice]]
+    - [7/1, 7/3, [semplice]]
+    - [8/2, 9/1, [TODO, sfuggita]]
+    - [11/4, 12/3, [composta]]
+    - [13/2, 14/1, [composta]]
+    - [14/4, 15/3, [TODO, sfuggita]]
+    - [20/2+1/2, 21/1, [composta]]
+    - [25/2, 26/1, [phrygian, half]]
+    - [26/4, 27/3, [composta]]
+    - [31/4, 32/3, [composta]]
+    - [32/4, 33/3, [composta]]
+    - [34/2, 35/1, [composta]]
+    - [35/4, 36/3, [composta]]
+    - [37/2, 38/1, [sfuggita, TODO]]
+    - [39/2, 40/3, [doppia]]
 op01n07b:
     - [2/2, 2/3, [half]]
     - [4/1, 5/1, [quasi-doppia, TODO]]
